@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  fetch("/epic_free_games.json") // Replace with the actual URL of your JSON file
+  fetch("/EpicFreeGamesList/epic_free_games.json") // Replace with the actual URL of your JSON file
       .then(response => response.json())
       .then(data => {
           // Initialize DataTable with the retrieved data
