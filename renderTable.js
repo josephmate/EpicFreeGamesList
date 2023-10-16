@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
               data: data,
               columns: [
                   {
+                      title: "Title",
                       data: "gameTitle",
                       render: function (data, type, row, meta) {
                           if (type === "display") {
@@ -15,7 +16,10 @@ document.addEventListener("DOMContentLoaded", function () {
                           return data;
                       }
                   },
-                  { data: "freeDate" }
+                  { 
+                    title: "Date",
+                    data: "freeDate"
+                  }
               ]
           });
       })
