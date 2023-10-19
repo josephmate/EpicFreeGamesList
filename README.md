@@ -1,9 +1,28 @@
+# Running
 
+```
+go run .\graphql_search_for_game_info.go > search.log 2>&1
+```
+
+# High Level Solution
+
+1. Start with a list of game title for free games.
+2. Use epic's graphql api to search for the url and sandboxId by using the game title (`searchStoreQuery`)
+    1. use mapping's slug if there
+    2. otherwise use productSlug with /home removed from the end
+    3. otherwise use urlSlug
+    4. manually resolve and weirdness
+3. Use epic's graphql api to get the rating using the sandboxId
+
+# Research
+
+## chromedp failure
 ```shell
 go get -u github.com/chromedp/chromedp
 ```
 chromedp was unsuccessful since cloudflare gives us a challenge which we cannot answer.
 
+## stackoverflow to the rescue
 instead I found this stack overflow
 https://stackoverflow.com/questions/75594997/is-it-possible-to-get-data-about-specific-game-from-epic-games-store
 
@@ -21,7 +40,7 @@ next step is to explore their graphql API and look for the rating some where.
 
 
 
-# Searching:
+## Searching:
 ```graphql
 query searchStoreQuery($allowCountries: String, $category: String, $count: Int, $country: String!, $keywords: String, $locale: String, $namespace: String, $itemNs: String, $sortBy: String, $sortDir: String, $start: Int, $tag: String, $releaseDate: String, $withPrice: Boolean = false, $withPromotions: Boolean = false, $priceRange: String, $freeGame: Boolean, $onSale: Boolean, $effectiveDate: String) {
   Catalog {
@@ -145,7 +164,7 @@ query searchStoreQuery($allowCountries: String, $category: String, $count: Int, 
 ```
 https://github.com/Tectors/EpicGraphQL/blob/main/docs/graphql/catalog/searchStoreQuery.graphql
 
-## Search for useful info like id, url:
+### Search for useful info like id, url:
 ```
 https://graphql.epicgames.com/graphql?query=query  searchStoreQuery($allowCountries: String, $category: String, $locale: String, $namespace: String, $itemNs: String, $sortBy: String, $sortDir: String, $start: Int, $tag: String, $releaseDate: String, $priceRange: String, $freeGame: Boolean, $onSale: Boolean, $effectiveDate: String) {
   Catalog {
@@ -452,7 +471,15 @@ data.Catalog.searchStore.elements[0].catalogNs.mappings[0].pageSlug
 
 As a result, I'm going to use `data.Catalog.searchStore.elements[0].catalogNs.mappings[0].pageSlug` for getting the url.
 
-# product review
+After writing some code and testing,
+
+sometimes we have `data.Catalog.searchStore.elements[0].catalogNs.mappings[0].pageSlug`
+
+sometimes we have `data.Catalog.searchStore.elements[0].urlSlug`
+
+sometimes we have both
+
+## product review
 ```graphql
 query productReviewsQuery($sku: String!) {
     OpenCritic {
