@@ -6,7 +6,7 @@
     "gameTitle": "Subnautica",
     "mappingSlug": "subnautica",
     "productSlug": "subnautica",
-    "sandboxId": "foxglove",
+    "sandboxId": "TODO",
     "urlSlug": "subnautica"
   },
   {
@@ -16,7 +16,7 @@
     "gameTitle": "Super Meat Boy",
     "mappingSlug": "TODO",
     "productSlug": "super-meat-boy",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "super-meat-boy"
   },
   {
@@ -26,7 +26,7 @@
     "gameTitle": "What Remains of Edith Finch",
     "mappingSlug": "what-remains-of-edith-finch",
     "productSlug": "what-remains-of-edith-finch/home",
-    "sandboxId": "badger",
+    "sandboxId": "TODO",
     "urlSlug": "badger"
   },
   {
@@ -36,7 +36,7 @@
     "gameTitle": "The Jackbox Party Pack",
     "mappingSlug": "TODO",
     "productSlug": "jackbox-party-pack-1/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "jackbox-party-pack-1"
   },
   {
@@ -56,7 +56,7 @@
     "gameTitle": "Thimbleweed Park",
     "mappingSlug": "thimbleweed-park",
     "productSlug": "thimbleweed-park/delores",
-    "sandboxId": "tulip",
+    "sandboxId": "TODO",
     "urlSlug": "deloresgeneralaudience"
   },
   {
@@ -76,7 +76,7 @@
     "gameTitle": "Oxenfree",
     "mappingSlug": "TODO",
     "productSlug": "oxenfree/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "hibiscus"
   },
   {
@@ -86,7 +86,7 @@
     "gameTitle": "The Witness",
     "mappingSlug": "TODO",
     "productSlug": "the-witness/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "the-witness"
   },
   {
@@ -106,7 +106,7 @@
     "gameTitle": "World of Goo",
     "mappingSlug": "TODO",
     "productSlug": "world-of-goo/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "world-of-goo"
   },
   {
@@ -116,7 +116,7 @@
     "gameTitle": "Stories Untold",
     "mappingSlug": "TODO",
     "productSlug": "stories-untold/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "stories-untold"
   },
   {
@@ -126,7 +126,7 @@
     "gameTitle": "RiME",
     "mappingSlug": "TODO",
     "productSlug": "rime/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "rime"
   },
   {
@@ -136,7 +136,7 @@
     "gameTitle": "City of Brass",
     "mappingSlug": "TODO",
     "productSlug": "city-of-brass/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "arrowroot"
   },
   {
@@ -146,7 +146,7 @@
     "gameTitle": "Kingdom New Lands",
     "mappingSlug": "TODO",
     "productSlug": "kingdom-new-lands/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "kingdom-new-lands"
   },
   {
@@ -156,7 +156,7 @@
     "gameTitle": "Enter the Gungeon",
     "mappingSlug": "TODO",
     "productSlug": "enter-the-gungeon/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "enter-the-gungeon"
   },
   {
@@ -166,7 +166,7 @@
     "gameTitle": "Rebel Galaxy",
     "mappingSlug": "rebel-galaxy",
     "productSlug": "",
-    "sandboxId": "marmoset",
+    "sandboxId": "TODO",
     "urlSlug": "rebel-galaxy"
   },
   {
@@ -236,7 +236,7 @@
     "gameTitle": "For Honor",
     "mappingSlug": "for-honor",
     "productSlug": "",
-    "sandboxId": "sundrop",
+    "sandboxId": "TODO",
     "urlSlug": "for-honor--medjay-hero"
   },
   {
@@ -246,7 +246,7 @@
     "gameTitle": "Alan Wake",
     "mappingSlug": "TODO",
     "productSlug": "alan-wake",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "alan-wake"
   },
   {
@@ -286,7 +286,7 @@
     "gameTitle": "Fez",
     "mappingSlug": "TODO",
     "productSlug": "fez/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "fez"
   },
   {
@@ -356,7 +356,7 @@
     "gameTitle": "LEGO Batman 3: Beyond Gotham",
     "mappingSlug": "TODO",
     "productSlug": "lego-batman-3/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "lego-batman-3-beyond-gotham"
   },
   {
@@ -366,7 +366,7 @@
     "gameTitle": "LEGO Batman 2: DC Super Heroes",
     "mappingSlug": "TODO",
     "productSlug": "lego-batman-2/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "lego-batman-2-dc-super-heroes"
   },
   {
@@ -397,7 +397,7 @@
     "mappingSlug": "batman-arkham-asylum",
     "productSlug": "batman-arkham-asylum/home",
     "sandboxId": "5f7c811695f14b8fa3a8e1ea35713d23",
-    "urlSlug": "godwitgeneralaudience"
+    "urlSlug": "TODO"
   },
   {
     "epicId": "09efa4c5d30a411eb012f881802f8453",
@@ -406,8 +406,8 @@
     "gameTitle": "Metro 2033 Redux",
     "mappingSlug": "TODO",
     "productSlug": "metro-2033-redux/home",
-    "sandboxId": "epic",
-    "urlSlug": "petunia"
+    "sandboxId": "TODO",
+    "urlSlug": "TODO"
   },
   {
     "epicId": "ca25cd054b29435c8e6e3794a27acbb2",
@@ -416,7 +416,7 @@
     "gameTitle": "Everything",
     "mappingSlug": "TODO",
     "productSlug": "everything/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "everything"
   },
   {
@@ -427,7 +427,7 @@
     "mappingSlug": "minit",
     "productSlug": "minit/home",
     "sandboxId": "43605e89e49d438485298819a7ef17b4",
-    "urlSlug": "petrelgeneralaudience"
+    "urlSlug": "TODO"
   },
   {
     "epicId": "74caac20698040f1b56991fb9fb942d5",
@@ -447,7 +447,7 @@
     "mappingSlug": "observer-system-redux",
     "productSlug": "observer-system-redux/home",
     "sandboxId": "71e66acf6bb34733bd98514ebf9fcaf8",
-    "urlSlug": "aquariuslaunchaudience"
+    "urlSlug": "TODO"
   },
   {
     "epicId": "f5620c67c34c429b95fb5e1ce5aee82b",
@@ -456,7 +456,7 @@
     "gameTitle": "Alan Wake's American Nightmare",
     "mappingSlug": "TODO",
     "productSlug": "alan-wake-american-nightmare/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "alan-wake-american-nightmare"
   },
   {
@@ -466,7 +466,7 @@
     "gameTitle": "Q.U.B.E. 2",
     "mappingSlug": "TODO",
     "productSlug": "q-u-b-e-2/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "q-u-b-e"
   },
   {
@@ -486,7 +486,7 @@
     "gameTitle": "Soma",
     "mappingSlug": "TODO",
     "productSlug": "soma/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "soma"
   },
   {
@@ -496,7 +496,7 @@
     "gameTitle": "Costume Quest",
     "mappingSlug": "TODO",
     "productSlug": "costume-quest/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "costume-quest"
   },
   {
@@ -516,7 +516,7 @@
     "gameTitle": "Nuclear Throne",
     "mappingSlug": "TODO",
     "productSlug": "nuclear-throne/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "nuclear-throne"
   },
   {
@@ -526,7 +526,7 @@
     "gameTitle": "The Messenger",
     "mappingSlug": "TODO",
     "productSlug": "the-messenger/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "the-messenger"
   },
   {
@@ -546,7 +546,7 @@
     "gameTitle": "Rayman Legends",
     "mappingSlug": "TODO",
     "productSlug": "rayman-legends/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "rayman-legends"
   },
   {
@@ -566,7 +566,7 @@
     "gameTitle": "The Wolf Among Us",
     "mappingSlug": "TODO",
     "productSlug": "the-wolf-among-us/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "the-wolf-among-us"
   },
   {
@@ -576,7 +576,7 @@
     "gameTitle": "The Escapists",
     "mappingSlug": "TODO",
     "productSlug": "the-escapists/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "the-escapists"
   },
   {
@@ -586,7 +586,7 @@
     "gameTitle": "Into the Breach",
     "mappingSlug": "TODO",
     "productSlug": "into-the-breach/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "into-the-breach"
   },
   {
@@ -596,7 +596,7 @@
     "gameTitle": "TowerFall Ascension",
     "mappingSlug": "TODO",
     "productSlug": "towerfall-ascension/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "towerfall-ascension"
   },
   {
@@ -626,7 +626,7 @@
     "gameTitle": "Ape Out",
     "mappingSlug": "TODO",
     "productSlug": "ape-out/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "ape-out"
   },
   {
@@ -646,7 +646,7 @@
     "gameTitle": "Totally Accurate Battle Simulator",
     "mappingSlug": "TODO",
     "productSlug": "totally-accurate-battle-simulator/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "totally-accurate-battle-simulator"
   },
   {
@@ -726,7 +726,7 @@
     "gameTitle": "Darksiders: Warmastered Edition",
     "mappingSlug": "TODO",
     "productSlug": "darksiders/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "darksiders-warmastered-edition"
   },
   {
@@ -736,7 +736,7 @@
     "gameTitle": "Darksiders II: Deathinitive Edition",
     "mappingSlug": "TODO",
     "productSlug": "darksiders2/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "darksiders-ii-deathinitive-edition"
   },
   {
@@ -746,7 +746,7 @@
     "gameTitle": "Sundered: Eldritch Edition",
     "mappingSlug": "TODO",
     "productSlug": "sundered-eldritch-edition/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "sundered-eldritch-edition"
   },
   {
@@ -786,7 +786,7 @@
     "gameTitle": "Ticket to Ride",
     "mappingSlug": "TODO",
     "productSlug": "ticket-to-ride/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "ticket-to-ride"
   },
   {
@@ -836,7 +836,7 @@
     "gameTitle": "Assassin's Creed Syndicate",
     "mappingSlug": "TODO",
     "productSlug": "assassins-creed-syndicate/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "assassin-s-creed-syndicate"
   },
   {
@@ -846,7 +846,7 @@
     "gameTitle": "InnerSpace",
     "mappingSlug": "TODO",
     "productSlug": "innerspace/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "almond"
   },
   {
@@ -886,7 +886,7 @@
     "gameTitle": "Anodyne 2: Return to Dust",
     "mappingSlug": "TODO",
     "productSlug": "anodyne-2-return-to-dust/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "anodyne-2-return-to-dust"
   },
   {
@@ -896,7 +896,7 @@
     "gameTitle": "A Short Hike",
     "mappingSlug": "TODO",
     "productSlug": "a-short-hike/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "a-short-hike"
   },
   {
@@ -966,7 +966,7 @@
     "gameTitle": "Hob",
     "mappingSlug": "TODO",
     "productSlug": "hob/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "hob"
   },
   {
@@ -986,7 +986,7 @@
     "gameTitle": "Drawful 2",
     "mappingSlug": "drawful-2",
     "productSlug": "drawful-2",
-    "sandboxId": "daisy",
+    "sandboxId": "TODO",
     "urlSlug": "drawful-2"
   },
   {
@@ -1006,7 +1006,7 @@
     "gameTitle": "Close to the Sun",
     "mappingSlug": "TODO",
     "productSlug": "close-to-the-sun/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "silene"
   },
   {
@@ -1016,7 +1016,7 @@
     "gameTitle": "Wheels of Aurelia",
     "mappingSlug": "TODO",
     "productSlug": "wheels-of-aurelia/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "saturnalia-01"
   },
   {
@@ -1036,7 +1036,7 @@
     "gameTitle": "For the King",
     "mappingSlug": "TODO",
     "productSlug": "for-the-king/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "for-the-king"
   },
   {
@@ -1326,7 +1326,7 @@
     "gameTitle": "Enter the Gungeon",
     "mappingSlug": "TODO",
     "productSlug": "enter-the-gungeon/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "enter-the-gungeon"
   },
   {
@@ -1356,7 +1356,7 @@
     "gameTitle": "Into the Breach",
     "mappingSlug": "TODO",
     "productSlug": "into-the-breach/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "into-the-breach"
   },
   {
@@ -1386,7 +1386,7 @@
     "gameTitle": "Watch Dogs 2",
     "mappingSlug": "TODO",
     "productSlug": "watch-dogs-2/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "watchdogs2"
   },
   {
@@ -1456,7 +1456,7 @@
     "gameTitle": "Kingdom: New Lands",
     "mappingSlug": "TODO",
     "productSlug": "kingdom-new-lands/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "kingdom-new-lands"
   },
   {
@@ -1646,7 +1646,7 @@
     "gameTitle": "Metro 2033 Redux",
     "mappingSlug": "TODO",
     "productSlug": "metro-2033-redux/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "petunia"
   },
   {
@@ -1686,7 +1686,7 @@
     "gameTitle": "My Time at Portia",
     "mappingSlug": "my-time-at-portia",
     "productSlug": "",
-    "sandboxId": "cobra",
+    "sandboxId": "TODO",
     "urlSlug": "my-time-at-portia-support-a-creator"
   },
   {
@@ -1786,7 +1786,7 @@
     "gameTitle": "Metro: Last Light Redux",
     "mappingSlug": "TODO",
     "productSlug": "metro-last-light-redux",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "speedwell"
   },
   {
@@ -1796,7 +1796,7 @@
     "gameTitle": "For the King",
     "mappingSlug": "TODO",
     "productSlug": "for-the-king/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "for-the-king"
   },
   {
@@ -2026,7 +2026,7 @@
     "gameTitle": "Control",
     "mappingSlug": "control",
     "productSlug": "control",
-    "sandboxId": "calluna",
+    "sandboxId": "TODO",
     "urlSlug": "control"
   },
   {
@@ -2186,7 +2186,7 @@
     "gameTitle": "Rebel Galaxy",
     "mappingSlug": "rebel-galaxy-outlaw",
     "productSlug": "",
-    "sandboxId": "marmoset",
+    "sandboxId": "TODO",
     "urlSlug": "rebel-galaxy-outlaw-press-audience"
   },
   {
@@ -2286,7 +2286,7 @@
     "gameTitle": "The Escapists",
     "mappingSlug": "TODO",
     "productSlug": "the-escapists/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "the-escapists"
   },
   {
@@ -2476,7 +2476,7 @@
     "gameTitle": "Shenmue III",
     "mappingSlug": "TODO",
     "productSlug": "shenmue-3/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "shenmue-ii"
   },
   {
@@ -2546,7 +2546,7 @@
     "gameTitle": "Vampyr",
     "mappingSlug": "TODO",
     "productSlug": "vampyr",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "vampyr"
   },
   {
@@ -2576,7 +2576,7 @@
     "gameTitle": "Control",
     "mappingSlug": "control",
     "productSlug": "control",
-    "sandboxId": "calluna",
+    "sandboxId": "TODO",
     "urlSlug": "control"
   },
   {
@@ -2796,7 +2796,7 @@
     "gameTitle": "City of Brass",
     "mappingSlug": "TODO",
     "productSlug": "city-of-brass/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "arrowroot"
   },
   {
@@ -2976,7 +2976,7 @@
     "gameTitle": "Maneater",
     "mappingSlug": "maneater",
     "productSlug": "maneater",
-    "sandboxId": "turtle",
+    "sandboxId": "TODO",
     "urlSlug": "maneater"
   },
   {
@@ -3023,7 +3023,7 @@
     "epicId": "b3eaf3bce6c74867a4fbd7ebc43b4f12",
     "epicStoreLink": "https://store.epicgames.com/en-US/p/hood-outlaws-and-legends",
     "freeDate": "2022-06-30",
-    "gameTitle": "Hood: Outlaws \u0026 Legends",
+    "gameTitle": "Hood: Outlaws & Legends",
     "mappingSlug": "hood-outlaws-and-legends",
     "productSlug": "",
     "sandboxId": "5a2108f4db804040aaf44d139bd21bd1",
@@ -3293,7 +3293,7 @@
     "epicId": "db9725548f40419cac7d1c10f94c0736",
     "epicStoreLink": "https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16",
     "freeDate": "2022-10-13",
-    "gameTitle": "ToeJam \u0026 Earl: Back in the Groove!",
+    "gameTitle": "ToeJam & Earl: Back in the Groove!",
     "mappingSlug": "toejam-and-earl-back-in-the-groove-cddc16",
     "productSlug": "",
     "sandboxId": "bd1047eb76fd4fd490fcb8f668e5deda",
@@ -3556,7 +3556,7 @@
     "gameTitle": "Metro Last Light Redux",
     "mappingSlug": "TODO",
     "productSlug": "metro-last-light-redux",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "speedwell"
   },
   {
@@ -3566,7 +3566,7 @@
     "gameTitle": "Death Stranding",
     "mappingSlug": "TODO",
     "productSlug": "death-stranding/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "death-stranding"
   },
   {
@@ -3936,7 +3936,7 @@
     "gameTitle": "Death Stranding",
     "mappingSlug": "TODO",
     "productSlug": "death-stranding/home",
-    "sandboxId": "epic",
+    "sandboxId": "TODO",
     "urlSlug": "death-stranding"
   },
   {
