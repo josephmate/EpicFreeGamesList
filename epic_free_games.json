@@ -160,14 +160,14 @@
     "urlSlug": "enter-the-gungeon"
   },
   {
-    "epicId": "4b255c2822474998859a6973c653d73f",
+    "epicId": "73f7ee3f9e5540ff963573b9c3b08744",
     "epicStoreLink": "https://store.epicgames.com/en-US/p/rebel-galaxy",
     "freeDate": "2019-06-20",
     "gameTitle": "Rebel Galaxy",
     "mappingSlug": "rebel-galaxy",
-    "productSlug": "",
-    "sandboxId": "TODO",
-    "urlSlug": "rebel-galaxy"
+    "productSlug": "rebel-galaxy/home",
+    "sandboxId": "weaver",
+    "urlSlug": "weavergeneralaudience"
   },
   {
     "epicId": "3f9b7d87d6ea4ac1bb26d49683bd7064",
@@ -993,7 +993,7 @@
     "epicId": "afadb715390a4593acdca79dae94b60a",
     "epicStoreLink": "https://store.epicgames.com/en-US/p/sherlock-holmes-crimes-and-punishments",
     "freeDate": "2020-04-09",
-    "gameTitle": "Sherlock Holmes: Crimes \u0026 Punishments",
+    "gameTitle": "Sherlock Holmes: Crimes & Punishments",
     "mappingSlug": "sherlock-holmes-crimes-and-punishments",
     "productSlug": "sherlock-holmes-crimes-and-punishments/home",
     "sandboxId": "23f3da2016b94461a7bd7e2eb46aa0f9",
@@ -1243,7 +1243,7 @@
     "epicId": "a8b9cb3f7f0143bc9366ec7695f7876c",
     "epicStoreLink": "https://store.epicgames.com/en-US/p/superbrothers-sword-and-sworcery-ep",
     "freeDate": "2020-07-30",
-    "gameTitle": "Superbrothers: Sword \u0026 Sworcery EP",
+    "gameTitle": "Superbrothers: Sword & Sworcery EP",
     "mappingSlug": "superbrothers-sword-and-sworcery-ep",
     "productSlug": "superbrothers-sword-and-sworcery-ep",
     "sandboxId": "1109b87f323946e5b7883d724e6a22ba",
@@ -1860,14 +1860,14 @@
     "urlSlug": "surviving-mars--starter-bundle"
   },
   {
-    "epicId": "191c05b719474e2fb2f68ff545312b94",
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-fall-part-2-unbound",
+    "epicId": "TODO",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-fall",
     "freeDate": "2021-03-18",
     "gameTitle": "The Fall",
-    "mappingSlug": "the-fall-part-2-unbound",
-    "productSlug": "the-fall-part-2-unbound",
-    "sandboxId": "6da57ad658b146ca8caf15b3434c836e",
-    "urlSlug": "fettuccinegeneralaudience"
+    "mappingSlug": "the-fall",
+    "productSlug": "the-fall",
+    "sandboxId": "TODO",
+    "urlSlug": "the-fall"
   },
   {
     "epicId": "000f9a594ed44b3981272946d330d968",
@@ -1981,33 +1981,33 @@
   },
   {
     "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/nba-2k21",
     "freeDate": "2021-05-20",
     "gameTitle": "NBA 2K21",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
+    "mappingSlug": "nba-2k21",
+    "productSlug": "nba-2k21",
     "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "urlSlug": "nba-2k21"
   },
   {
-    "epicId": "3eae43ef8abc40319603a439326fd2eb",
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-wolf-among-us-2",
+    "epicId": "TODO",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/among-us",
     "freeDate": "2021-05-27",
     "gameTitle": "Among Us",
-    "mappingSlug": "the-wolf-among-us-2",
-    "productSlug": "the- wolf-among-us-2",
-    "sandboxId": "97590ba7ef144232b14093375c468032",
-    "urlSlug": "the-wolf-among-us-2"
+    "mappingSlug": "among-us",
+    "productSlug": "among-us",
+    "sandboxId": "TODO",
+    "urlSlug": "among-us"
   },
   {
-    "epicId": "4f7cefeebf4d4804be3007283abe4895",
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/frostpunk-2",
+    "epicId": "1d43b9f055f846f38413d036f0cc2a04",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/frostpunk",
     "freeDate": "2021-06-03",
     "gameTitle": "Frostpunk",
-    "mappingSlug": "frostpunk-2",
-    "productSlug": "frostpunk-2",
-    "sandboxId": "32bc7c6aaecd40eeb5f58bb83dba1c05",
-    "urlSlug": "frostpunk-2"
+    "mappingSlug": "frostpunk",
+    "productSlug": "frostpunk",
+    "sandboxId": "be886d9db65047a89b24cd4317695f18",
+    "urlSlug": "frostpunk"
   },
   {
     "epicId": "acc319019e974ec9a4af28530141d888",
@@ -2180,14 +2180,14 @@
     "urlSlug": "a-plague-tale-innocence--coats-of-arms"
   },
   {
-    "epicId": "4b255c2822474998859a6973c653d73f",
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/rebel-galaxy-outlaw",
+    "epicId": "73f7ee3f9e5540ff963573b9c3b08744",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rebel-galaxy",
     "freeDate": "2021-08-12",
     "gameTitle": "Rebel Galaxy",
-    "mappingSlug": "rebel-galaxy-outlaw",
-    "productSlug": "",
-    "sandboxId": "TODO",
-    "urlSlug": "rebel-galaxy-outlaw-press-audience"
+    "mappingSlug": "rebel-galaxy",
+    "productSlug": "rebel-galaxy/home",
+    "sandboxId": "weaver",
+    "urlSlug": "weavergeneralaudience"
   },
   {
     "epicId": "03d4680cc79a4030b40e2d7c6bdacbaf",
@@ -2220,16 +2220,6 @@
     "urlSlug": "automachef"
   },
   {
-    "epicId": "c57ffe9b84324710845173de8a887feb",
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/automachef",
-    "freeDate": "2021-08-26",
-    "gameTitle": "Automachef",
-    "mappingSlug": "automachef",
-    "productSlug": "automachef",
-    "sandboxId": "75ec0c7498894d1a99a5c8f02f3e4c55",
-    "urlSlug": "automachef"
-  },
-  {
     "epicId": "f28ce458986e4f8dbbf67be5d0ac41e6",
     "epicStoreLink": "https://store.epicgames.com/en-US/p/yokus-island-express",
     "freeDate": "2021-09-02",
@@ -2238,16 +2228,6 @@
     "productSlug": "yokus-island-express",
     "sandboxId": "54399b3ef40d4c568e5904607470ffe9",
     "urlSlug": "yokus-island-express"
-  },
-  {
-    "epicId": "011ab6d40b80485bb23fbef4362aceb2",
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/sheltered",
-    "freeDate": "2021-09-09",
-    "gameTitle": "Sheltered",
-    "mappingSlug": "sheltered",
-    "productSlug": "sheltered",
-    "sandboxId": "3b550d92911244558770b68c5a812a5d",
-    "urlSlug": "sheltered"
   },
   {
     "epicId": "011ab6d40b80485bb23fbef4362aceb2",
@@ -2370,14 +2350,14 @@
     "urlSlug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "3018c3f67f9b4982b87905293a3f4447",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rogue-company",
     "freeDate": "2021-11-11",
     "gameTitle": "Rogue Company Season Four Epic Pack",
     "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "productSlug": "rogue-company/home",
+    "sandboxId": "epic",
+    "urlSlug": "rogue-company"
   },
   {
     "epicId": "0cd43717a2224f33bb9a95f01d303474",
@@ -2421,13 +2401,13 @@
   },
   {
     "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/antstream-arcade--epic-welcome-pack",
     "freeDate": "2021-11-25",
     "gameTitle": "Antstream Epic Welcome Pack",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
+    "mappingSlug": "antstream-arcade--epic-welcome-pack",
+    "productSlug": "antstream-arcade--epic-welcome-pack",
     "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "urlSlug": "antstream-arcade--epic-welcome-pack"
   },
   {
     "epicId": "154108003e4e4f099634188deb9a01b8",
@@ -2521,13 +2501,13 @@
   },
   {
     "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/second-extinction",
     "freeDate": "2021-12-21",
     "gameTitle": "Second Extinction",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
+    "mappingSlug": "second-extinction",
+    "productSlug": "second-extinction",
     "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "urlSlug": "second-extinction"
   },
   {
     "epicId": "9651fd57c8a34e81949aab28a084ced7",
@@ -2720,14 +2700,14 @@
     "urlSlug": "cris-tales--original-soundtrack"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "e953741dce9345329d8f11902de3b700",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dauntless",
     "freeDate": "2022-03-03",
     "gameTitle": "Dauntless Epic Slayer Kit",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "mappingSlug": "dauntless",
+    "productSlug": "",
+    "sandboxId": "jackal",
+    "urlSlug": "jackalplaytest-audience"
   },
   {
     "epicId": "b44a2808223f4cd0a8ca1376410b5460",
@@ -2780,14 +2760,14 @@
     "urlSlug": "demons-tilt--collector-pack"
   },
   {
-    "epicId": "6cc2094bdfd54f3d8dd347a884f2eaf7",
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/total-war-warhammer-3",
+    "epicId": "TODO",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/total-war-warhammer",
     "freeDate": "2022-03-31",
     "gameTitle": "Total War: Warhammer",
-    "mappingSlug": "total-war-warhammer-3",
-    "productSlug": "",
-    "sandboxId": "dda64c2956b54f1ba3cd97f6aaee775f",
-    "urlSlug": "total-war-warhammer-3--forge-of-the-chaos-dwarfs"
+    "mappingSlug": "total-war-warhammer",
+    "productSlug": "total-war-warhammer",
+    "sandboxId": "TODO",
+    "urlSlug": "total-war-warhammer"
   },
   {
     "epicId": "b8c9b6788e4b4794b2b537076c2ced9d",
@@ -2810,14 +2790,14 @@
     "urlSlug": "the-vanishing-of-ethan-carter"
   },
   {
-    "epicId": "e343cee48e8e4cca80b0ae3d228342aa",
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/rogue-legacy-2",
+    "epicId": "cc8ecf10eb654f93bd1a61a466be2584",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rogue-legacy",
     "freeDate": "2022-04-07",
     "gameTitle": "Rogue Legacy",
-    "mappingSlug": "rogue-legacy-2",
-    "productSlug": "rogue-legacy-2",
-    "sandboxId": "4966d5da285c4f2c876937844b0e23ee",
-    "urlSlug": "rogue-legacy-2"
+    "mappingSlug": "rogue-legacy",
+    "productSlug": "rogue-legacy",
+    "sandboxId": "66ce501aea0a424cb80cfe5f31f80f03",
+    "urlSlug": "rogue-legacy"
   },
   {
     "epicId": "84ce9926a2d04c06b9b8e99ae09d964c",
@@ -3060,24 +3040,24 @@
     "urlSlug": "ancientenemy-general-audience"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "bd18a76d848946b0ac5f5c692c8b4757",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/wonder-boy-the-dragons-trap-26381d",
     "freeDate": "2022-07-14",
     "gameTitle": "Wonder Boy: The Dragon's Trap",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "mappingSlug": "wonder-boy-the-dragons-trap-26381d",
+    "productSlug": "",
+    "sandboxId": "e1e92771f6774072bb1b8d0a0a6197f7",
+    "urlSlug": "486c4f8c133c4930a295ecffe84a80d4"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "d5969f9e9d5c487bb6943f189bf3a7cb",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
     "freeDate": "2022-07-14",
     "gameTitle": "Idle Champions of the Forgotten Realms - Baeloth's Gladiators of the Black Pits Pack",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "mappingSlug": "idle-champions-of-the-forgotten-realms",
+    "productSlug": "",
+    "sandboxId": "7e508f543b05465abe3a935960eb70ac",
+    "urlSlug": "idlechampionsseasonpassplus"
   },
   {
     "epicId": "6c539a4779c84a98ad5b96f883ecb3c8",
@@ -3090,14 +3070,14 @@
     "urlSlug": "tannenberg--supporter-edition"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "89a60cbd5e6c4cea9af4c7346df3f633",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/shop-titans-d95c1c",
     "freeDate": "2022-07-21",
     "gameTitle": "Shop Titans - Exclusive Giveaway Package",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "mappingSlug": "shop-titans-d95c1c",
+    "productSlug": "",
+    "sandboxId": "9696e0c7c26841789a152588c744d506",
+    "urlSlug": "28c7a815765e4b39add29d4f3bdac7a6"
   },
   {
     "epicId": "7d849437da4547399baa3758cb7ec580",
@@ -3181,23 +3161,23 @@
   },
   {
     "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/knockout-city--beta",
     "freeDate": "2022-09-01",
     "gameTitle": "Knockout City - Armazillo DLC Pack",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
+    "mappingSlug": "knockout-city--beta",
+    "productSlug": "knockout-city--beta",
     "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "urlSlug": "knockout-city--beta"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "d00f6378063449858b61c68fae11e4c0",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/realm-royale-reforged",
     "freeDate": "2022-09-08",
     "gameTitle": "Realm Royale Reforged Epic Launch Bundle",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "mappingSlug": "realm-royale-reforged",
+    "productSlug": "realm-royale-reforged",
+    "sandboxId": "5fcf6f3031c547f789e29c18b422ca67",
+    "urlSlug": "realm-royale-reforged"
   },
   {
     "epicId": "141eee80fbe041d48e16e7b998829295",
@@ -3330,14 +3310,14 @@
     "urlSlug": "224c60bb93864e1c8a1900bcf7d661dd"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "57c10206b74e417d86a80abadc30d18d",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71",
     "freeDate": "2022-10-27",
-    "gameTitle": "Warhammer 40,000: Mechanicus - Std Ed",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "gameTitle": "Warhammer 40,000: Mechanicus",
+    "mappingSlug": "warhammer-mechanicus-0e4b71",
+    "productSlug": "",
+    "sandboxId": "144f9e231e2846d1a4381d9bb678f69d",
+    "urlSlug": "warhammer-40-000-mechanicus-heretek"
   },
   {
     "epicId": "e9fc7e48ea0946248ab628d96de79140",
@@ -3530,14 +3510,34 @@
     "urlSlug": "lego-builders-journey"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "f7eb422464774537915ee423ca84a59a",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/fallout-2",
     "freeDate": "2022-12-22",
-    "gameTitle": "Fallout Classic Collection",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "gameTitle": "Fallout 2: A Post Nuclear Role Playing Game",
+    "mappingSlug": "fallout-2",
+    "productSlug": "fallout-2",
+    "sandboxId": "aae22da1fb884fa395b25bc30dd61faf",
+    "urlSlug": "fallout-2"
+  },
+  {
+    "epicId": "550b1ad4adcc414a966d459587bcdb30",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/fallout-tactics-brotherhood-of-steel",
+    "freeDate": "2022-12-22",
+    "gameTitle": "Fallout Tactics: Brotherhood of Steel",
+    "mappingSlug": "fallout-tactics-brotherhood-of-steel",
+    "productSlug": "fallout-tactics-brotherhood-of-steel",
+    "sandboxId": "b90be973f6e74975ac1a6ff15dbfd0b3",
+    "urlSlug": "fallout-tactics-brotherhood-of-steel"
+  },
+  {
+    "epicId": "ed7dba6b05354eeca6e2bc130ceffaf3",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/fallout",
+    "freeDate": "2022-12-22",
+    "gameTitle": "Fallout: A Post Nuclear Role Playing Game",
+    "mappingSlug": "fallout",
+    "productSlug": "fallout",
+    "sandboxId": "2e412cfcbd954e7180930e9784a47e18",
+    "urlSlug": "fallout"
   },
   {
     "epicId": "53181b9353444bfba05e9475cd274d3d",
@@ -3570,14 +3570,14 @@
     "urlSlug": "death-stranding"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "6e708b1e608f446eaa80488d26b7444b",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/fist-forged-in-shadow-torch",
     "freeDate": "2022-12-26",
     "gameTitle": "F.I.S.T.: Forged In S. Torch",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "mappingSlug": "fist-forged-in-shadow-torch",
+    "productSlug": "fist-forged-in-shadow-torch",
+    "sandboxId": "a7e2a2c51b9149c097b771926ed91877",
+    "urlSlug": "fist-forged-in-shadow-torch"
   },
   {
     "epicId": "d49e6e2ef99443fb9bc3176055a65be1",
@@ -3630,14 +3630,14 @@
     "urlSlug": "shadow-tactics-aiko-s-choice-soundtrack"
   },
   {
-    "epicId": "d4bec928bf1344e5b6990134f8989121",
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/kerbal-space-program-2",
+    "epicId": "e51eaae288a04c36ae8c35d5e5ee6285",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/kerbal-space-program",
     "freeDate": "2023-01-05",
-    "gameTitle": "Kerbal Space Program",
-    "mappingSlug": "kerbal-space-program-2",
-    "productSlug": "kerbal-space-program-2",
-    "sandboxId": "038295c445bb40d1b06545fd75741af1",
-    "urlSlug": "kerbal-space-program-2"
+    "gameTitle": "Kerbal Space Program 1",
+    "mappingSlug": "kerbal-space-program",
+    "productSlug": "",
+    "sandboxId": "ca0530b485754032be50cb6f27be0c2c",
+    "urlSlug": "kerbal-space-program--breaking-ground-expansion"
   },
   {
     "epicId": "bb6f6212c3ca49b9b1c370ef2611b399",
@@ -3830,24 +3830,24 @@
     "urlSlug": "0d8113dcbf694d3a80870fa4a05fb06d"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "1126e6bcac0549b0bda00be4a1f69327",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dying-light",
     "freeDate": "2023-04-06",
-    "gameTitle": "Dying Light: The Following - Enhanced Edition",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "gameTitle": "Dying Light Enhanced Edition",
+    "mappingSlug": "dying-light",
+    "productSlug": "dying-light",
+    "sandboxId": "2c42520d342a46d7a6e0cfa77b4715de",
+    "urlSlug": "dying-light"
   },
   {
     "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/second-extinction",
     "freeDate": "2023-04-13",
     "gameTitle": "Second Extinction™",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
+    "mappingSlug": "second-extinction",
+    "productSlug": "second-extinction",
     "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "urlSlug": "second-extinction"
   },
   {
     "epicId": "7f89db821ab1441981adb4daf31c06db",
@@ -3920,14 +3920,14 @@
     "urlSlug": "kao-the-kangaroo-anniversary-edition"
   },
   {
-    "epicId": "TODO",
-    "epicStoreLink": "TODO",
+    "epicId": "014f265f264f46e6b5d59c738cf24ee4",
+    "epicStoreLink": "https://www.epicgames.com/store/p/the-sims-4",
     "freeDate": "2023-05-11",
     "gameTitle": "The Sims™ 4 The Daring Lifestyle Bundle",
-    "mappingSlug": "TODO",
-    "productSlug": "TODO",
-    "sandboxId": "TODO",
-    "urlSlug": "TODO"
+    "mappingSlug": "the-sims-4",
+    "productSlug": "the-sims-4",
+    "sandboxId": "2a14cf8a83b149919a2399504e5686a6",
+    "urlSlug": "the-sims-4"
   },
   {
     "epicId": "9a071cfb3827440ba36cbef6a6042186",
