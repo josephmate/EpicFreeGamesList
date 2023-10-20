@@ -4248,5 +4248,25 @@
     "productSlug": "qube-ultimate-bundle",
     "sandboxId": "0712c5eca64b47bbbced82cabba9f0d7",
     "urlSlug": "qube-ultimate-bundle"
+  },
+  {
+    "epicId": "d2ce21b98564418cabb2d49fe4f202ce",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-evil-within",
+    "freeDate": "2023-10-19",
+    "gameTitle": "The Evil Within",
+    "mappingSlug": "the-evil-within",
+    "productSlug": "",
+    "sandboxId": "d602fd70876141ba9bf4d54809c423d1",
+    "urlSlug": "the-evil-within--the-assignment"
+  },
+  {
+    "epicId": "921e40c4c69f4d728914ca2a4f0aa407",
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/eternal-threads-197169",
+    "freeDate": "2023-10-19",
+    "gameTitle": "Eternal Threads",
+    "mappingSlug": "eternal-threads-197169",
+    "productSlug": "",
+    "sandboxId": "35eda4ff87f94a7491dc28175b8f3b4f",
+    "urlSlug": "a9152a8924cc4e438f0e61106ec02f7d"
   }
 ]

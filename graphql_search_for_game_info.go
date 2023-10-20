@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"net/http"
@@ -35,20 +36,62 @@ type Response struct {
 	} `json:"data"`
 }
 
+var (
+	inputFile  = flag.String("inputFile", "", "The input json file. --freeDate, --gameTitle cannot be used with this option")
+	outputFile = flag.String("outputFile", "", "The output json file. this option is always required")
+	freeDate   = flag.String("freeDate", "", "The date the game was free on. This option cannot be used with --inputFile")
+	gameTitle  = flag.String("gameTitle", "", "The gameTitle of the free game. This option cannot be used with --inputFile")
+)
+
 func main() {
-	// Read the original JSON file
-	originalData, err := os.ReadFile("epic_free_games.json")
-	if err != nil {
-		fmt.Println("Error reading epic_free_games.json:", err)
+	flag.Parse()
+	if len(*outputFile) == 0 {
+		fmt.Println("--outputFile is always required")
+		return
+	}
+	if len(*inputFile) > 0 && len(*freeDate) > 0 {
+		fmt.Println("--inputFile cannot be used with --freeDate")
+		return
+	}
+	if len(*inputFile) > 0 && len(*gameTitle) > 0 {
+		fmt.Println("--inputFile cannot be used with --gameTitle")
+	}
+
+	if len(*inputFile) > 0 {
+		// Read the original JSON file
+		originalData, err := os.ReadFile(*inputFile)
+		if err != nil {
+			fmt.Println("Error reading:", *inputFile, err)
+			return
+		}
+
+		var gameEntries []GameEntry
+		if err := json.Unmarshal(originalData, &gameEntries); err != nil {
+			fmt.Println("Error parsing JSON:", err)
+			return
+		}
+		processGameEntries(gameEntries, *outputFile)
+	} else if len(*gameTitle) > 0 && len(*freeDate) > 0 {
+		var gameEntries []GameEntry
+		gameEntries = append(gameEntries, GameEntry{
+			FreeDate:  *freeDate,
+			GameTitle: *gameTitle,
+		})
+		processGameEntries(gameEntries, *outputFile)
+	} else if len(*gameTitle) > 0 {
+		fmt.Println("--freeDate must be used with --gameTitle")
+		return
+	} else if len(*freeDate) > 0 {
+		fmt.Println("--gameTitle must be used with --freeDate")
+		return
+	} else {
+		fmt.Println("--inputFile must be provided or both --gameTitle and --freeDate")
 		return
 	}
 
-	var gameEntries []GameEntry
-	if err := json.Unmarshal(originalData, &gameEntries); err != nil {
-		fmt.Println("Error parsing JSON:", err)
-		return
-	}
+}
 
+func processGameEntries(gameEntries []GameEntry, outputFile string) {
 	modifiedGameEntries := []map[string]interface{}{}
 
 	for idx, entry := range gameEntries {
@@ -128,11 +171,11 @@ func main() {
 	}
 
 	// Write the modified data to the output file
-	err = os.WriteFile("modified_epic_free_games.json", modifiedJSON, 0644)
+	err = os.WriteFile(outputFile, modifiedJSON, 0644)
 	if err != nil {
-		fmt.Println("Error writing to modified_epic_free_games.json:", err)
+		fmt.Println("Error writing to:", outputFile, err)
 		return
 	}
 
-	fmt.Println("Modified data saved to modified_epic_free_games.json")
+	fmt.Println("Modified data saved to ", outputFile)
 }
