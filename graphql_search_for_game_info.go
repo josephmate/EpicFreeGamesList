@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"flag"
 	"fmt"
 	"io"
 	"net/http"
@@ -11,12 +10,12 @@ import (
 	"strings"
 )
 
-type GameEntry struct {
+type MinimalGameEntry struct {
 	FreeDate  string `json:"freeDate"`
 	GameTitle string `json:"gameTitle"`
 }
 
-type Response struct {
+type SearchResponse struct {
 	Data struct {
 		Catalog struct {
 			SearchStore struct {
@@ -36,62 +35,7 @@ type Response struct {
 	} `json:"data"`
 }
 
-var (
-	inputFile  = flag.String("inputFile", "", "The input json file. --freeDate, --gameTitle cannot be used with this option")
-	outputFile = flag.String("outputFile", "", "The output json file. this option is always required")
-	freeDate   = flag.String("freeDate", "", "The date the game was free on. This option cannot be used with --inputFile")
-	gameTitle  = flag.String("gameTitle", "", "The gameTitle of the free game. This option cannot be used with --inputFile")
-)
-
-func main() {
-	flag.Parse()
-	if len(*outputFile) == 0 {
-		fmt.Println("--outputFile is always required")
-		return
-	}
-	if len(*inputFile) > 0 && len(*freeDate) > 0 {
-		fmt.Println("--inputFile cannot be used with --freeDate")
-		return
-	}
-	if len(*inputFile) > 0 && len(*gameTitle) > 0 {
-		fmt.Println("--inputFile cannot be used with --gameTitle")
-	}
-
-	if len(*inputFile) > 0 {
-		// Read the original JSON file
-		originalData, err := os.ReadFile(*inputFile)
-		if err != nil {
-			fmt.Println("Error reading:", *inputFile, err)
-			return
-		}
-
-		var gameEntries []GameEntry
-		if err := json.Unmarshal(originalData, &gameEntries); err != nil {
-			fmt.Println("Error parsing JSON:", err)
-			return
-		}
-		processGameEntries(gameEntries, *outputFile)
-	} else if len(*gameTitle) > 0 && len(*freeDate) > 0 {
-		var gameEntries []GameEntry
-		gameEntries = append(gameEntries, GameEntry{
-			FreeDate:  *freeDate,
-			GameTitle: *gameTitle,
-		})
-		processGameEntries(gameEntries, *outputFile)
-	} else if len(*gameTitle) > 0 {
-		fmt.Println("--freeDate must be used with --gameTitle")
-		return
-	} else if len(*freeDate) > 0 {
-		fmt.Println("--gameTitle must be used with --freeDate")
-		return
-	} else {
-		fmt.Println("--inputFile must be provided or both --gameTitle and --freeDate")
-		return
-	}
-
-}
-
-func processGameEntries(gameEntries []GameEntry, outputFile string) {
+func SearchGameEntries(gameEntries []MinimalGameEntry, outputFile string) {
 	modifiedGameEntries := []map[string]interface{}{}
 
 	for idx, entry := range gameEntries {
@@ -115,7 +59,7 @@ func processGameEntries(gameEntries []GameEntry, outputFile string) {
 			continue
 		}
 
-		var response Response
+		var response SearchResponse
 		if err := json.Unmarshal(responseData, &response); err != nil {
 			fmt.Println("Error parsing response JSON:", err)
 			fmt.Println("Error parsing response JSON:", string(responseData))
