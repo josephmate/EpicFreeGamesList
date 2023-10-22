@@ -1,8 +1,13 @@
 # Running
 
 ```
-go run .\graphql_search_for_game_info.go > search.log 2>&1
+go run .\graphql_get_rating.go .\graphql_search_for_game_info.go .\main.go --op search --inputFile .\epic_free_games.json --outputFile out.json > search.log 2>&1
 ```
+
+```
+go run .\graphql_get_rating.go .\graphql_search_for_game_info.go .\main.go --op rate --inputFile .\epic_free_games.json --outputFile out.json > ratings.log 2>&1
+```
+
 
 # High Level Solution
 
@@ -12,7 +17,7 @@ go run .\graphql_search_for_game_info.go > search.log 2>&1
     2. otherwise use productSlug with /home removed from the end
     3. otherwise use urlSlug
     4. manually resolve and weirdness
-3. Use epic's graphql api to get the rating using the sandboxId
+3. Use epic's graphql api to get the rating using the epic game's namespace as the sandboxId (`getProductResult`)
 
 # Research
 

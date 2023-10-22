@@ -103,15 +103,15 @@ func RateGameEntries(gameEntries []GameEntryWithSearch, outputFile string) {
 
 		// Create the modified entry
 		modifiedEntry := map[string]interface{}{
+			"epicId":        entry.EpicId,
+			"epicRating":    response.Data.RatingsPolls.GetProductResult.AverageRating,
 			"epicStoreLink": entry.EpicStoreLink,
 			"freeDate":      entry.FreeDate,
 			"gameTitle":     entry.GameTitle,
-			"epicId":        entry.EpicId,
-			"urlSlug":       entry.UrlSlug,
-			"productSlug":   entry.ProductSlug,
 			"mappingSlug":   entry.MappingSlug,
+			"productSlug":   entry.ProductSlug,
 			"sandboxId":     entry.SandboxId,
-			"epicRating":    response.Data.RatingsPolls.GetProductResult.AverageRating,
+			"urlSlug":       entry.UrlSlug,
 		}
 
 		modifiedGameEntries = append(modifiedGameEntries, modifiedEntry)
