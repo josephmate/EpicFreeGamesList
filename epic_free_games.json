@@ -1475,6 +1475,7 @@
   },
   {
     "epicId": "",
+    "epicRating": 0,
     "epicStoreLink": "",
     "freeDate": "2020-08-27",
     "gameTitle": "Hitman",
@@ -3421,6 +3422,7 @@
   },
   {
     "epicId": "",
+    "epicRating": 0,
     "epicStoreLink": "",
     "freeDate": "2022-08-18",
     "gameTitle": "Rumbleverse - Boom Boxer Content Pack",
