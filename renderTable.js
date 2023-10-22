@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
           const dataTable = new DataTable(document.getElementById("epicGamesTable"), {
               data: data,
               pageLength: 100,
+              order: [[2, 'desc']],
               columns: [
                   {
                       title: "Title",
@@ -20,7 +21,11 @@ document.addEventListener("DOMContentLoaded", function () {
                   { 
                     title: "Date",
                     data: "freeDate"
-                  }
+                  },
+                  { 
+                    title: "Epic Rating",
+                    data: "epicRating"
+                  },
               ]
           });
       })
