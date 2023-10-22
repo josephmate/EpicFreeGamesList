@@ -6,7 +6,10 @@ document.addEventListener("DOMContentLoaded", function () {
           const dataTable = new DataTable(document.getElementById("epicGamesTable"), {
               data: data,
               pageLength: 100,
-              order: [[2, 'desc']],
+              order: [
+                [2, 'desc'],
+                [1, 'desc'],
+              ],
               columns: [
                   {
                       title: "Title",
