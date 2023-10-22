@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
           // Initialize DataTable with the retrieved data
           const dataTable = new DataTable(document.getElementById("epicGamesTable"), {
               data: data,
+              pageLength: 100,
               columns: [
                   {
                       title: "Title",
