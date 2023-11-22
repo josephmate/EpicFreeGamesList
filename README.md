@@ -1,13 +1,24 @@
 # Running
 
+Searching based on input json
 ```
 go run .\graphql_get_rating.go .\graphql_search_for_game_info.go .\main.go --op search --inputFile .\epic_free_games.json --outputFile out.json > search.log 2>&1
 ```
 
+Single search:
+```
+go run .\graphql_get_rating.go .\graphql_search_for_game_info.go .\main.go --op search --outputFile out.json --freeDate 1234-56-79 --gameTitle "Celeste"
+```
+
+Rating based on input json
 ```
 go run .\graphql_get_rating.go .\graphql_search_for_game_info.go .\main.go --op rate --inputFile .\epic_free_games.json --outputFile out.json > ratings.log 2>&1
 ```
 
+Single rating:
+```
+go run .\graphql_get_rating.go .\graphql_search_for_game_info.go .\main.go --op rate --outputFile out.json --sandboxId b671fbc7be424e888c9346a9a6d3d9db 
+```
 
 # High Level Solution
 

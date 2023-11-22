@@ -4695,5 +4695,60 @@
     "productSlug": "",
     "sandboxId": "35eda4ff87f94a7491dc28175b8f3b4f",
     "urlSlug": "a9152a8924cc4e438f0e61106ec02f7d"
+  },
+  {
+    "epicId": "77693e5298d94911a0edd2492203d9ea",
+    "epicRating": 4.57,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-evil-within-2",
+    "freeDate": "2023-10-26",
+    "gameTitle": "The Evil Within 2",
+    "mappingSlug": "the-evil-within-2",
+    "productSlug": "the-evil-within-2",
+    "sandboxId": "5891aa5c4c6f4aabbf555a679e02cfb9",
+    "urlSlug": "the-evil-within-2"
+  },
+  {
+    "epicId": "e0282b701ea04c42ac1b5a55c1a3bfde",
+    "epicRating": 4.69,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084",
+    "freeDate": "2023-11-02",
+    "gameTitle": "Turnip Boy Commits Tax Evasion",
+    "mappingSlug": "turnip-boy-commits-tax-evasion-fb2084",
+    "productSlug": "",
+    "sandboxId": "80be39e522204fd0942916d73234d044",
+    "urlSlug": "0e2a660435f0495e8b4abee937bada86"
+  },
+  {
+    "epicId": "f787056536bf43298e39305a0c5c20c8",
+    "epicRating": 4.24,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/golden-light-f543b3",
+    "freeDate": "2023-11-09",
+    "gameTitle": "Golden Light",
+    "mappingSlug": "golden-light-f543b3",
+    "productSlug": "",
+    "sandboxId": "ca05bd340e84436ebea4a0c0ca55befa",
+    "urlSlug": "eb804ef384034b9a9f4c1dd3d35150b8"
+  },
+  {
+    "epicId": "7f7b29e6698f449bb468b02844c1c1e9",
+    "epicRating": 4.38,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/surviving-the-aftermath",
+    "freeDate": "2023-11-16",
+    "gameTitle": "Surviving the Aftermath",
+    "mappingSlug": "surviving-the-aftermath",
+    "productSlug": "",
+    "sandboxId": "95b4d5a753d042678f775d5e1eb5ab25",
+    "urlSlug": "surviving-the-aftermath--forgotten-tracks"
+  },
+  {
+    "epicId": "54412e4f88824cb2a3f1dbb604b59c16",
+    "epicRating": 4.06,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/earthlock-e7d979",
+    "freeDate": "1234-56-79",
+    "gameTitle": "EARTHLOCK",
+    "mappingSlug": "earthlock-e7d979",
+    "productSlug": "",
+    "sandboxId": "5c82c05d2978489090d30c05e17e6e12",
+    "urlSlug": "443753b0084e4831b30fef63fbc055c3"
   }
 ]

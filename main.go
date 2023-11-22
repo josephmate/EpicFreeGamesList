@@ -22,7 +22,7 @@ var (
 	inputFile     = flag.String("inputFile", "", "The input json file. --freeDate, --gameTitle cannot be used with this option")
 	outputFile    = flag.String("outputFile", "", "The output json file. this option is always required")
 	epicId        = flag.String("epicId", "", "The id from epic games. This option cannot be used with --inputFile")
-	epicStoreLink = flag.String("epicStoreLink", "", "The url that game can be found on at epic.. This option cannot be used with --inputFile")
+	epicStoreLink = flag.String("epicStoreLink", "", "The url that game can be found on at epic. This option cannot be used with --inputFile")
 	freeDate      = flag.String("freeDate", "", "The date the game was free on. This option cannot be used with --inputFile")
 	gameTitle     = flag.String("gameTitle", "", "The gameTitle of the free game. This option cannot be used with --inputFile")
 	mappingSlug   = flag.String("mappingSlug", "", "This option cannot be used with --inputFile")
