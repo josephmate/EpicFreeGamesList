@@ -11,7 +11,13 @@
       "mode": "auto",
       "program": "${fileDirname}",
       "env": {},
-      "args": []
+      "args": [
+        "--inputFile",
+        "epic_free_games.json",
+        "--outputFile",
+        "out.json"
+      ],
+      "showLog": true
     }
   ]
 }
