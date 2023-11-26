@@ -1,10 +1,12 @@
 # Building
 ```
-go build main.go .\cli_hander_free.go .\cli_hander_rating.go .\cli_handler_search.go .\graphql_get_rating.go .\graphql_search_for_game_info.go
+go build main.go .\cli_hander_free.go .\cli_hander_rating.go .\cli_handler_search.go .\graphql_get_free_games.go .\graphql_get_rating.go .\graphql_search_for_game_info.go
 ```
 
 # Running
 
+
+## Search
 Searching based on input json
 ```
 .\main search --inputFile .\epic_free_games.json --outputFile out.json > search.log 2>&1
@@ -15,6 +17,7 @@ Single search:
 .\main search --gameTitle "Celeste"
 ```
 
+## Ratings
 Rating based on input json
 ```
 .\main rate --inputFile .\epic_free_games.json --outputFile out.json > ratings.log 2>&1
@@ -22,7 +25,15 @@ Rating based on input json
 
 Single rating:
 ```
-.\main rate --outputFile out.json --searchKey b671fbc7be424e888c9346a9a6d3d9db 
+.\main rate --searchKey b671fbc7be424e888c9346a9a6d3d9db 
+```
+
+## Free Games
+
+
+Print to console:
+```
+.\main free 
 ```
 
 # High Level Solution
