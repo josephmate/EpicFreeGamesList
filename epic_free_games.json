@@ -4744,11 +4744,22 @@
     "epicId": "54412e4f88824cb2a3f1dbb604b59c16",
     "epicRating": 4.06,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/earthlock-e7d979",
-    "freeDate": "1234-56-79",
+    "freeDate": "2023-11-16",
     "gameTitle": "EARTHLOCK",
     "mappingSlug": "earthlock-e7d979",
     "productSlug": "",
     "sandboxId": "5c82c05d2978489090d30c05e17e6e12",
     "urlSlug": "443753b0084e4831b30fef63fbc055c3"
+  },
+  {
+    "epicId": "34c8b5efd29f48209928d74752584426",
+    "epicRating": 4.12,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/deliver-us-mars",
+    "freeDate": "2023-11-23",
+    "gameTitle": "Deliver Us Mars",
+    "mappingSlug": "deliver-us-mars",
+    "productSlug": "deliver-us-mars",
+    "sandboxId": "53ec6d9f552241549c4d8aa1a42bcb3b",
+    "urlSlug": "deliver-us-mars-general-audience"
   }
 ]
