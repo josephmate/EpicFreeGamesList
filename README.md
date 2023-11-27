@@ -31,6 +31,11 @@ Single rating:
 ## Free Games
 
 
+Append to file:
+```
+.\main free --inputFile epic_free_games.json --outputFile out.json
+```
+
 Print to console:
 ```
 .\main free 

@@ -57,6 +57,7 @@ type GameEntry struct {
 		Id   string `json:"id"`
 		Name string `json:"name"`
 	} `json:"seller"`
+	Title   string `json:"title"`
 	UrlSlug string `json:"urlSlug"`
 }
 
@@ -159,7 +160,8 @@ func GetFreeGames() (FreeGames, error) {
 
 			modifiedEntry.UrlSlug = element.UrlSlug
 			modifiedEntry.ProductSlug = element.ProductSlug
-			modifiedEntry.SandboxId = response.Data.Catalog.SearchStore.Elements[0].Namespace
+			modifiedEntry.SandboxId = element.Namespace
+			modifiedEntry.GameTitle = element.Title
 
 			thisWeekFree := anyFree(element.Promotions.PromotionalOffers)
 			nextWeekFree := anyFree(element.Promotions.UpcomingPromotionalOffers)
