@@ -41,6 +41,22 @@ Print to console:
 .\main free 
 ```
 
+
+# Making docker image
+
+```
+docker build -t josephmate/epic-games-free-list-updater .
+```
+
+# Sending to Dockerhub
+
+```
+docker push josephmate/epic-games-free-list-updater
+```
+
+# Running from docker image
+
+
 # High Level Solution
 
 1. Start with a list of game title for free games.
