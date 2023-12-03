@@ -4761,5 +4761,27 @@
     "productSlug": "deliver-us-mars",
     "sandboxId": "53ec6d9f552241549c4d8aa1a42bcb3b",
     "urlSlug": "deliver-us-mars-general-audience"
+  },
+  {
+    "epicId": "61baaf316c8448e5b5c9ee80fe0b26f7",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mighty-fight-federation",
+    "freeDate": "2023-11-30",
+    "gameTitle": "Mighty Fight Federation",
+    "mappingSlug": "mighty-fight-federation",
+    "productSlug": "mighty-fight-federation",
+    "sandboxId": "651d07f1eee8419e80eb2938f8f44cf0",
+    "urlSlug": "mighty-fight-federation"
+  },
+  {
+    "epicId": "5526de3a3c35483da97b1b8ce970b360",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f",
+    "freeDate": "2023-11-30",
+    "gameTitle": "Jitsu Squad",
+    "mappingSlug": "jitsu-squad-af3f2f",
+    "productSlug": "",
+    "sandboxId": "6ef33a285bf5426d852762aecc95c826",
+    "urlSlug": "bf0ef88b44fb4378bf4a9bad53dfd46f"
   }
 ]
