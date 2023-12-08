@@ -4783,5 +4783,27 @@
     "productSlug": "",
     "sandboxId": "6ef33a285bf5426d852762aecc95c826",
     "urlSlug": "bf0ef88b44fb4378bf4a9bad53dfd46f"
+  },
+  {
+    "epicId": "4a003a822ba54453b59c277f5bfc697f",
+    "epicRating": 4.61,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/gigabash",
+    "freeDate": "2023-12-07",
+    "gameTitle": "GigaBash",
+    "mappingSlug": "gigabash",
+    "productSlug": "gigabash",
+    "sandboxId": "16fc138ed83846bc90d923fe0d87ad72",
+    "urlSlug": "lisbongeneralaudience"
+  },
+  {
+    "epicId": "a19138c05ca642d2a7fd73dcbadea7da",
+    "epicRating": 4.42,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/predecessor",
+    "freeDate": "2023-12-07",
+    "gameTitle": "Predecessor",
+    "mappingSlug": "predecessor",
+    "productSlug": "predecessor",
+    "sandboxId": "85f0435aa88347d185dbcb147716609b",
+    "urlSlug": "predecessor"
   }
 ]
