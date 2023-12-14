@@ -4805,5 +4805,16 @@
     "productSlug": "predecessor",
     "sandboxId": "85f0435aa88347d185dbcb147716609b",
     "urlSlug": "predecessor"
+  },
+  {
+    "epicId": "1b407c729763439aa8d8c6874f1cfb6e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/destiny-2--legacy-collection-2023",
+    "freeDate": "2023-12-13",
+    "gameTitle": "Destiny 2: Legacy Collection (2023)",
+    "mappingSlug": "TODO",
+    "productSlug": "destiny-2--legacy-collection-2023",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame-1"
   }
 ]
