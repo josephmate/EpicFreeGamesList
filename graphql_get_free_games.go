@@ -75,24 +75,24 @@ const epicDevAccountId = "o-ufmrk5furrrxgsp5tdngefzt5rxdcn"
 const epicDevAccountName = "Epic Dev Test Account"
 
 func isVaultedGame(game GameEntry) bool {
-	seller := game.Seller
-
-	if seller.Id == epicDevAccountId {
-		return true
-	}
-	if seller.Name == epicDevAccountName {
-		return true
-	}
-
-	categories := game.Categories
-
-	if len(categories) > 0 {
-		for _, category := range categories {
-			if category.Path == "freegames/vaulted" {
-				return true
-			}
-		}
-	}
+	// seller := game.Seller
+	//
+	// if seller.Id == epicDevAccountId {
+	// 	return true
+	// }
+	// if seller.Name == epicDevAccountName {
+	// 	return true
+	// }
+	//
+	// categories := game.Categories
+	//
+	// if len(categories) > 0 {
+	// 	for _, category := range categories {
+	// 		if category.Path == "freegames/vaulted" {
+	// 			return true
+	// 		}
+	// 	}
+	// }
 
 	return false
 }
@@ -131,7 +131,7 @@ func GetFreeGames() (FreeGames, error) {
 		fmt.Println("Error reading response:", err)
 		return FreeGames{}, err
 	}
-	//fmt.Println("response:\n", string(responseData))
+	fmt.Println("response:\n", string(responseData))
 
 	var response FreeGameResponse
 	if err := json.Unmarshal(responseData, &response); err != nil {
