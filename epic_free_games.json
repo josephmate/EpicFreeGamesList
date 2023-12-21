@@ -4816,5 +4816,17 @@
     "productSlug": "destiny-2--legacy-collection-2023",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame-1"
+  },
+  {
+    "epicId": "824fca6e444b4223bbf275cfc0355282",
+    "epicRating": 4.44,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dnf-duel-07d055",
+    "freeDate": "2023-12-20",
+    "gameTitle": "DNF Duel",
+    "mappingSlug": "",
+    "productSlug": "dnf-duel-07d055",
+    "sandboxId": "3eb832eb6d9f4496818a0b0d667420c0",
+    "sandboxIdBroken": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame-2"
   }
 ]
