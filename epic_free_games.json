@@ -4828,5 +4828,16 @@
     "sandboxId": "3eb832eb6d9f4496818a0b0d667420c0",
     "sandboxIdBroken": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame-2"
+  },
+  {
+    "epicId": "83261ab563024628891e91e4f76d10d7",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/melvor-idle-b6a9b3",
+    "freeDate": "2023-12-21",
+    "gameTitle": "Melvor Idle",
+    "mappingSlug": "",
+    "productSlug": "melvor-idle-b6a9b3",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame-3"
   }
 ]
