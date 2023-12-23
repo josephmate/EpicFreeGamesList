@@ -4839,5 +4839,16 @@
     "productSlug": "melvor-idle-b6a9b3",
     "sandboxId": "207c42b0325d40ebb0414041dac29b19",
     "urlSlug": "mysterygame-3"
+  },
+  {
+    "epicId": "d4f57eca46a148a889b1b25b1ec99c81",
+    "epicRating": 4.86,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/art-of-rally",
+    "freeDate": "2023-12-22",
+    "gameTitle": "Art of Rally",
+    "mappingSlug": "",
+    "productSlug": "art-of-rally",
+    "sandboxId": "4751c4f6a96547209a33831d847d2810",
+    "urlSlug": "mysterygame-4"
   }
 ]
