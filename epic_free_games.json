@@ -4850,5 +4850,16 @@
     "productSlug": "art-of-rally",
     "sandboxId": "4751c4f6a96547209a33831d847d2810",
     "urlSlug": "mysterygame-4"
+  },
+  {
+    "epicId": "d6f01b1827c64ed388191ae507fe7c1b",
+    "epicRating": 4.6,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition",
+    "freeDate": "2023-12-23",
+    "gameTitle": "Fallout 3: Game of the Year Edition",
+    "mappingSlug": "",
+    "productSlug": "fallout-3-game-of-the-year-edition",
+    "sandboxId": "fa702d34a37248ba98fb17f680c085e3",
+    "urlSlug": "mysterygame-5"
   }
 ]
