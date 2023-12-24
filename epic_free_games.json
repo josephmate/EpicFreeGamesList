@@ -4861,5 +4861,16 @@
     "productSlug": "fallout-3-game-of-the-year-edition",
     "sandboxId": "fa702d34a37248ba98fb17f680c085e3",
     "urlSlug": "mysterygame-5"
+  },
+  {
+    "epicId": "e5d12f6d14514964a97cb98002f0eeea",
+    "epicRating": 4.52,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/ghostwire-tokyo",
+    "freeDate": "2023-12-24",
+    "gameTitle": "Ghostwire: Tokyo",
+    "mappingSlug": "",
+    "productSlug": "ghostwire-tokyo",
+    "sandboxId": "a93cd6111251461c953776a0c4ea4d80",
+    "urlSlug": "mysterygame-6"
   }
 ]
