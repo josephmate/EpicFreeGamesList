@@ -4872,5 +4872,16 @@
     "productSlug": "ghostwire-tokyo",
     "sandboxId": "a93cd6111251461c953776a0c4ea4d80",
     "urlSlug": "mysterygame-6"
+  },
+  {
+    "epicId": "63e317df8f1b4d1d9519547f82471fdf",
+    "epicRating": 4.62,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-outer-worlds-spacers-choice-edition",
+    "freeDate": "2023-12-25",
+    "gameTitle": "The Outer Worlds: Spacer's Choice Edition",
+    "mappingSlug": "",
+    "productSlug": "the-outer-worlds-spacers-choice-edition",
+    "sandboxId": "dc61166eea95474e912953b163791d42",
+    "urlSlug": "mysterygame-7"
   }
 ]
