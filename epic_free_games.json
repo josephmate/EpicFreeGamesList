@@ -4883,5 +4883,16 @@
     "productSlug": "the-outer-worlds-spacers-choice-edition",
     "sandboxId": "dc61166eea95474e912953b163791d42",
     "urlSlug": "mysterygame-7"
+  },
+  {
+    "epicId": "3e58c89f762b4686a936770223b5a6e9",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/human-resource-machine",
+    "freeDate": "2023-12-26",
+    "gameTitle": "Human Resource Machine",
+    "mappingSlug": "",
+    "productSlug": "human-resource-machine",
+    "sandboxId": "basil",
+    "urlSlug": "mysterygame-8"
   }
 ]
