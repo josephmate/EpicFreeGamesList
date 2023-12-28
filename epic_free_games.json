@@ -4894,5 +4894,16 @@
     "productSlug": "human-resource-machine",
     "sandboxId": "basil",
     "urlSlug": "mysterygame-8"
+  },
+  {
+    "epicId": "a323e5521a98467dbbd24aa9bb3ee9a4",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/cursed-to-golf-a6bc22",
+    "freeDate": "2023-12-27",
+    "gameTitle": "Cursed to Golf",
+    "mappingSlug": "",
+    "productSlug": "cursed-to-golf-a6bc22",
+    "sandboxId": "2cdc5a2758a6445d8d4f399ecb469aaf",
+    "urlSlug": "mysterygame-9"
   }
 ]
