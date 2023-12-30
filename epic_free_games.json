@@ -4916,5 +4916,16 @@
     "productSlug": "cat-quest-8373e0",
     "sandboxId": "c986e75258a146fba03a920dba852ca9",
     "urlSlug": "mysterygame-10"
+  },
+  {
+    "epicId": "8ecb2895d94f4c64a743c1c4f056743f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae",
+    "freeDate": "2023-12-29",
+    "gameTitle": "Snakebird Complete",
+    "mappingSlug": "",
+    "productSlug": "snakebird-complete-e6f0ae",
+    "sandboxId": "efc30c2078a2499ab979d198255e2e4b",
+    "urlSlug": "mysterygame-11"
   }
 ]
