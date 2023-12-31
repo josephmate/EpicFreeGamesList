@@ -4927,5 +4927,16 @@
     "productSlug": "snakebird-complete-e6f0ae",
     "sandboxId": "efc30c2078a2499ab979d198255e2e4b",
     "urlSlug": "mysterygame-11"
+  },
+  {
+    "epicId": "e9b00dcbdbed48278bebb3cfeb08a454",
+    "epicRating": 3.79,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/saints-row",
+    "freeDate": "2023-12-30",
+    "gameTitle": "Saints Row",
+    "mappingSlug": "",
+    "productSlug": "saints-row",
+    "sandboxId": "0d23bb77ee2f45b7a571bde68caddb09",
+    "urlSlug": "mysterygame-12"
   }
 ]
