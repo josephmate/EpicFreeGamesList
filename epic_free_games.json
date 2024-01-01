@@ -4938,5 +4938,16 @@
     "productSlug": "saints-row",
     "sandboxId": "0d23bb77ee2f45b7a571bde68caddb09",
     "urlSlug": "mysterygame-12"
+  },
+  {
+    "epicId": "b9e519677b414d768fda648c4c8b5123",
+    "epicRating": 4.71,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/ghostrunner",
+    "freeDate": "2023-12-31",
+    "gameTitle": "Ghostrunner",
+    "mappingSlug": "",
+    "productSlug": "ghostrunner",
+    "sandboxId": "95d0b9561be1464cb43bd029e94cf526",
+    "urlSlug": "mysterygame-13"
   }
 ]
