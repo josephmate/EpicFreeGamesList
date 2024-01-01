@@ -4949,5 +4949,16 @@
     "productSlug": "ghostrunner",
     "sandboxId": "95d0b9561be1464cb43bd029e94cf526",
     "urlSlug": "mysterygame-13"
+  },
+  {
+    "epicId": "9da72b3af32d4818b502369a4aac5aac",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/escape-academy-bfc2bf",
+    "freeDate": "2024-01-01",
+    "gameTitle": "Escape Academy",
+    "mappingSlug": "",
+    "productSlug": "escape-academy-bfc2bf",
+    "sandboxId": "040baa2d100d465caf428c688cc3cdba",
+    "urlSlug": "mysterygame-14"
   }
 ]
