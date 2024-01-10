@@ -4971,5 +4971,27 @@
     "productSlug": "20-minutes-till-dawn-be3305",
     "sandboxId": "ee9fad7056a94957b3a4d8c457000337",
     "urlSlug": "mysterygame-15"
+  },
+  {
+    "epicId": "6e5918b1394e4bfd8a38ac393a868616",
+    "epicRating": 4.67,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/a-plague-tale-innocence",
+    "freeDate": "2024-01-03",
+    "gameTitle": "A Plague Tale: Innocence",
+    "mappingSlug": "",
+    "productSlug": "a-plague-tale-innocence",
+    "sandboxId": "71d19da3678943098859baa9c4c39f95",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "fb40e48d8e454558a2e02ad7f9a991ff",
+    "epicRating": 4.66,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy",
+    "freeDate": "2024-01-04",
+    "gameTitle": "Marvel's Guardians of the Galaxy",
+    "mappingSlug": "",
+    "productSlug": "marvels-guardians-of-the-galaxy",
+    "sandboxId": "2a09fb19b47f46dfb11ebd382f132a8f",
+    "urlSlug": "mysterygame-17"
   }
 ]
