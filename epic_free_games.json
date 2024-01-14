@@ -4993,5 +4993,16 @@
     "productSlug": "marvels-guardians-of-the-galaxy",
     "sandboxId": "2a09fb19b47f46dfb11ebd382f132a8f",
     "urlSlug": "mysterygame-17"
+  },
+  {
+    "epicId": "c819b6b40a034231ad64b8406f75814e",
+    "epicRating": 4.44,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sail-forth-51847e",
+    "freeDate": "2024-01-11",
+    "gameTitle": "Sail Forth",
+    "mappingSlug": "sail-forth-51847e",
+    "productSlug": "",
+    "sandboxId": "d93cf08971eb4920862a95870a051f81",
+    "urlSlug": "a3299877ee524610b2ab02af24628409"
   }
 ]
