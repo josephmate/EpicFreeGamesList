@@ -25,10 +25,18 @@ jobs:
       - uses: actions/setup-go@v5
         with:
           go-version: '^1.21.3' # The Go version to download (if necessary) and use.
-      - run: go run *.go free --inputFile epic_free_games.json --outputFile out.json
+      - name: Get the last free games from epic
+        run: go run *.go free --inputFile epic_free_games.json --outputFile out.json
+      - name: Prepare to commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
       - run: |
           rm epic_free_games.json
           mv out.json epic_free_games.json
           git add epic_free_games.json
           git commit -m "Github actions adding this week's game"
+      - name: Push
+        run: |
+          git remote set-url origin https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}
           git push
