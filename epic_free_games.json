@@ -5037,5 +5037,27 @@
     "productSlug": "",
     "sandboxId": "88c17fed155e43068c338d33d1bcd481",
     "urlSlug": "75e7a89672a046949abcf89134e8528e"
+  },
+  {
+    "epicId": "76cd108ce4354545bd825e181262dbad",
+    "epicRating": 4.89,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/doki-doki-literature-club-plus",
+    "freeDate": "2024-02-08",
+    "gameTitle": "Doki Doki Literature Club Plus!",
+    "mappingSlug": "doki-doki-literature-club-plus",
+    "productSlug": "doki-doki-literature-club-plus",
+    "sandboxId": "1311a5735ed844c0b3c47027cab321f0",
+    "urlSlug": "doki-doki-literature-club-plus"
+  },
+  {
+    "epicId": "186b5f89167f48fd94a9538ebfe214c6",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/lost-castle-abb2e2",
+    "freeDate": "2024-02-08",
+    "gameTitle": "Lost Castle",
+    "mappingSlug": "lost-castle-abb2e2",
+    "productSlug": "",
+    "sandboxId": "ab29925a0a9a49598adba45d108ceb3e",
+    "urlSlug": "a20922cfbb894a3bb690164a380c78d9"
   }
 ]
