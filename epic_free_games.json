@@ -5059,5 +5059,16 @@
     "productSlug": "",
     "sandboxId": "ab29925a0a9a49598adba45d108ceb3e",
     "urlSlug": "a20922cfbb894a3bb690164a380c78d9"
+  },
+  {
+    "epicId": "aca45f8a6b124590af039f97e148bd89",
+    "epicRating": 4.28,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dakar-desert-rally",
+    "freeDate": "2024-02-15",
+    "gameTitle": "Dakar Desert Rally",
+    "mappingSlug": "dakar-desert-rally",
+    "productSlug": "dakar-desert-rally",
+    "sandboxId": "ac98aa34584648f2b71152e509191c1c",
+    "urlSlug": "dakar-desert-rally"
   }
 ]
