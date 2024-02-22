@@ -5070,5 +5070,16 @@
     "productSlug": "dakar-desert-rally",
     "sandboxId": "ac98aa34584648f2b71152e509191c1c",
     "urlSlug": "dakar-desert-rally"
+  },
+  {
+    "epicId": "9ab78d8a6fe84c3f82b31215390f3c51",
+    "epicRating": 4.65,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/super-meat-boy-forever",
+    "freeDate": "2024-02-22",
+    "gameTitle": "Super Meat Boy Forever",
+    "mappingSlug": "super-meat-boy-forever",
+    "productSlug": "super-meat-boy-forever",
+    "sandboxId": "moose",
+    "urlSlug": "super-meat-boy-forever-launch"
   }
 ]
