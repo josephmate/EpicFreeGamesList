@@ -5081,5 +5081,16 @@
     "productSlug": "super-meat-boy-forever",
     "sandboxId": "moose",
     "urlSlug": "super-meat-boy-forever-launch"
+  },
+  {
+    "epicId": "2fecb1793ce446408cd869611400a797",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/aerial-knights-never-yield",
+    "freeDate": "2024-02-29",
+    "gameTitle": "Aerial_Knight's Never Yield",
+    "mappingSlug": "aerial-knights-never-yield",
+    "productSlug": "aerial-knights-never-yield",
+    "sandboxId": "2ed7ed64d8604265924b85bbd5670220",
+    "urlSlug": "castlegeneralaudience"
   }
 ]
