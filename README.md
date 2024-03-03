@@ -664,3 +664,149 @@ gave back
 as expected by browsing to the Wonder Boy product page
 
 We have all the information we need to write a program to populate everything.
+
+
+## getting the real snapshotId
+
+There are a lot of 0s. Initially I attributed that to those pages not having ratings. However, [MCHopie
+ noticed that a majority of the pages with 0 acutally had ratings.](https://www.reddit.com/r/EpicGamesPC/comments/1anepsx/epic_free_games_list_with_sorting_by_epic_ratings/ks3oedi/?context=8&depth=9).
+ 
+ With deeper investigation in a particular example Payday 2, the snapshotId used to obtain the rating was wrong. In this case I had `d5241c76f178492ea1540fce45616757` which is not found in the rating API. When you visit the Payday 2 page and look at the javascript source code they have this embedded in it:
+
+ ```
+                        "data": {
+                            "StorePageMapping": {
+                                "mapping": {
+                                    "pageSlug": "payday-2-c66369",
+                                    "pageType": "productHome",
+                                    "sandboxId": "3b661fd6a9724ac7b6ac6d10d0572511",
+                                    "productId": "14eb3477a6084940b49de5aa73c60f98",
+                                    "createdDate": "2023-06-07T08:05:53.761Z",
+                                    "updatedDate": "2023-11-27T20:21:20.490Z",
+                                    "mappings": {
+                                        "cmsSlug": null,
+                                        "offerId": "384f75fdd6b34f63a2daace1a3c5dab0",
+                                        "offer": {
+                                            "id": "384f75fdd6b34f63a2daace1a3c5dab0",
+                                            "namespace": "3b661fd6a9724ac7b6ac6d10d0572511",
+                                            "effectiveDate": "2023-06-08T15:00:00.000Z",
+                                            "expiryDate": null
+                                        },
+                                        "prePurchaseOfferId": null,
+                                        "prePurchaseOffer": null,
+                                        "pageId": null
+                                    }
+                                }
+                            }
+                        },
+ ```
+
+ Notice two things. First the snapshotId is different: `3b661fd6a9724ac7b6ac6d10d0572511`. Second, the javascript seems to be pre-populated with the GraphQL responses. Unfortunately, I do not know what query maps to result `StorePageMapping`. Fortunately, [woctezuma had a page that dumped all the GraphQL Queries](https://gist.github.com/woctezuma/8ca464a276b15d7dfad475fd6b6cbee9):
+
+ ```
+query getMappingByPageSlug($pageSlug: String!, $sandboxId: String, $locale: String!) {
+  StorePageMapping {
+    mapping(pageSlug: $pageSlug, sandboxId: $sandboxId) {
+      pageSlug
+      pageType
+      sandboxId
+      productId
+      createdDate
+      updatedDate
+      mappings {
+        cmsSlug
+        offerId
+        offer(locale: $locale) {
+          id
+          namespace
+          effectiveDate
+          expiryDate
+        }
+        prePurchaseOfferId
+        prePurchaseOffer(locale: $locale) {
+          id
+          namespace
+          effectiveDate
+          expiryDate
+        }
+        pageId
+      }
+    }
+  }
+}
+```
+
+
+
+```
+https://graphql.epicgames.com/graphql?query=query getProductResult($sandboxId: String = "b671fbc7be424e888c9346a9a6d3d9db", $locale: String = "US") {
+  RatingsPolls {
+    getProductResult(sandboxId: $sandboxId, locale: $locale) {
+      averageRating
+    }
+  }
+}
+```
+
+
+Here's my old information for Payday 2:
+```
+  {
+    "epicId": "de434b7be57940d98ede93b50cdacfc2",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/payday-2-c66369",
+    "freeDate": "2023-06-08",
+    "gameTitle": "Payday 2",
+    "mappingSlug": "",
+    "productSlug": "payday-2-c66369",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-7"
+  },
+```
+
+```
+query getMappingByPageSlug($pageSlug: String! = "payday-2-c66369", $sandboxId: String) {
+  StorePageMapping {
+    mapping(pageSlug: $pageSlug, sandboxId: $sandboxId) {
+      pageSlug
+      pageType
+      sandboxId
+      productId
+      createdDate
+      updatedDate
+      mappings {
+        cmsSlug
+        pageId
+      }
+    }
+  }
+}
+```
+
+
+```powershell
+$response = Invoke-WebRequest -Uri 'https://graphql.epicgames.com/graphql?query=query%20getMappingByPageSlug%28%24pageSlug%3A%20String%21%20%3D%20%22payday-2-c66369%22%2C%20%24sandboxId%3A%20String%29%20%7B%0A%20%20StorePageMapping%20%7B%0A%20%20%20%20mapping%28pageSlug%3A%20%24pageSlug%2C%20sandboxId%3A%20%24sandboxId%29%20%7B%0A%20%20%20%20%20%20pageSlug%0A%20%20%20%20%20%20pageType%0A%20%20%20%20%20%20sandboxId%0A%20%20%20%20%20%20productId%0A%20%20%20%20%20%20createdDate%0A%20%20%20%20%20%20updatedDate%0A%20%20%20%20%20%20mappings%20%7B%0A%20%20%20%20%20%20%20%20cmsSlug%0A%20%20%20%20%20%20%20%20pageId%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D'
+Write-Output $response.StatusCode
+200
+Write-Output $response.Content
+{"data":{"StorePageMapping":{"mapping":{"pageSlug":"payday-2-c66369","pageType":"productHome","sandboxId":"3b661fd6a9724ac7b6ac6d10d0572511","productId":"14eb3477a6084940b49de5aa73c60f98","createdDate":"2023-06-07T08:05:53.761Z","updatedDate":"2023-11-27T20:21:20.490Z","mappings":{"cmsSlug":null,"pageId":null}}}},"extensions":{}}
+```
+
+Notice that the sandboxId returned matches the one I need to get the ratings: `3b661fd6a9724ac7b6ac6d10d0572511`.
+
+Trying again with another example `Death Stranding`, with productSlug `death-stranding%2Fhome`:
+```
+$response = Invoke-WebRequest -Uri 'https://graphql.epicgames.com/graphql?query=query%20getMappingByPageSlug%28%24pageSlug%3A%20String%21%20%3D%20%22death-stranding%2Fhome%22%2C%20%24sandboxId%3A%20String%29%20%7B%0A%20%20StorePageMapping%20%7B%0A%20%20%20%20mapping%28pageSlug%3A%20%24pageSlug%2C%20sandboxId%3A%20%24sandboxId%29%20%7B%0A%20%20%20%20%20%20pageSlug%0A%20%20%20%20%20%20pageType%0A%20%20%20%20%20%20sandboxId%0A%20%20%20%20%20%20productId%0A%20%20%20%20%20%20createdDate%0A%20%20%20%20%20%20updatedDate%0A%20%20%20%20%20%20mappings%20%7B%0A%20%20%20%20%20%20%20%20cmsSlug%0A%20%20%20%20%20%20%20%20pageId%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D'
+Write-Output $response.StatusCode
+200
+Write-Output $response.Content
+{"data":{"StorePageMapping":{"mapping":null}},"extensions":{}}
+```
+didn't work. but urlSlug did `death-stranding` :
+```
+$response = Invoke-WebRequest -Uri 'https://graphql.epicgames.com/graphql?query=query%20getMappingByPageSlug%28%24pageSlug%3A%20String%21%20%3D%20%22death-stranding%22%2C%20%24sandboxId%3A%20String%29%20%7B%0A%20%20StorePageMapping%20%7B%0A%20%20%20%20mapping%28pageSlug%3A%20%24pageSlug%2C%20sandboxId%3A%20%24sandboxId%29%20%7B%0A%20%20%20%20%20%20pageSlug%0A%20%20%20%20%20%20pageType%0A%20%20%20%20%20%20sandboxId%0A%20%20%20%20%20%20productId%0A%20%20%20%20%20%20createdDate%0A%20%20%20%20%20%20updatedDate%0A%20%20%20%20%20%20mappings%20%7B%0A%20%20%20%20%20%20%20%20cmsSlug%0A%20%20%20%20%20%20%20%20pageId%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D'
+Write-Output $response.Content
+{"data":{"StorePageMapping":{"mapping":{"pageSlug":"death-stranding","pageType":"productHome","sandboxId":"f4a904fcef2447439c35c4e6457f3027","productId":"da519d41698b4854815db7371210c3a1","createdDate":"2021-05-05T16:55:53.681Z","updatedDate":"2023-05-31T16:12:45.187Z","mappings":{"cmsSlug":"death-stranding/home","pageId":null}}}},"extensions":{}}
+```
+
+`f4a904fcef2447439c35c4e6457f3027` matches the one on the Death Standing page!
