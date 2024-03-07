@@ -5091,5 +5091,16 @@
     "productSlug": "aerial-knights-never-yield",
     "sandboxId": "2ed7ed64d8604265924b85bbd5670220",
     "urlSlug": "castlegeneralaudience"
+  },
+  {
+    "epicId": "bc38eac0277d41ec955690e25779cb53",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/astro-duel-2-e1261d",
+    "freeDate": "2024-03-07",
+    "gameTitle": "Astro Duel 2",
+    "mappingSlug": "astro-duel-2-e1261d",
+    "productSlug": "",
+    "sandboxId": "4a681a809a094e2c8dcc68353c68fed6",
+    "urlSlug": "0218ebc2af7a45a6875cb57c893fce6a"
   }
 ]
