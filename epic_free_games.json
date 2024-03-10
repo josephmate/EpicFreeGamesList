@@ -22,15 +22,15 @@
     "urlSlug": "super-meat-boy"
   },
   {
-    "epicId": "b1f4888a7c9b4449b6bfbace4de24a9c",
-    "epicRating": 0,
+    "epicId": "prod-badger",
+    "epicRating": 4.74,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/what-remains-of-edith-finch",
     "freeDate": "2019-01-10",
     "gameTitle": "What Remains of Edith Finch",
     "mappingSlug": "what-remains-of-edith-finch",
     "productSlug": "what-remains-of-edith-finch/home",
-    "sandboxId": "",
-    "urlSlug": "badger"
+    "sandboxId": "badger",
+    "urlSlug": "what-remains-of-edith-finch"
   },
   {
     "epicId": "prod-feverfew",
@@ -55,15 +55,15 @@
     "urlSlug": "axiom-verge"
   },
   {
-    "epicId": "fabaacbc88864d4ea40ab569ad4e480e",
-    "epicRating": 0,
+    "epicId": "prod-tulip",
+    "epicRating": 4.59,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/thimbleweed-park",
     "freeDate": "2019-02-21",
     "gameTitle": "Thimbleweed Park",
     "mappingSlug": "thimbleweed-park",
     "productSlug": "thimbleweed-park/delores",
-    "sandboxId": "",
-    "urlSlug": "deloresgeneralaudience"
+    "sandboxId": "tulip",
+    "urlSlug": "thimbleweed-park"
   },
   {
     "epicId": "34f98a406ed74c7f906eacead1570f3c",
@@ -77,15 +77,15 @@
     "urlSlug": "slime-rancher"
   },
   {
-    "epicId": "383be34c943b457889e956a9e8a88142",
-    "epicRating": 0,
+    "epicId": "ddb014391b2f48dcbd327aa86928dbf8",
+    "epicRating": 4.57,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/oxenfree",
     "freeDate": "2019-03-21",
     "gameTitle": "Oxenfree",
     "mappingSlug": "",
     "productSlug": "oxenfree/home",
-    "sandboxId": "",
-    "urlSlug": "hibiscus"
+    "sandboxId": "hibiscus",
+    "urlSlug": "oxenfree"
   },
   {
     "epicId": "prod-magnolia",
@@ -143,15 +143,15 @@
     "urlSlug": "rime"
   },
   {
-    "epicId": "b8c9b6788e4b4794b2b537076c2ced9d",
-    "epicRating": 0,
+    "epicId": "1df23e2b661146398af9aa9d4510c75c",
+    "epicRating": 4.23,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/city-of-brass",
     "freeDate": "2019-05-30",
     "gameTitle": "City of Brass",
     "mappingSlug": "",
     "productSlug": "city-of-brass/home",
-    "sandboxId": "",
-    "urlSlug": "arrowroot"
+    "sandboxId": "fa234e40c4d44dfa84fbcb302fef0233",
+    "urlSlug": "city-of-brass"
   },
   {
     "epicId": "edd2031b28e2451b9e1264025e98926c",
@@ -385,26 +385,26 @@
     "urlSlug": "goldeneyegeneralaudience"
   },
   {
-    "epicId": "5d701b13e9fb423aa53553fc94112bce",
-    "epicRating": 0,
+    "epicId": "50b14c829c764b19bb1a5a4c9b4f062a",
+    "epicRating": 4.56,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/lego-batman-3",
     "freeDate": "2019-09-19",
     "gameTitle": "LEGO Batman 3: Beyond Gotham",
-    "mappingSlug": "",
+    "mappingSlug": "lego-batman-3\u002Fhome",
     "productSlug": "lego-batman-3/home",
-    "sandboxId": "",
-    "urlSlug": "lego-batman-3-beyond-gotham"
+    "sandboxId": "83022e1b4c304addb2aadee1db854f8d",
+    "urlSlug": "lego-batman-3"
   },
   {
-    "epicId": "ad6b9e6c4cfc4b959ce44ecad7565c7b",
-    "epicRating": 0,
+    "epicId": "5e802a1ec87e419182e6b4271ce2bb80",
+    "epicRating": 4.62,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/lego-batman-2",
     "freeDate": "2019-09-19",
     "gameTitle": "LEGO Batman 2: DC Super Heroes",
     "mappingSlug": "",
     "productSlug": "lego-batman-2/home",
-    "sandboxId": "",
-    "urlSlug": "lego-batman-2-dc-super-heroes"
+    "sandboxId": "cb23c857ec0d42d89b4be34d11302959",
+    "urlSlug": "lego-batman-2"
   },
   {
     "epicId": "f036adb25c9347c69344b7642cb31e64",
@@ -440,15 +440,15 @@
     "urlSlug": ""
   },
   {
-    "epicId": "09efa4c5d30a411eb012f881802f8453",
-    "epicRating": 0,
+    "epicId": "prod-petunia",
+    "epicRating": 4.69,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/metro-2033-redux",
     "freeDate": "2019-09-26",
     "gameTitle": "Metro 2033 Redux",
     "mappingSlug": "",
     "productSlug": "metro-2033-redux/home",
-    "sandboxId": "",
-    "urlSlug": ""
+    "sandboxId": "Metro 2033 Redux",
+    "urlSlug": "metro-2033-redux"
   },
   {
     "epicId": "a6178a59ce744e089c1a8e44010c3aff",
@@ -506,15 +506,15 @@
     "urlSlug": "alan-wake-american-nightmare"
   },
   {
-    "epicId": "7b779d493edc43b7bf12dd5650dabd49",
-    "epicRating": 0,
+    "epicId": "ff0ade54077543a99f000452c374d481",
+    "epicRating": 4.44,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/q-u-b-e-2",
     "freeDate": "2019-10-24",
     "gameTitle": "Q.U.B.E. 2",
-    "mappingSlug": "",
+    "mappingSlug": "q-u-b-e-2\u002Fhome",
     "productSlug": "q-u-b-e-2/home",
-    "sandboxId": "",
-    "urlSlug": "q-u-b-e"
+    "sandboxId": "4b5f1eb366dc45f0920d397c01b291ba",
+    "urlSlug": "q-u-b-e-2"
   },
   {
     "epicId": "6467d7c966244e40a72d776ea430f357",
@@ -792,26 +792,26 @@
     "urlSlug": "steep--90s-dlc"
   },
   {
-    "epicId": "fed082ca65fd45448e45a2e0f3bb22c3",
-    "epicRating": 0,
+    "epicId": "264784755dec4382b0033a4d63a4209a",
+    "epicRating": 4.61,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/darksiders",
     "freeDate": "2020-01-01",
     "gameTitle": "Darksiders: Warmastered Edition",
-    "mappingSlug": "",
+    "mappingSlug": "darksiders\u002Fhome",
     "productSlug": "darksiders/home",
-    "sandboxId": "",
-    "urlSlug": "darksiders-warmastered-edition"
+    "sandboxId": "2bc23fc2438c47ec8acb0641980f50c1",
+    "urlSlug": "darksiders"
   },
   {
-    "epicId": "4530e0cba368471fbee9107df203c2e4",
-    "epicRating": 0,
+    "epicId": "0f48e9fb745c41d48e892a6c0036ba52",
+    "epicRating": 4.61,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/darksiders2",
     "freeDate": "2020-01-01",
     "gameTitle": "Darksiders II: Deathinitive Edition",
-    "mappingSlug": "",
+    "mappingSlug": "darksiders2\u002Fhome",
     "productSlug": "darksiders2/home",
-    "sandboxId": "",
-    "urlSlug": "darksiders-ii-deathinitive-edition"
+    "sandboxId": "091d95ea332843498122beee1a786d71",
+    "urlSlug": "darksiders2"
   },
   {
     "epicId": "1c69ffb2de3d4bd08ad09a47bfb46537",
@@ -914,14 +914,14 @@
   },
   {
     "epicId": "02950ab2195f44dbb665264229b015c7",
-    "epicRating": 0,
+    "epicRating": 4.51,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/assassins-creed-syndicate",
     "freeDate": "2020-02-20",
     "gameTitle": "Assassin's Creed Syndicate",
-    "mappingSlug": "",
+    "mappingSlug": "assassins-creed-syndicate\u002Fhome",
     "productSlug": "assassins-creed-syndicate/home",
-    "sandboxId": "",
-    "urlSlug": "assassin-s-creed-syndicate"
+    "sandboxId": "c9be94273fe244c08032ca493ad87434",
+    "urlSlug": "assassins-creed-syndicate"
   },
   {
     "epicId": "4e2072e53390489b8b35ddf6a1e52aa8",
@@ -1100,14 +1100,14 @@
     "urlSlug": "cuskgeneralaudience"
   },
   {
-    "epicId": "5354dc63819f416a80ef712d9d410351",
-    "epicRating": 0,
+    "epicId": "fd52dea4c76a4d118358ce654a868ce5",
+    "epicRating": 3.97,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/close-to-the-sun",
     "freeDate": "2020-04-09",
     "gameTitle": "Close to the Sun",
-    "mappingSlug": "",
-    "productSlug": "close-to-the-sun/home",
-    "sandboxId": "",
+    "mappingSlug": "close-to-the-sun\u002Fhome",
+    "productSlug": "close-to-the-sun",
+    "sandboxId": "silene",
     "urlSlug": "silene"
   },
   {
@@ -1518,15 +1518,15 @@
     "urlSlug": "railway-empire"
   },
   {
-    "epicId": "d9abe2371ab64987906aff81a0ee0e61",
-    "epicRating": 0,
+    "epicId": "prod-angelonia",
+    "epicRating": 4.61,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/watch-dogs-2",
     "freeDate": "2020-09-17",
     "gameTitle": "Watch Dogs 2",
     "mappingSlug": "",
     "productSlug": "watch-dogs-2/home",
-    "sandboxId": "",
-    "urlSlug": "watchdogs2"
+    "sandboxId": "angelonia",
+    "urlSlug": "watch-dogs-2"
   },
   {
     "epicId": "0d25ff58568a41feb949ef3fc7cf8e13",
@@ -1804,15 +1804,15 @@
     "urlSlug": "lethegeneralaudience"
   },
   {
-    "epicId": "09efa4c5d30a411eb012f881802f8453",
-    "epicRating": 0,
+    "epicId": "prod-petunia",
+    "epicRating": 4.69,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/metro-2033-redux",
     "freeDate": "2020-12-22",
     "gameTitle": "Metro 2033 Redux",
     "mappingSlug": "",
     "productSlug": "metro-2033-redux/home",
-    "sandboxId": "",
-    "urlSlug": "petunia"
+    "sandboxId": "Metro 2033 Redux",
+    "urlSlug": "metro-2033-redux"
   },
   {
     "epicId": "6248c7a0602c4f6ba4f47815f87054ec",
@@ -1848,14 +1848,14 @@
     "urlSlug": "darkest-dungeon"
   },
   {
-    "epicId": "bb21e60c34c84911929b66471c6c7374",
-    "epicRating": 0,
+    "epicId": "prod-cobra",
+    "epicRating": 4.67,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/my-time-at-portia",
     "freeDate": "2020-12-26",
     "gameTitle": "My Time at Portia",
-    "mappingSlug": "my-time-at-portia",
-    "productSlug": "",
-    "sandboxId": "",
+    "mappingSlug": "my-time-at-portia\u002Fhome",
+    "productSlug": "my-time-at-portia",
+    "sandboxId": "cobra",
     "urlSlug": "my-time-at-portia-support-a-creator"
   },
   {
@@ -2695,15 +2695,15 @@
     "urlSlug": "godfall--deluxe-upgrade"
   },
   {
-    "epicId": "4045372b7cc449b3bcfbe4af8d31bf10",
-    "epicRating": 0,
+    "epicId": "a65a116c194d4e4580541053a462c661",
+    "epicRating":  4.23,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/shenmue-3",
     "freeDate": "2021-12-16",
     "gameTitle": "Shenmue III",
-    "mappingSlug": "",
-    "productSlug": "shenmue-3/home",
-    "sandboxId": "",
-    "urlSlug": "shenmue-ii"
+    "mappingSlug": "shenmue-3\u002Fhome",
+    "productSlug": "shenmue-3",
+    "sandboxId": "5d582c08e31a43128a61093a2c3ff7f0",
+    "urlSlug": "shenmue-3"
   },
   {
     "epicId": "9fa34380642944feaa4769443282183e",
@@ -3047,15 +3047,15 @@
     "urlSlug": "total-war-warhammer"
   },
   {
-    "epicId": "b8c9b6788e4b4794b2b537076c2ced9d",
-    "epicRating": 0,
+    "epicId": "1df23e2b661146398af9aa9d4510c75c",
+    "epicRating": 4.23,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/city-of-brass",
     "freeDate": "2022-03-31",
     "gameTitle": "City of Brass",
     "mappingSlug": "",
     "productSlug": "city-of-brass/home",
-    "sandboxId": "",
-    "urlSlug": "arrowroot"
+    "sandboxId": "fa234e40c4d44dfa84fbcb302fef0233",
+    "urlSlug": "city-of-brass"
   },
   {
     "epicId": "bdea68145b61462f9cd17068e835aadf",
