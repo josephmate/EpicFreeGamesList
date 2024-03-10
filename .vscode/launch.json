@@ -12,6 +12,7 @@
       "program": "${fileDirname}",
       "env": {},
       "args": [
+        "fix_ratings",
         "--inputFile",
         "epic_free_games.json",
         "--outputFile",

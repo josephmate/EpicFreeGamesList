@@ -26,6 +26,8 @@ func main() {
 		CliHandlerRating()
 	} else if operation == "free" {
 		CliHandlerFree()
+	} else if operation == "fix_ratings" {
+		CliHandlerFixRatings()
 	} else {
 		fmt.Println("--operation", operation, "is not recognized. only search and rate are supported")
 	}

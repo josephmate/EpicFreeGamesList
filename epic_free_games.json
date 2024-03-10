@@ -1,24 +1,24 @@
 [
   {
-    "epicId": "c7fcbd662a504064bc35c7e23396e705",
-    "epicRating": 0,
+    "epicId": "prod-jaguar",
+    "epicRating": 4.85,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/subnautica",
     "freeDate": "2018-12-14",
     "gameTitle": "Subnautica",
     "mappingSlug": "subnautica",
     "productSlug": "subnautica",
-    "sandboxId": "",
+    "sandboxId": "jaguar",
     "urlSlug": "subnautica"
   },
   {
-    "epicId": "ef66029a1c0d467ea7755f6a88b4088c",
-    "epicRating": 0,
+    "epicId": "prod-buffalo",
+    "epicRating": 4.73,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/super-meat-boy",
     "freeDate": "2018-12-28",
     "gameTitle": "Super Meat Boy",
     "mappingSlug": "",
     "productSlug": "super-meat-boy",
-    "sandboxId": "",
+    "sandboxId": "buffalo",
     "urlSlug": "super-meat-boy"
   },
   {
@@ -33,14 +33,14 @@
     "urlSlug": "badger"
   },
   {
-    "epicId": "c2b84fbc7ee04617a5daf59e4156e9a2",
-    "epicRating": 0,
+    "epicId": "prod-feverfew",
+    "epicRating": 4.93,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/jackbox-party-pack-1",
     "freeDate": "2019-01-24",
     "gameTitle": "The Jackbox Party Pack",
     "mappingSlug": "",
-    "productSlug": "jackbox-party-pack-1/home",
-    "sandboxId": "",
+    "productSlug": "jackbox-party-pack-1",
+    "sandboxId": "feverfew",
     "urlSlug": "jackbox-party-pack-1"
   },
   {
@@ -66,14 +66,14 @@
     "urlSlug": "deloresgeneralaudience"
   },
   {
-    "epicId": "20471162a8484bf78d9204c59203bfef",
-    "epicRating": 0,
+    "epicId": "34f98a406ed74c7f906eacead1570f3c",
+    "epicRating": 4.82,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/slime-rancher",
     "freeDate": "2019-03-07",
     "gameTitle": "Slime Rancher",
     "mappingSlug": "",
     "productSlug": "slime-rancher",
-    "sandboxId": "",
+    "sandboxId": "corydalis",
     "urlSlug": "slime-rancher"
   },
   {
@@ -88,14 +88,14 @@
     "urlSlug": "hibiscus"
   },
   {
-    "epicId": "1d5b634b8e8c4b96b9083fc6efb986be",
-    "epicRating": 0,
+    "epicId": "prod-magnolia",
+    "epicRating": 4.69,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-witness",
     "freeDate": "2019-04-04",
     "gameTitle": "The Witness",
     "mappingSlug": "",
-    "productSlug": "the-witness/home",
-    "sandboxId": "",
+    "productSlug": "the-witness",
+    "sandboxId": "magnolia",
     "urlSlug": "the-witness"
   },
   {
@@ -110,36 +110,36 @@
     "urlSlug": "dill-general-access"
   },
   {
-    "epicId": "5c36e7edaa91442496d9223bccce9e66",
-    "epicRating": 0,
+    "epicId": "593dcb4fe2a14cffa72e7274a2dd504c",
+    "epicRating": 4.73,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/world-of-goo",
     "freeDate": "2019-05-02",
     "gameTitle": "World of Goo",
     "mappingSlug": "",
-    "productSlug": "world-of-goo/home",
-    "sandboxId": "",
+    "productSlug": "world-of-goo",
+    "sandboxId": "anemone",
     "urlSlug": "world-of-goo"
   },
   {
-    "epicId": "fdf22ba0f79b4cdda26efacdd6da0531",
-    "epicRating": 0,
+    "epicId": "38a76bf983ad43a7966401c8e9cc1b49",
+    "epicRating": 4.52,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/stories-untold",
     "freeDate": "2019-05-16",
     "gameTitle": "Stories Untold",
     "mappingSlug": "",
-    "productSlug": "stories-untold/home",
-    "sandboxId": "",
+    "productSlug": "stories-untold",
+    "sandboxId": "313f3719063340f886d90e70ae503cd4",
     "urlSlug": "stories-untold"
   },
   {
-    "epicId": "927bf0728077496ea33372e6c52b028a",
-    "epicRating": 0,
+    "epicId": "010d15e7d449454e841d37e153a8d33c",
+    "epicRating": 4.56,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/rime",
     "freeDate": "2019-05-23",
     "gameTitle": "RiME",
     "mappingSlug": "",
-    "productSlug": "rime/home",
-    "sandboxId": "",
+    "productSlug": "rime",
+    "sandboxId": "d0d1b5541a6540d5a81daacb3324639b",
     "urlSlug": "rime"
   },
   {
@@ -154,25 +154,25 @@
     "urlSlug": "arrowroot"
   },
   {
-    "epicId": "c98c8c591fdb472e97dc3169b097218a",
-    "epicRating": 0,
+    "epicId": "edd2031b28e2451b9e1264025e98926c",
+    "epicRating": 4.52,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/kingdom-new-lands",
     "freeDate": "2019-06-06",
     "gameTitle": "Kingdom New Lands",
     "mappingSlug": "",
-    "productSlug": "kingdom-new-lands/home",
-    "sandboxId": "",
+    "productSlug": "kingdom-new-lands",
+    "sandboxId": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
     "urlSlug": "kingdom-new-lands"
   },
   {
-    "epicId": "22d72beb09144234a1be92df9231e269",
-    "epicRating": 0,
+    "epicId": "373a2e61db9c41418340c0378c6989a2",
+    "epicRating": 4.84,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/enter-the-gungeon",
     "freeDate": "2019-06-13",
     "gameTitle": "Enter the Gungeon",
     "mappingSlug": "",
-    "productSlug": "enter-the-gungeon/home",
-    "sandboxId": "",
+    "productSlug": "enter-the-gungeon",
+    "sandboxId": "be13f6c4fb11427fbf3313ce93b97cc0",
     "urlSlug": "enter-the-gungeon"
   },
   {
@@ -253,25 +253,25 @@
     "urlSlug": "moonlighter"
   },
   {
-    "epicId": "e5ce878e1466414d9a05b8c54bdb5082",
-    "epicRating": 0,
+    "epicId": "prod-sundrop",
+    "epicRating": 4.52,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/for-honor",
     "freeDate": "2019-08-02",
     "gameTitle": "For Honor",
     "mappingSlug": "for-honor",
-    "productSlug": "",
-    "sandboxId": "",
+    "productSlug": "for-honor--medjay-hero",
+    "sandboxId": "sundrop",
     "urlSlug": "for-honor--medjay-hero"
   },
   {
-    "epicId": "8e1c914755f44623be389ae027813f8c",
-    "epicRating": 0,
+    "epicId": "84f5fb95bac74e08b6fdb1628f9491b7",
+    "epicRating": 4.54,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/alan-wake",
     "freeDate": "2019-08-02",
     "gameTitle": "Alan Wake",
     "mappingSlug": "",
     "productSlug": "alan-wake",
-    "sandboxId": "",
+    "sandboxId": "00b9ec358e1f46daa4f8e1194d5081d8",
     "urlSlug": "alan-wake"
   },
   {
@@ -308,14 +308,14 @@
     "urlSlug": "hyper-light-drifter"
   },
   {
-    "epicId": "eb54a612eac94443888d40295b4c6234",
-    "epicRating": 0,
+    "epicId": "4f0cd8b701924f4b98be9b3948676a07",
+    "epicRating": 4.74,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/fez",
     "freeDate": "2019-08-22",
     "gameTitle": "Fez",
     "mappingSlug": "",
-    "productSlug": "fez/home",
-    "sandboxId": "",
+    "productSlug": "fez",
+    "sandboxId": "41f47fd0d3e248bc938a5815d6d64daa",
     "urlSlug": "fez"
   },
   {
@@ -451,14 +451,14 @@
     "urlSlug": ""
   },
   {
-    "epicId": "ca25cd054b29435c8e6e3794a27acbb2",
-    "epicRating": 0,
+    "epicId": "a6178a59ce744e089c1a8e44010c3aff",
+    "epicRating": 4.53,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/everything",
     "freeDate": "2019-09-26",
     "gameTitle": "Everything",
     "mappingSlug": "",
-    "productSlug": "everything/home",
-    "sandboxId": "",
+    "productSlug": "everything",
+    "sandboxId": "854ca270c7f04fe483212a35811e9189",
     "urlSlug": "everything"
   },
   {
@@ -495,14 +495,14 @@
     "urlSlug": ""
   },
   {
-    "epicId": "f5620c67c34c429b95fb5e1ce5aee82b",
-    "epicRating": 0,
+    "epicId": "0293ace10f2a46b481f736f3e06c491e",
+    "epicRating": 4.11,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/alan-wake-american-nightmare",
     "freeDate": "2019-10-17",
     "gameTitle": "Alan Wake's American Nightmare",
     "mappingSlug": "",
-    "productSlug": "alan-wake-american-nightmare/home",
-    "sandboxId": "",
+    "productSlug": "alan-wake-american-nightmare",
+    "sandboxId": "4d2a12aff0484d699b1806ab104d259b",
     "urlSlug": "alan-wake-american-nightmare"
   },
   {
@@ -528,25 +528,25 @@
     "urlSlug": "cilantrogeneralaudience"
   },
   {
-    "epicId": "52e1d1095dad49799b3e95cc591d29f6",
-    "epicRating": 0,
+    "epicId": "1f0c2b7ac810474a8ce948853d95738d",
+    "epicRating": 4.67,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/soma",
     "freeDate": "2019-10-31",
     "gameTitle": "Soma",
     "mappingSlug": "",
-    "productSlug": "soma/home",
-    "sandboxId": "",
+    "productSlug": "soma",
+    "sandboxId": "8a6a94901c8248fca1f5c78931c85cbd",
     "urlSlug": "soma"
   },
   {
-    "epicId": "456b1db2807544d596c6b8b4d415d538",
-    "epicRating": 0,
+    "epicId": "4a2c34b1d9ba407d8d5f3cef4dd123e9",
+    "epicRating": 4.56,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/costume-quest",
     "freeDate": "2019-10-31",
     "gameTitle": "Costume Quest",
     "mappingSlug": "",
-    "productSlug": "costume-quest/home",
-    "sandboxId": "",
+    "productSlug": "costume-quest",
+    "sandboxId": "d1479d6f93fa4e6ca4415e83a7a5d703",
     "urlSlug": "costume-quest"
   },
   {
@@ -561,47 +561,47 @@
     "urlSlug": "laridaegeneralaudience"
   },
   {
-    "epicId": "c46e7726fb6b465f8b1a749618edee64",
-    "epicRating": 0,
+    "epicId": "af422c0d66204723b7b657f3e9686222",
+    "epicRating": 4.79,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/nuclear-throne",
     "freeDate": "2019-11-07",
     "gameTitle": "Nuclear Throne",
     "mappingSlug": "",
-    "productSlug": "nuclear-throne/home",
-    "sandboxId": "",
+    "productSlug": "nuclear-throne",
+    "sandboxId": "742f165671424189aecdfdadf5ea9755",
     "urlSlug": "nuclear-throne"
   },
   {
-    "epicId": "124e1b42195949dda096a46a16061f27",
-    "epicRating": 0,
+    "epicId": "4d63784e33824d6aa15ce9cf0fdb659d",
+    "epicRating": 4.81,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-messenger",
     "freeDate": "2019-11-14",
     "gameTitle": "The Messenger",
     "mappingSlug": "",
-    "productSlug": "the-messenger/home",
-    "sandboxId": "",
+    "productSlug": "the-messenger",
+    "sandboxId": "752368fdba244e9386023cfb2b9d6ceb",
     "urlSlug": "the-messenger"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "3d3e0090a6dd43b8815246d09e43e0a6",
+    "epicRating": 4.69,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/bad-north",
     "freeDate": "2019-11-21",
     "gameTitle": "Bad North: Jotunn Edition",
     "mappingSlug": "bad-north",
     "productSlug": "bad-north",
-    "sandboxId": "",
+    "sandboxId": "aa5ef9d2f8394731a034504c562e292c",
     "urlSlug": "bad-north"
   },
   {
-    "epicId": "41bc6f9760b544a6a4907ba001ab41b3",
-    "epicRating": 0,
+    "epicId": "142456888e9149ee8a76de3b879ae7b7",
+    "epicRating": 4.8,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/rayman-legends",
     "freeDate": "2019-11-29",
     "gameTitle": "Rayman Legends",
     "mappingSlug": "",
-    "productSlug": "rayman-legends/home",
-    "sandboxId": "",
+    "productSlug": "rayman-legends",
+    "sandboxId": "fc8d1547232045f6a23257cfd04ef3e8",
     "urlSlug": "rayman-legends"
   },
   {
@@ -616,47 +616,47 @@
     "urlSlug": "grousegeneralaudience"
   },
   {
-    "epicId": "a5240293bb904531b66abdcc9819dab9",
-    "epicRating": 0,
+    "epicId": "80d9dee364f64e83ace0a57139fb45a1",
+    "epicRating": 4.81,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-wolf-among-us",
     "freeDate": "2019-12-12",
     "gameTitle": "The Wolf Among Us",
     "mappingSlug": "",
-    "productSlug": "the-wolf-among-us/home",
-    "sandboxId": "",
+    "productSlug": "the-wolf-among-us",
+    "sandboxId": "a8f9fb4a881e47b489715f18f7d08e2f",
     "urlSlug": "the-wolf-among-us"
   },
   {
-    "epicId": "33aaf380683a465ea91de7407faa7072",
-    "epicRating": 0,
+    "epicId": "eb88ba59290b406b8764fa3ec6ed33df",
+    "epicRating": 4.47,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-escapists",
     "freeDate": "2019-12-12",
     "gameTitle": "The Escapists",
     "mappingSlug": "",
-    "productSlug": "the-escapists/home",
-    "sandboxId": "",
+    "productSlug": "the-escapists",
+    "sandboxId": "61bc780f42f84fe29e6dfee957ab82de",
     "urlSlug": "the-escapists"
   },
   {
-    "epicId": "ac46070b9807412daef46a19064f139c",
-    "epicRating": 0,
+    "epicId": "4b75125058e34338af3a919674a87af0",
+    "epicRating": 4.84,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/into-the-breach",
     "freeDate": "2019-12-19",
     "gameTitle": "Into the Breach",
     "mappingSlug": "",
-    "productSlug": "into-the-breach/home",
-    "sandboxId": "",
+    "productSlug": "into-the-breach",
+    "sandboxId": "5c0d568c71174cff8026db2606771d96",
     "urlSlug": "into-the-breach"
   },
   {
-    "epicId": "99c0e480aa634b11be54bd02b018ee1c",
-    "epicRating": 0,
+    "epicId": "c5b36b658cc54e8784a9bfd9c3668b40",
+    "epicRating": 4.71,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/towerfall-ascension",
     "freeDate": "2019-12-20",
     "gameTitle": "TowerFall Ascension",
     "mappingSlug": "",
-    "productSlug": "towerfall-ascension/home",
-    "sandboxId": "",
+    "productSlug": "towerfall-ascension",
+    "sandboxId": "8e66d3f552b448afb1889c32ac855fc9",
     "urlSlug": "towerfall-ascension"
   },
   {
@@ -682,14 +682,14 @@
     "urlSlug": "little-inferno--ho-ho-holiday-edition"
   },
   {
-    "epicId": "1a3d31d61b02483e9a53349f6e52681e",
-    "epicRating": 0,
+    "epicId": "980a9f62bb1e4d5db2c0b55ae112f61c",
+    "epicRating": 4.64,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/ape-out",
     "freeDate": "2019-12-23",
     "gameTitle": "Ape Out",
     "mappingSlug": "",
-    "productSlug": "ape-out/home",
-    "sandboxId": "",
+    "productSlug": "ape-out",
+    "sandboxId": "6c77bc1b5faa4ac98441ec75cca0d320",
     "urlSlug": "ape-out"
   },
   {
@@ -704,25 +704,25 @@
     "urlSlug": "celeste"
   },
   {
-    "epicId": "19c0e2ad1b0b45819bf20819aeb6d669",
-    "epicRating": 0,
+    "epicId": "d09bc49eeaae4e628222e5d07d0099db",
+    "epicRating": 4.75,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/totally-accurate-battle-simulator",
     "freeDate": "2019-12-25",
     "gameTitle": "Totally Accurate Battle Simulator",
     "mappingSlug": "",
-    "productSlug": "totally-accurate-battle-simulator/home",
-    "sandboxId": "",
+    "productSlug": "totally-accurate-battle-simulator",
+    "sandboxId": "ffe512fa1e594ee6a75d4643d1e21b43",
     "urlSlug": "totally-accurate-battle-simulator"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "7388d4b0e0b34ea4b7c22d1a8c090e9a",
+    "epicRating": 4.79,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/faster-than-light",
     "freeDate": "2019-12-26",
     "gameTitle": "Faster Than Light",
     "mappingSlug": "faster-than-light",
     "productSlug": "faster-than-light",
-    "sandboxId": "",
+    "sandboxId": "f7dc1618d0bd4810a61f50d44333900e",
     "urlSlug": "faster-than-light"
   },
   {
@@ -748,25 +748,25 @@
     "urlSlug": "fangtoothgeneralaudience"
   },
   {
-    "epicId": "e94919806bc041c68b07cc43de675006",
-    "epicRating": 0,
+    "epicId": "75d25e76f4aa44c18993c7abd83903d8",
+    "epicRating": 4.73,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-talos-principle",
     "freeDate": "2019-12-29",
     "gameTitle": "The Talos Principle",
     "mappingSlug": "the-talos-principle-2-ab1034",
-    "productSlug": "",
-    "sandboxId": "",
+    "productSlug": "the-talos-principle",
+    "sandboxId": "400cc6605aee41de88f976b587a48aa0",
     "urlSlug": "the-talos-principle"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "prod-helloneighbor",
+    "epicRating": 4.57,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/hello-neighbor",
     "freeDate": "2019-12-30",
     "gameTitle": "Hello Neighbor",
     "mappingSlug": "hello-neighbor",
-    "productSlug": "",
-    "sandboxId": "",
+    "productSlug": "hello-neighbor",
+    "sandboxId": "helloneighbor",
     "urlSlug": "hello-neighbor"
   },
   {
@@ -814,14 +814,14 @@
     "urlSlug": "darksiders-ii-deathinitive-edition"
   },
   {
-    "epicId": "a1dc8e1eae69492d8af58ffc87b37fd2",
-    "epicRating": 0,
+    "epicId": "1c69ffb2de3d4bd08ad09a47bfb46537",
+    "epicRating": 4.61,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/sundered-eldritch-edition",
     "freeDate": "2020-01-09",
     "gameTitle": "Sundered: Eldritch Edition",
     "mappingSlug": "",
-    "productSlug": "sundered-eldritch-edition/home",
-    "sandboxId": "",
+    "productSlug": "sundered-eldritch-edition",
+    "sandboxId": "ca8077d80493497188e0ca5bca3ebe60",
     "urlSlug": "sundered-eldritch-edition"
   },
   {
@@ -836,14 +836,14 @@
     "urlSlug": "palilageneralaudience"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "e931215988e648418d1df5b4bf934c3c",
+    "epicRating": 4.17,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-bridge",
     "freeDate": "2020-01-23",
     "gameTitle": "The Bridge",
     "mappingSlug": "the-bridge",
     "productSlug": "the-bridge",
-    "sandboxId": "",
+    "sandboxId": "d5ee752640ef4cee8b7f5364410ba41f",
     "urlSlug": "the-bridge"
   },
   {
@@ -968,36 +968,36 @@
     "urlSlug": "opalgeneralaudience"
   },
   {
-    "epicId": "b95cc446495f49d6a8cb1fced54e721d",
-    "epicRating": 0,
+    "epicId": "914afa33916d440cbdc06c0782b782a8",
+    "epicRating": 4.29,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/anodyne-2-return-to-dust",
     "freeDate": "2020-03-12",
     "gameTitle": "Anodyne 2: Return to Dust",
     "mappingSlug": "",
-    "productSlug": "anodyne-2-return-to-dust/home",
-    "sandboxId": "",
+    "productSlug": "anodyne-2-return-to-dust",
+    "sandboxId": "395be8a9aed24142b30b6abb2778e995",
     "urlSlug": "anodyne-2-return-to-dust"
   },
   {
-    "epicId": "f3ffb4578e294383b902536e131841bc",
-    "epicRating": 0,
+    "epicId": "5900d5b75cb24e4ca6ac93c30155fb72",
+    "epicRating": 4.83,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/a-short-hike",
     "freeDate": "2020-03-12",
     "gameTitle": "A Short Hike",
     "mappingSlug": "",
-    "productSlug": "a-short-hike/home",
-    "sandboxId": "",
+    "productSlug": "a-short-hike",
+    "sandboxId": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
     "urlSlug": "a-short-hike"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "0ef48c2fbefa4e75a5753c0a4ae919c9",
+    "epicRating": 4.58,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/watch-dogs",
     "freeDate": "2020-03-19",
     "gameTitle": "Watch Dogs",
     "mappingSlug": "",
     "productSlug": "watch-dogs",
-    "sandboxId": "",
+    "sandboxId": "ecebf45065bc4993abfe0e84c40ff18e",
     "urlSlug": "watch-dogs"
   },
   {
@@ -1034,14 +1034,14 @@
     "urlSlug": "gobygeneralaudience"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "1c8da4b090f347819213f9130f5289d7",
+    "epicRating": 4.48,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/figment",
     "freeDate": "2020-03-26",
     "gameTitle": "Figment",
     "mappingSlug": "figment",
-    "productSlug": "",
-    "sandboxId": "",
+    "productSlug": "figment",
+    "sandboxId": "270e1d648a5e4060b7b441615c4da4d9",
     "urlSlug": "figment"
   },
   {
@@ -1056,14 +1056,14 @@
     "urlSlug": "hoatzindeluxeaudience"
   },
   {
-    "epicId": "984e5e4ed4574586a2f6b4041dd13b4d",
-    "epicRating": 0,
+    "epicId": "a047b3a87dfd4e489bb9fc200aa0e6c7",
+    "epicRating": 4.57,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/hob",
     "freeDate": "2020-04-02",
     "gameTitle": "Hob",
     "mappingSlug": "",
-    "productSlug": "hob/home",
-    "sandboxId": "",
+    "productSlug": "hob",
+    "sandboxId": "e1067ce994e24a4abbe36247eaa26bfd",
     "urlSlug": "hob"
   },
   {
@@ -1078,14 +1078,14 @@
     "urlSlug": "fliergeneralaudience"
   },
   {
-    "epicId": "a95fc18c1d7846b2833f9d42d5d9c658",
+    "epicId": "prod-daisy",
     "epicRating": 0,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/drawful-2",
     "freeDate": "2020-04-02",
     "gameTitle": "Drawful 2",
     "mappingSlug": "drawful-2",
     "productSlug": "drawful-2",
-    "sandboxId": "",
+    "sandboxId": "daisy",
     "urlSlug": "drawful-2"
   },
   {
@@ -1133,14 +1133,14 @@
     "urlSlug": "kakopo-reloaded"
   },
   {
-    "epicId": "55e88d9d4c864d53ba3a03f58222ed24",
-    "epicRating": 0,
+    "epicId": "55cfb7ec385d4a009bef201249c03db9",
+    "epicRating": 4.7,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/for-the-king",
     "freeDate": "2020-04-23",
     "gameTitle": "For the King",
     "mappingSlug": "",
-    "productSlug": "for-the-king/home",
-    "sandboxId": "",
+    "productSlug": "for-the-king",
+    "sandboxId": "4492ce99b4124b74a0bb83f78b3d70b8",
     "urlSlug": "for-the-king"
   },
   {
@@ -1221,14 +1221,14 @@
     "urlSlug": "borderlands-2"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "4b3ecffc16b14b5aa968abe906ba457d",
+    "epicRating": 4.66,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/overcooked",
     "freeDate": "2020-06-04",
     "gameTitle": "Overcooked",
     "mappingSlug": "overcooked",
     "productSlug": "overcooked",
-    "sandboxId": "",
+    "sandboxId": "4561b40e52584ac2bcf34bbd5c401480",
     "urlSlug": "overcooked"
   },
   {
@@ -1265,14 +1265,14 @@
     "urlSlug": "pathway"
   },
   {
-    "epicId": "",
+    "epicId": "6114b5847a944f0aaba5fc61f1524da8",
     "epicRating": 0,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/stranger-things-3-the-game",
     "freeDate": "2020-06-25",
     "gameTitle": "Stranger Things 3: The Game",
     "mappingSlug": "stranger-things-3-the-game",
     "productSlug": "stranger-things-3-the-game",
-    "sandboxId": "",
+    "sandboxId": "05279bd00f094731a273370b7c639f24",
     "urlSlug": "stranger-things-3-the-game"
   },
   {
@@ -1353,7 +1353,7 @@
     "urlSlug": "flagfingeneralaudience"
   },
   {
-    "epicId": "bc24fd6c82354ae18279e18effaa640e",
+    "epicId": "8855742b74c0449b96eab666e5bdd650",
     "epicRating": 0,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/next-up-hero",
     "freeDate": "2020-07-23",
@@ -1452,14 +1452,14 @@
     "urlSlug": "gods-trigger-omg-edition"
   },
   {
-    "epicId": "22d72beb09144234a1be92df9231e269",
-    "epicRating": 0,
+    "epicId": "373a2e61db9c41418340c0378c6989a2",
+    "epicRating": 4.84,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/enter-the-gungeon",
     "freeDate": "2020-08-20",
     "gameTitle": "Enter the Gungeon",
     "mappingSlug": "",
-    "productSlug": "enter-the-gungeon/home",
-    "sandboxId": "",
+    "productSlug": "enter-the-gungeon",
+    "sandboxId": "be13f6c4fb11427fbf3313ce93b97cc0",
     "urlSlug": "enter-the-gungeon"
   },
   {
@@ -1485,14 +1485,14 @@
     "urlSlug": ""
   },
   {
-    "epicId": "ac46070b9807412daef46a19064f139c",
-    "epicRating": 0,
+    "epicId": "4b75125058e34338af3a919674a87af0",
+    "epicRating": 4.84,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/into-the-breach",
     "freeDate": "2020-09-03",
     "gameTitle": "Into the Breach",
     "mappingSlug": "",
-    "productSlug": "into-the-breach/home",
-    "sandboxId": "",
+    "productSlug": "into-the-breach",
+    "sandboxId": "5c0d568c71174cff8026db2606771d96",
     "urlSlug": "into-the-breach"
   },
   {
@@ -1507,14 +1507,14 @@
     "urlSlug": "capelingeneralaudience"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "4a1ab4073ea24b218b363e905ffe609c",
+    "epicRating": 4.51,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/railway-empire",
     "freeDate": "2020-09-10",
     "gameTitle": "Railway Empire",
     "mappingSlug": "railway-empire",
     "productSlug": "railway-empire",
-    "sandboxId": "",
+    "sandboxId": "93b333eb973b45b582f3bdf68dfc1dc9",
     "urlSlug": "railway-empire"
   },
   {
@@ -1595,14 +1595,14 @@
     "urlSlug": "abzu"
   },
   {
-    "epicId": "c98c8c591fdb472e97dc3169b097218a",
-    "epicRating": 0,
+    "epicId": "edd2031b28e2451b9e1264025e98926c",
+    "epicRating": 4.52,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/kingdom-new-lands",
     "freeDate": "2020-10-15",
     "gameTitle": "Kingdom: New Lands",
     "mappingSlug": "",
-    "productSlug": "kingdom-new-lands/home",
-    "sandboxId": "",
+    "productSlug": "kingdom-new-lands",
+    "sandboxId": "0e87bed2a83c4cf6a68a7aeb43f25cf0",
     "urlSlug": "kingdom-new-lands"
   },
   {
@@ -1837,14 +1837,14 @@
     "urlSlug": "marigoldgeneralaudience"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "c9ce7a0f7b9e4368b4efe3189aa70700",
+    "epicRating": 4.76,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/darkest-dungeon",
     "freeDate": "2020-12-25",
     "gameTitle": "Darkest Dungeon",
     "mappingSlug": "darkest-dungeon",
     "productSlug": "darkest-dungeon",
-    "sandboxId": "",
+    "sandboxId": "21916c391ae4425d8f6cce2382aebd0c",
     "urlSlug": "darkest-dungeon"
   },
   {
@@ -1903,14 +1903,14 @@
     "urlSlug": "torchlight-ii"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "b9427274e2ee4976a72d0b89c5c16825",
+    "epicRating": 4.62,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/jurassic-world-evolution",
     "freeDate": "2020-12-31",
     "gameTitle": "Jurassic World Evolution",
     "mappingSlug": "jurassic-world-evolution",
-    "productSlug": "",
-    "sandboxId": "",
+    "productSlug": "jurassic-world-evolution",
+    "sandboxId": "047392e91d5e4cfdb19e2767440ab206",
     "urlSlug": "jurassic-world-evolution"
   },
   {
@@ -1925,7 +1925,7 @@
     "urlSlug": "crying-suns--home"
   },
   {
-    "epicId": "ea7721c6c2694e72813d3661bc68a2cb",
+    "epicId": "605701bceb4a4cd3b0dd5c60152dcb2b",
     "epicRating": 0,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/star-wars-battlefront-2",
     "freeDate": "2021-01-14",
@@ -1958,25 +1958,25 @@
     "urlSlug": "dandara"
   },
   {
-    "epicId": "6bad44fc6dd9456081442559c51a577f",
-    "epicRating": 0,
+    "epicId": "95da6fba3816455cb8de5241681e1a10",
+    "epicRating": 4.69,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/metro-last-light-redux",
     "freeDate": "2021-02-04",
     "gameTitle": "Metro: Last Light Redux",
     "mappingSlug": "",
     "productSlug": "metro-last-light-redux",
-    "sandboxId": "",
+    "sandboxId": "c5e786eddfd041caa9984213e3f9621d",
     "urlSlug": "speedwell"
   },
   {
-    "epicId": "55e88d9d4c864d53ba3a03f58222ed24",
-    "epicRating": 0,
+    "epicId": "55cfb7ec385d4a009bef201249c03db9",
+    "epicRating": 4.7,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/for-the-king",
     "freeDate": "2021-02-04",
     "gameTitle": "For the King",
     "mappingSlug": "",
-    "productSlug": "for-the-king/home",
-    "sandboxId": "",
+    "productSlug": "for-the-king",
+    "sandboxId": "4492ce99b4124b74a0bb83f78b3d70b8",
     "urlSlug": "for-the-king"
   },
   {
@@ -2046,14 +2046,14 @@
     "urlSlug": "surviving-mars--starter-bundle"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "9eb0e6e024af4701b1640f4c8bc52ee0",
+    "epicRating": 4.22,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-fall",
     "freeDate": "2021-03-18",
     "gameTitle": "The Fall",
     "mappingSlug": "the-fall",
     "productSlug": "the-fall",
-    "sandboxId": "",
+    "sandboxId": "d16f231f238646e881bb0cd83e1d30c8",
     "urlSlug": "the-fall"
   },
   {
@@ -2189,14 +2189,14 @@
     "urlSlug": "nba-2k21"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "5fa322f021de4d338d61f6e1dae8b6e9",
+    "epicRating": 4.56,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/among-us",
     "freeDate": "2021-05-27",
     "gameTitle": "Among Us",
     "mappingSlug": "among-us",
     "productSlug": "among-us",
-    "sandboxId": "",
+    "sandboxId": "33956bcb55d4452d8c47e16b94e294bd",
     "urlSlug": "among-us"
   },
   {
@@ -2222,14 +2222,14 @@
     "urlSlug": "genshin-impact"
   },
   {
-    "epicId": "8a97a7d4d0e44523b9aa064f457627da",
-    "epicRating": 0,
+    "epicId": "prod-calluna",
+    "epicRating": 4.61,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/control",
     "freeDate": "2021-06-10",
     "gameTitle": "Control",
     "mappingSlug": "control",
     "productSlug": "control",
-    "sandboxId": "",
+    "sandboxId": "calluna",
     "urlSlug": "control"
   },
   {
@@ -2486,14 +2486,14 @@
     "urlSlug": "franciumgeneralaudience"
   },
   {
-    "epicId": "33aaf380683a465ea91de7407faa7072",
-    "epicRating": 0,
+    "epicId": "eb88ba59290b406b8764fa3ec6ed33df",
+    "epicRating": 4.47,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-escapists",
     "freeDate": "2021-09-23",
     "gameTitle": "The Escapists",
     "mappingSlug": "",
-    "productSlug": "the-escapists/home",
-    "sandboxId": "",
+    "productSlug": "the-escapists",
+    "sandboxId": "61bc780f42f84fe29e6dfee957ab82de",
     "urlSlug": "the-escapists"
   },
   {
@@ -2585,14 +2585,14 @@
     "urlSlug": "tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure"
   },
   {
-    "epicId": "3018c3f67f9b4982b87905293a3f4447",
-    "epicRating": 0,
+    "epicId": "7c0a8a40ba4a47dd899eed51a8fbc3fe",
+    "epicRating": 4.29,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/rogue-company",
     "freeDate": "2021-11-11",
     "gameTitle": "Rogue Company Season Four Epic Pack",
     "mappingSlug": "",
-    "productSlug": "rogue-company/home",
-    "sandboxId": "epic",
+    "productSlug": "rogue-company",
+    "sandboxId": "933ada2ec45e4184ae840d64c99e0ba9",
     "urlSlug": "rogue-company"
   },
   {
@@ -2640,14 +2640,14 @@
     "urlSlug": "thehuntercallofthewild-cuatrocolinasexplorercosmeticpack"
   },
   {
-    "epicId": "",
+    "epicId": "e237c9f119524de199e0bdc9d52d8246",
     "epicRating": 0,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/antstream-arcade--epic-welcome-pack",
     "freeDate": "2021-11-25",
     "gameTitle": "Antstream Epic Welcome Pack",
     "mappingSlug": "antstream-arcade--epic-welcome-pack",
     "productSlug": "antstream-arcade--epic-welcome-pack",
-    "sandboxId": "",
+    "sandboxId": "7c7e1c220ce74bd8b5df4190ca7c3098",
     "urlSlug": "antstream-arcade--epic-welcome-pack"
   },
   {
@@ -2750,14 +2750,14 @@
     "urlSlug": "loop-hero"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "b6cc19713fdf44b398c0988a9fc111aa",
+    "epicRating": 4.06,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/second-extinction",
     "freeDate": "2021-12-21",
     "gameTitle": "Second Extinction",
     "mappingSlug": "second-extinction",
     "productSlug": "second-extinction",
-    "sandboxId": "",
+    "sandboxId": "fcd3387b58864614b66952d0430d2b9a",
     "urlSlug": "second-extinction"
   },
   {
@@ -2772,14 +2772,14 @@
     "urlSlug": "falcongeneralaudience"
   },
   {
-    "epicId": "1c319cea18464c909b9b0c2ea5e155a0",
-    "epicRating": 0,
+    "epicId": "prod-nautilus",
+    "epicRating": 4.32,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/vampyr",
     "freeDate": "2021-12-23",
     "gameTitle": "Vampyr",
     "mappingSlug": "",
     "productSlug": "vampyr",
-    "sandboxId": "",
+    "sandboxId": "nautilus",
     "urlSlug": "vampyr"
   },
   {
@@ -2805,14 +2805,14 @@
     "urlSlug": "prey"
   },
   {
-    "epicId": "8a97a7d4d0e44523b9aa064f457627da",
-    "epicRating": 0,
+    "epicId": "prod-calluna",
+    "epicRating": 4.61,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/control",
     "freeDate": "2021-12-26",
     "gameTitle": "Control",
     "mappingSlug": "control",
     "productSlug": "control",
-    "sandboxId": "",
+    "sandboxId": "calluna",
     "urlSlug": "control"
   },
   {
@@ -3036,14 +3036,14 @@
     "urlSlug": "demons-tilt--collector-pack"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "37aad134306b48c8a2ab96f65589ac88",
+    "epicRating": 4.58,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/total-war-warhammer",
     "freeDate": "2022-03-31",
     "gameTitle": "Total War: Warhammer",
     "mappingSlug": "total-war-warhammer",
     "productSlug": "total-war-warhammer",
-    "sandboxId": "",
+    "sandboxId": "0c321ac6d5fe49139c153253b60702f4",
     "urlSlug": "total-war-warhammer"
   },
   {
@@ -3245,14 +3245,14 @@
     "urlSlug": "wolfenstein-the-new-order"
   },
   {
-    "epicId": "cf0f9c305d5d4dc9bd0fc4c14b5f2c5d",
-    "epicRating": 0,
+    "epicId": "prod-turtle",
+    "epicRating": 4.49,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/maneater",
     "freeDate": "2022-06-09",
     "gameTitle": "Maneater",
     "mappingSlug": "maneater",
     "productSlug": "maneater",
-    "sandboxId": "",
+    "sandboxId": "turtle",
     "urlSlug": "maneater"
   },
   {
@@ -3476,14 +3476,14 @@
     "urlSlug": "a08cb593e42c4543b34082fa85a45478"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "1b0f5326baf149a6991b546aabf1f214",
+    "epicRating": 4.48,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/knockout-city--beta",
     "freeDate": "2022-09-01",
     "gameTitle": "Knockout City - Armazillo DLC Pack",
     "mappingSlug": "knockout-city--beta",
     "productSlug": "knockout-city--beta",
-    "sandboxId": "",
+    "sandboxId": "5bb3d43818ae4188850fe1dbad9d57a5",
     "urlSlug": "knockout-city--beta"
   },
   {
@@ -3740,7 +3740,7 @@
     "urlSlug": "bobcatgeneralaudience-01"
   },
   {
-    "epicId": "73aab98edb9e4151ababe3122c5fbafb",
+    "epicId": "34c962aeaa0d4da08b11f368e65a83bd",
     "epicRating": 0,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/rpg-in-a-box",
     "freeDate": "2022-12-01",
@@ -3905,25 +3905,25 @@
     "urlSlug": "encased--soundtrack"
   },
   {
-    "epicId": "6bad44fc6dd9456081442559c51a577f",
-    "epicRating": 0,
+    "epicId": "95da6fba3816455cb8de5241681e1a10",
+    "epicRating": 4.69,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/metro-last-light-redux",
     "freeDate": "2022-12-24",
     "gameTitle": "Metro Last Light Redux",
     "mappingSlug": "",
     "productSlug": "metro-last-light-redux",
-    "sandboxId": "",
+    "sandboxId": "c5e786eddfd041caa9984213e3f9621d",
     "urlSlug": "speedwell"
   },
   {
-    "epicId": "9a071cfb3827440ba36cbef6a6042186",
-    "epicRating": 0,
+    "epicId": "da519d41698b4854815db7371210c3a1",
+    "epicRating": 4.78,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/death-stranding",
     "freeDate": "2022-12-25",
     "gameTitle": "Death Stranding",
     "mappingSlug": "",
-    "productSlug": "death-stranding/home",
-    "sandboxId": "",
+    "productSlug": "death-stranding",
+    "sandboxId": "f4a904fcef2447439c35c4e6457f3027",
     "urlSlug": "death-stranding"
   },
   {
@@ -4224,14 +4224,14 @@
     "urlSlug": "dying-light"
   },
   {
-    "epicId": "",
-    "epicRating": 0,
+    "epicId": "b6cc19713fdf44b398c0988a9fc111aa",
+    "epicRating": 4.06,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/second-extinction",
     "freeDate": "2023-04-13",
     "gameTitle": "Second Extinction™",
     "mappingSlug": "second-extinction",
     "productSlug": "second-extinction",
-    "sandboxId": "",
+    "sandboxId": "fcd3387b58864614b66952d0430d2b9a",
     "urlSlug": "second-extinction"
   },
   {
@@ -4323,14 +4323,14 @@
     "urlSlug": "the-sims-4"
   },
   {
-    "epicId": "9a071cfb3827440ba36cbef6a6042186",
-    "epicRating": 0,
+    "epicId": "da519d41698b4854815db7371210c3a1",
+    "epicRating": 4.78,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/death-stranding",
     "freeDate": "2023-05-18",
     "gameTitle": "Death Stranding",
     "mappingSlug": "",
-    "productSlug": "death-stranding/home",
-    "sandboxId": "",
+    "productSlug": "death-stranding",
+    "sandboxId": "f4a904fcef2447439c35c4e6457f3027",
     "urlSlug": "death-stranding"
   },
   {
@@ -4763,7 +4763,7 @@
     "urlSlug": "deliver-us-mars-general-audience"
   },
   {
-    "epicId": "61baaf316c8448e5b5c9ee80fe0b26f7",
+    "epicId": "d1da8fed066d4f8eaa817dea6455a822",
     "epicRating": 0,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/mighty-fight-federation",
     "freeDate": "2023-11-30",
@@ -4807,14 +4807,14 @@
     "urlSlug": "predecessor"
   },
   {
-    "epicId": "1b407c729763439aa8d8c6874f1cfb6e",
-    "epicRating": 0,
+    "epicId": "de7336b1e38842bea19189200c317175",
+    "epicRating": 4.45,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/destiny-2--legacy-collection-2023",
     "freeDate": "2023-12-13",
     "gameTitle": "Destiny 2: Legacy Collection",
     "mappingSlug": "",
     "productSlug": "destiny-2--legacy-collection-2023",
-    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "sandboxId": "428115def4ca4deea9d69c99c5a5a99e",
     "urlSlug": "mysterygame-1"
   },
   {
@@ -5082,7 +5082,7 @@
     "urlSlug": "super-meat-boy-forever-launch"
   },
   {
-    "epicId": "2fecb1793ce446408cd869611400a797",
+    "epicId": "599106e55816420d911b2f4448726cd6",
     "epicRating": 0,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/aerial-knights-never-yield",
     "freeDate": "2024-02-29",
