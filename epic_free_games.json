@@ -390,7 +390,7 @@
     "epicStoreLink": "https://store.epicgames.com/en-US/p/lego-batman-3",
     "freeDate": "2019-09-19",
     "gameTitle": "LEGO Batman 3: Beyond Gotham",
-    "mappingSlug": "lego-batman-3\u002Fhome",
+    "mappingSlug": "lego-batman-3/home",
     "productSlug": "lego-batman-3/home",
     "sandboxId": "83022e1b4c304addb2aadee1db854f8d",
     "urlSlug": "lego-batman-3"
@@ -511,7 +511,7 @@
     "epicStoreLink": "https://store.epicgames.com/en-US/p/q-u-b-e-2",
     "freeDate": "2019-10-24",
     "gameTitle": "Q.U.B.E. 2",
-    "mappingSlug": "q-u-b-e-2\u002Fhome",
+    "mappingSlug": "q-u-b-e-2/home",
     "productSlug": "q-u-b-e-2/home",
     "sandboxId": "4b5f1eb366dc45f0920d397c01b291ba",
     "urlSlug": "q-u-b-e-2"
@@ -797,7 +797,7 @@
     "epicStoreLink": "https://store.epicgames.com/en-US/p/darksiders",
     "freeDate": "2020-01-01",
     "gameTitle": "Darksiders: Warmastered Edition",
-    "mappingSlug": "darksiders\u002Fhome",
+    "mappingSlug": "darksiders/home",
     "productSlug": "darksiders/home",
     "sandboxId": "2bc23fc2438c47ec8acb0641980f50c1",
     "urlSlug": "darksiders"
@@ -808,7 +808,7 @@
     "epicStoreLink": "https://store.epicgames.com/en-US/p/darksiders2",
     "freeDate": "2020-01-01",
     "gameTitle": "Darksiders II: Deathinitive Edition",
-    "mappingSlug": "darksiders2\u002Fhome",
+    "mappingSlug": "darksiders2/home",
     "productSlug": "darksiders2/home",
     "sandboxId": "091d95ea332843498122beee1a786d71",
     "urlSlug": "darksiders2"
@@ -918,7 +918,7 @@
     "epicStoreLink": "https://store.epicgames.com/en-US/p/assassins-creed-syndicate",
     "freeDate": "2020-02-20",
     "gameTitle": "Assassin's Creed Syndicate",
-    "mappingSlug": "assassins-creed-syndicate\u002Fhome",
+    "mappingSlug": "assassins-creed-syndicate/home",
     "productSlug": "assassins-creed-syndicate/home",
     "sandboxId": "c9be94273fe244c08032ca493ad87434",
     "urlSlug": "assassins-creed-syndicate"
@@ -1105,7 +1105,7 @@
     "epicStoreLink": "https://store.epicgames.com/en-US/p/close-to-the-sun",
     "freeDate": "2020-04-09",
     "gameTitle": "Close to the Sun",
-    "mappingSlug": "close-to-the-sun\u002Fhome",
+    "mappingSlug": "close-to-the-sun/home",
     "productSlug": "close-to-the-sun",
     "sandboxId": "silene",
     "urlSlug": "silene"
@@ -1853,7 +1853,7 @@
     "epicStoreLink": "https://store.epicgames.com/en-US/p/my-time-at-portia",
     "freeDate": "2020-12-26",
     "gameTitle": "My Time at Portia",
-    "mappingSlug": "my-time-at-portia\u002Fhome",
+    "mappingSlug": "my-time-at-portia/home",
     "productSlug": "my-time-at-portia",
     "sandboxId": "cobra",
     "urlSlug": "my-time-at-portia-support-a-creator"
@@ -2696,11 +2696,11 @@
   },
   {
     "epicId": "a65a116c194d4e4580541053a462c661",
-    "epicRating":  4.23,
+    "epicRating": 4.23,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/shenmue-3",
     "freeDate": "2021-12-16",
     "gameTitle": "Shenmue III",
-    "mappingSlug": "shenmue-3\u002Fhome",
+    "mappingSlug": "shenmue-3/home",
     "productSlug": "shenmue-3",
     "sandboxId": "5d582c08e31a43128a61093a2c3ff7f0",
     "urlSlug": "shenmue-3"
@@ -5102,5 +5102,27 @@
     "productSlug": "",
     "sandboxId": "4a681a809a094e2c8dcc68353c68fed6",
     "urlSlug": "0218ebc2af7a45a6875cb57c893fce6a"
+  },
+  {
+    "epicId": "674967c55648467ba8e9d163a27170db",
+    "epicRating": 4.17,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-bridge",
+    "freeDate": "2024-03-14",
+    "gameTitle": "The Bridge",
+    "mappingSlug": "the-bridge",
+    "productSlug": "the-bridge/home",
+    "sandboxId": "d5ee752640ef4cee8b7f5364410ba41f",
+    "urlSlug": "sunbirdgeneralaudience"
+  },
+  {
+    "epicId": "6e41bd515f5e4c93bc7888b582e88865",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/deus-ex-mankind-divided-4c6370",
+    "freeDate": "2024-03-14",
+    "gameTitle": "Deus Ex - Mankind Divided",
+    "mappingSlug": "deus-ex-mankind-divided-4c6370",
+    "productSlug": "",
+    "sandboxId": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
+    "urlSlug": "b6c256d486f241b78ba9d63602e691ff"
   }
 ]
