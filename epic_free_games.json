@@ -5124,5 +5124,27 @@
     "productSlug": "",
     "sandboxId": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
     "urlSlug": "b6c256d486f241b78ba9d63602e691ff"
+  },
+  {
+    "epicId": "e5cfeb2ef72e4cae8a237317fed902ee",
+    "epicRating": 4.24,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler",
+    "freeDate": "2024-03-21",
+    "gameTitle": "Call of the Wild: The Angler™",
+    "mappingSlug": "call-of-the-wild-the-angler",
+    "productSlug": "call-of-the-wild-the-angler",
+    "sandboxId": "75d74aeb36024d95b8a30bad40dc19c3",
+    "urlSlug": "tortoisegeneralaudience"
+  },
+  {
+    "epicId": "d8abd7984d034e21acafbce5ba0cca9b",
+    "epicRating": 4.35,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/atom-eve-ff090d",
+    "freeDate": "2024-03-21",
+    "gameTitle": "Invincible Presents: Atom Eve",
+    "mappingSlug": "atom-eve-ff090d",
+    "productSlug": "",
+    "sandboxId": "b79b8b81ba8c4bf9b4b1154670237131",
+    "urlSlug": "3e108c14e3c648738c4afdbfa42881d2"
   }
 ]
