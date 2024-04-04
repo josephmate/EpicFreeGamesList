@@ -5157,5 +5157,27 @@
     "productSlug": "",
     "sandboxId": "cecc5a53aa534e15881fdbd67a1e83b7",
     "urlSlug": "99c1d8e3306e4b6081f12eb58cfd2c09"
+  },
+  {
+    "epicId": "0769596f15a445b7a5ad3f8d7c7730e2",
+    "epicRating": 4.5,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-outer-worlds-spacers-choice-edition",
+    "freeDate": "2024-04-04",
+    "gameTitle": "The Outer Worlds: Spacer's Choice Edition",
+    "mappingSlug": "the-outer-worlds-spacers-choice-edition",
+    "productSlug": "the-outer-worlds-spacers-choice-edition",
+    "sandboxId": "dc61166eea95474e912953b163791d42",
+    "urlSlug": "the-outer-worlds-spacers-choice-edition"
+  },
+  {
+    "epicId": "23e4018b5fea4fa0bc1337da2b286154",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/thief-5bb95f",
+    "freeDate": "2024-04-04",
+    "gameTitle": "Thief",
+    "mappingSlug": "thief-5bb95f",
+    "productSlug": "",
+    "sandboxId": "3319fe5042ab4392a2b11c6938c0cda1",
+    "urlSlug": "89f4a7b9f3df4f2aa468a2ee2fe38154"
   }
 ]
