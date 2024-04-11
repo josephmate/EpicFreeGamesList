@@ -5179,5 +5179,16 @@
     "productSlug": "",
     "sandboxId": "3319fe5042ab4392a2b11c6938c0cda1",
     "urlSlug": "89f4a7b9f3df4f2aa468a2ee2fe38154"
+  },
+  {
+    "epicId": "19b650f9a98a45b0bfe07674b51fa7a0",
+    "epicRating": 4.56,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/ghostrunner",
+    "freeDate": "2024-04-11",
+    "gameTitle": "Ghostrunner",
+    "mappingSlug": "ghostrunner",
+    "productSlug": "ghostrunner",
+    "sandboxId": "95d0b9561be1464cb43bd029e94cf526",
+    "urlSlug": "ghostrunner"
   }
 ]
