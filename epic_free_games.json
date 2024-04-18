@@ -5190,5 +5190,27 @@
     "productSlug": "ghostrunner",
     "sandboxId": "95d0b9561be1464cb43bd029e94cf526",
     "urlSlug": "ghostrunner"
+  },
+  {
+    "epicId": "d0ae213cddb44791a607056fcc6040f1",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-big-con",
+    "freeDate": "2024-04-18",
+    "gameTitle": "The Big Con",
+    "mappingSlug": "the-big-con",
+    "productSlug": "the-big-con",
+    "sandboxId": "a1f2a672b08f45d28bb6b65eef6ffe41",
+    "urlSlug": "the-big-con"
+  },
+  {
+    "epicId": "f4c04d050f8c459ab1261ecbeeb5720a",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/town-of-salem-2-ab6497",
+    "freeDate": "2024-04-18",
+    "gameTitle": "Town of Salem 2",
+    "mappingSlug": "town-of-salem-2-ab6497",
+    "productSlug": "",
+    "sandboxId": "ab9f1f7354a8418388b43132d420524a",
+    "urlSlug": "64c9a487c004437ebc51a804cb9d2e1a"
   }
 ]
