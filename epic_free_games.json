@@ -5212,5 +5212,27 @@
     "productSlug": "",
     "sandboxId": "ab9f1f7354a8418388b43132d420524a",
     "urlSlug": "64c9a487c004437ebc51a804cb9d2e1a"
+  },
+  {
+    "epicId": "2dbb1debe54f4555805896caf7844470",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/industria",
+    "freeDate": "2024-04-25",
+    "gameTitle": "INDUSTRIA",
+    "mappingSlug": "industria",
+    "productSlug": "industria",
+    "sandboxId": "51b1503392e04abab64364092cbfca2b",
+    "urlSlug": "industria"
+  },
+  {
+    "epicId": "944b5b5d646d46bc92bc33edfe983d26",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
+    "freeDate": "2024-04-25",
+    "gameTitle": "LISA: The Definitive Edition",
+    "mappingSlug": "",
+    "productSlug": "lisa-the-definitive-edition",
+    "sandboxId": "ca3a9d16d131478c97fd56c138a6511a",
+    "urlSlug": "lisa-the-definitive-edition"
   }
 ]
