@@ -5234,5 +5234,27 @@
     "productSlug": "lisa-the-definitive-edition",
     "sandboxId": "ca3a9d16d131478c97fd56c138a6511a",
     "urlSlug": "lisa-the-definitive-edition"
+  },
+  {
+    "epicId": "144edd0ee90645cb9c31ae6d97fcfcaf",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/combo-a7e03a",
+    "freeDate": "2024-05-02",
+    "gameTitle": "Orcs Must Die! 3",
+    "mappingSlug": "combo-a7e03a",
+    "productSlug": "",
+    "sandboxId": "a1a52b1a570e4ee3ab3b2a8ca930753e",
+    "urlSlug": "e275bea709b14063b3902af8d0deadf0"
+  },
+  {
+    "epicId": "2a8398bbcb524c379ab21e31f0be5aeb",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/cat-quest-ii-9dbefc",
+    "freeDate": "2024-05-02",
+    "gameTitle": "Cat Quest II",
+    "mappingSlug": "cat-quest-ii-9dbefc",
+    "productSlug": "",
+    "sandboxId": "58004246d72f474a957ff5f57b9684ca",
+    "urlSlug": "17c196bb2302467d9c930289a0b70562"
   }
 ]
