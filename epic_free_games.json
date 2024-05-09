@@ -5256,5 +5256,27 @@
     "productSlug": "",
     "sandboxId": "58004246d72f474a957ff5f57b9684ca",
     "urlSlug": "17c196bb2302467d9c930289a0b70562"
+  },
+  {
+    "epicId": "c9b55213beab4dce973680780877ce99",
+    "epicRating": 4.18,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/circus-electrique",
+    "freeDate": "2024-05-09",
+    "gameTitle": "Circus Electrique",
+    "mappingSlug": "circus-electrique",
+    "productSlug": "circus-electrique",
+    "sandboxId": "396a808f269241aba0fe2ad322ebd6d5",
+    "urlSlug": "circus-electrique"
+  },
+  {
+    "epicId": "fcd4f83428f04515bce43573d22f392a",
+    "epicRating": 4.11,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+    "freeDate": "2024-05-09",
+    "gameTitle": "Firestone Free Offer",
+    "mappingSlug": "firestone-online-idle-rpg-bfd04b",
+    "productSlug": "",
+    "sandboxId": "bda8d2133655435982b9118972792328",
+    "urlSlug": "firestonefreeoffer"
   }
 ]
