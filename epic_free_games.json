@@ -5192,8 +5192,8 @@
     "urlSlug": "ghostrunner"
   },
   {
-    "epicId": "d0ae213cddb44791a607056fcc6040f1",
-    "epicRating": 0,
+    "epicId": "678a066ee1ae4ef4872eccea24833726",
+    "epicRating": 4.41,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-big-con",
     "freeDate": "2024-04-18",
     "gameTitle": "The Big Con",
@@ -5214,8 +5214,8 @@
     "urlSlug": "64c9a487c004437ebc51a804cb9d2e1a"
   },
   {
-    "epicId": "2dbb1debe54f4555805896caf7844470",
-    "epicRating": 0,
+    "epicId": "4b3266171a6c44f6962c1a0258258ad4",
+    "epicRating": 3.78,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/industria",
     "freeDate": "2024-04-25",
     "gameTitle": "INDUSTRIA",
@@ -5280,14 +5280,14 @@
     "urlSlug": "firestonefreeoffer"
   },
   {
-    "epicId": "bcc9b6a86d414b5d8032f635e0c6f171",
-    "epicRating": 0,
+    "epicId": "175e781d820144ce966f1c1942b64b57",
+    "epicRating": 4.29,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
     "freeDate": "2024-05-16",
     "gameTitle": "Dragon Age: Inquisition – Game of the Year Edition",
     "mappingSlug": "",
     "productSlug": "dragon-age-inquisition-game-of-the-year-edition-2f0cbd",
-    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "sandboxId": "afe2527e29b94db48b2eef984e34d81a",
     "urlSlug": "mystery-game-01"
   }
 ]
