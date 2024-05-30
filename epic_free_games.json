@@ -5300,5 +5300,16 @@
     "productSlug": "farming-simulator-22",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mystery-game-02"
+  },
+  {
+    "epicId": "7a872a4be7ce438082f331cfe6c26b79",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/chivalry-2",
+    "freeDate": "2024-05-30",
+    "gameTitle": "Chivalry 2",
+    "mappingSlug": "",
+    "productSlug": "chivalry-2",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-03"
   }
 ]
