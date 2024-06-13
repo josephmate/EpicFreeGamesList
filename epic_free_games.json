@@ -5322,5 +5322,27 @@
     "productSlug": "marvels-midnight-suns",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mystery-game-04"
+  },
+  {
+    "epicId": "a9748abde1c94b66aae5250bb9fc5503",
+    "epicRating": 4.07,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
+    "freeDate": "2024-06-13",
+    "gameTitle": "Idle Champions of the Forgotten Realms",
+    "mappingSlug": "idle-champions-of-the-forgotten-realms",
+    "productSlug": "idle-champions-of-the-forgotten-realms",
+    "sandboxId": "7e508f543b05465abe3a935960eb70ac",
+    "urlSlug": "banegeneralaudience"
+  },
+  {
+    "epicId": "b77095c5a9224fbe8a7222db84675873",
+    "epicRating": 4.56,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/redout-2",
+    "freeDate": "2024-06-13",
+    "gameTitle": "Redout 2",
+    "mappingSlug": "redout-2",
+    "productSlug": "redout-2",
+    "sandboxId": "05ae696a3c5f49af91a7433547460c21",
+    "urlSlug": "redout-2"
   }
 ]
