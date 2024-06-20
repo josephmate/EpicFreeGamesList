@@ -5344,5 +5344,27 @@
     "productSlug": "redout-2",
     "sandboxId": "05ae696a3c5f49af91a7433547460c21",
     "urlSlug": "redout-2"
+  },
+  {
+    "epicId": "eba5b90a4eda4234a26259bf2ea8b07a",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/freshly-frosted-c636d0",
+    "freeDate": "2024-06-20",
+    "gameTitle": "Freshly Frosted",
+    "mappingSlug": "freshly-frosted-c636d0",
+    "productSlug": "",
+    "sandboxId": "013ef1cdbe5a4408919025207ddb9c99",
+    "urlSlug": "c1cc739eba6a4295947c2de9f5e3d603"
+  },
+  {
+    "epicId": "fab45428480549c1bff5c1fedfc0a648",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rumble-club-674364",
+    "freeDate": "2024-06-20",
+    "gameTitle": "Rumble Club - Free Game of the Week Bonus",
+    "mappingSlug": "rumble-club-674364",
+    "productSlug": "",
+    "sandboxId": "39d4425dc6f44b92b44c025d4257c737",
+    "urlSlug": "rumble-club-free-game-of-the-week-bonus"
   }
 ]
