@@ -5313,14 +5313,14 @@
     "urlSlug": "mystery-game-03"
   },
   {
-    "epicId": "1c325be6572b4cb2ad27ce8583764ec7",
-    "epicRating": 0,
+    "epicId": "4ae43da8b7c74066be91f9bf3049f3f9",
+    "epicRating": 4.44,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/marvels-midnight-suns",
     "freeDate": "2024-06-06",
     "gameTitle": "Marvel's Midnight Suns",
     "mappingSlug": "",
     "productSlug": "marvels-midnight-suns",
-    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "sandboxId": "ea73c08ac633414584e281f838b3a78c",
     "urlSlug": "mystery-game-04"
   },
   {
@@ -5347,7 +5347,7 @@
   },
   {
     "epicId": "eba5b90a4eda4234a26259bf2ea8b07a",
-    "epicRating": 0,
+    "epicRating": 4.56,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/freshly-frosted-c636d0",
     "freeDate": "2024-06-20",
     "gameTitle": "Freshly Frosted",
@@ -5369,7 +5369,7 @@
   },
   {
     "epicId": "d64e188ad8034ffcacd038c4713f5c0a",
-    "epicRating": 0,
+    "epicRating": 4.00,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/sunless-skies-bb4947",
     "freeDate": "2024-06-27",
     "gameTitle": "Sunless Skies: Sovereign Edition",
