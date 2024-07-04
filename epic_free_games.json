@@ -5369,7 +5369,7 @@
   },
   {
     "epicId": "d64e188ad8034ffcacd038c4713f5c0a",
-    "epicRating": 4.00,
+    "epicRating": 4,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/sunless-skies-bb4947",
     "freeDate": "2024-06-27",
     "gameTitle": "Sunless Skies: Sovereign Edition",
@@ -5377,5 +5377,16 @@
     "productSlug": "",
     "sandboxId": "3f6f54e0f8164224b817d23075cbb2a8",
     "urlSlug": "5a137d42abcb451f9a1c65542f096479"
+  },
+  {
+    "epicId": "98cffb44de6543aaa39a62e3c6124e06",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-falconeer",
+    "freeDate": "2024-07-04",
+    "gameTitle": "The Falconeer: Standard Edition",
+    "mappingSlug": "the-falconeer",
+    "productSlug": "the-falconeer",
+    "sandboxId": "29e93200bb53431a961afc53e39fb9c8",
+    "urlSlug": "the-falconeer"
   }
 ]
