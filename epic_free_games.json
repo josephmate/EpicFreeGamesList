@@ -5388,5 +5388,16 @@
     "productSlug": "the-falconeer",
     "sandboxId": "29e93200bb53431a961afc53e39fb9c8",
     "urlSlug": "the-falconeer"
+  },
+  {
+    "epicId": "2e84cea730144ac79c3b7f34a2e20d3f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/floppy-knights-6a735a",
+    "freeDate": "2024-07-11",
+    "gameTitle": "Floppy Knights",
+    "mappingSlug": "floppy-knights-6a735a",
+    "productSlug": "",
+    "sandboxId": "f7ca5706875344d8a1fe695093353fae",
+    "urlSlug": "1adfedf6847a4304a920ccc3fd4a7d0f"
   }
 ]
