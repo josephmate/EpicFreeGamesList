@@ -5399,5 +5399,27 @@
     "productSlug": "",
     "sandboxId": "f7ca5706875344d8a1fe695093353fae",
     "urlSlug": "1adfedf6847a4304a920ccc3fd4a7d0f"
+  },
+  {
+    "epicId": "f7ce9c6bfed74819894366568193d4f8",
+    "epicRating": 4.6,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/arcade-paradise",
+    "freeDate": "2024-07-18",
+    "gameTitle": "Arcade Paradise",
+    "mappingSlug": "arcade-paradise",
+    "productSlug": "arcade-paradise",
+    "sandboxId": "89b9c510e8d74b9da34c447915b1ffb1",
+    "urlSlug": "arcade-paradise"
+  },
+  {
+    "epicId": "3795a845a05d4b3baacb8126635ffd74",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/maid-of-sker-2ae24e",
+    "freeDate": "2024-07-18",
+    "gameTitle": "Maid of Sker",
+    "mappingSlug": "maid-of-sker-2ae24e",
+    "productSlug": "",
+    "sandboxId": "89a30c2a3fdb4281b5df57350e797ca9",
+    "urlSlug": "86497e5ee56142dfb6d29b2021404125"
   }
 ]
