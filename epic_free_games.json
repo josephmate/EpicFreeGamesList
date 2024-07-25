@@ -5421,5 +5421,27 @@
     "productSlug": "",
     "sandboxId": "89a30c2a3fdb4281b5df57350e797ca9",
     "urlSlug": "86497e5ee56142dfb6d29b2021404125"
+  },
+  {
+    "epicId": "6e708b1e608f446eaa80488d26b7444b",
+    "epicRating": 4.55,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/fist-forged-in-shadow-torch",
+    "freeDate": "2024-07-25",
+    "gameTitle": "F.I.S.T.: Forged In Shadow Torch",
+    "mappingSlug": "fist-forged-in-shadow-torch",
+    "productSlug": "fist-forged-in-shadow-torch",
+    "sandboxId": "a7e2a2c51b9149c097b771926ed91877",
+    "urlSlug": "fist-forged-in-shadow-torch"
+  },
+  {
+    "epicId": "c91fd057f96b4e49a7b3af045e9fe79e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/olympics-go-paris-2024-5d5f77",
+    "freeDate": "2024-07-25",
+    "gameTitle": "Exclusive Outfits Pack",
+    "mappingSlug": "olympics-go-paris-2024-5d5f77",
+    "productSlug": "",
+    "sandboxId": "fe3e06d17d13402388cccfa984de6041",
+    "urlSlug": "pc-outfits"
   }
 ]
