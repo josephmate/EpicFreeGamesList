@@ -5443,5 +5443,27 @@
     "productSlug": "",
     "sandboxId": "fe3e06d17d13402388cccfa984de6041",
     "urlSlug": "pc-outfits"
+  },
+  {
+    "epicId": "ed744042986f41f791d295459d75725f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/lumbearjack-b5bedf",
+    "freeDate": "2024-08-01",
+    "gameTitle": "LumbearJack",
+    "mappingSlug": "lumbearjack-b5bedf",
+    "productSlug": "",
+    "sandboxId": "b112cc17de8c4b43a2372993b5916fec",
+    "urlSlug": "4525084e02ae42c6ba4446895970d2c6"
+  },
+  {
+    "epicId": "e7e111c658584357a25ff993fca52a3c",
+    "epicRating": 4.49,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rawmen-03f74e",
+    "freeDate": "2024-08-01",
+    "gameTitle": "RAWMEN: Food Fighter Arena 🍜",
+    "mappingSlug": "rawmen-03f74e",
+    "productSlug": "",
+    "sandboxId": "b9665613f2b94636bf4536a411002d22",
+    "urlSlug": "aef870d9d1a846d9ad6e751cba409434"
   }
 ]
