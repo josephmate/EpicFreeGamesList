@@ -5465,5 +5465,38 @@
     "productSlug": "",
     "sandboxId": "b9665613f2b94636bf4536a411002d22",
     "urlSlug": "aef870d9d1a846d9ad6e751cba409434"
+  },
+  {
+    "epicId": "9f314276c254423bb9b145480b5b150b",
+    "epicRating": 4.34,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dnf-duel-07d055",
+    "freeDate": "2024-08-08",
+    "gameTitle": "DNF Duel",
+    "mappingSlug": "dnf-duel-07d055",
+    "productSlug": "",
+    "sandboxId": "3eb832eb6d9f4496818a0b0d667420c0",
+    "urlSlug": "5417310048a04eafb9d8a3fdf0d106ab"
+  },
+  {
+    "epicId": "ce86ed5a3c0d48eaa5326dda50105a9b",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/cygni-all-guns-blazing-98f872",
+    "freeDate": "2024-08-08",
+    "gameTitle": "CYGNI - All Guns Blazing",
+    "mappingSlug": "cygni-all-guns-blazing-98f872",
+    "productSlug": "",
+    "sandboxId": "5d9f109e44ec4c8bbc5495f43b601f25",
+    "urlSlug": "9203d49ec588443ca7c38b32c7b12b3b"
+  },
+  {
+    "epicId": "7bd8795c4dae49b29285c6279589cc72",
+    "epicRating": 4.05,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/apex-legends-006cde",
+    "freeDate": "2024-08-08",
+    "gameTitle": "Apex Legends™: Conduit Free Unlock Bundle",
+    "mappingSlug": "apex-legends-006cde",
+    "productSlug": "",
+    "sandboxId": "f9f24f4a353b451297e31f5db9cc54f2",
+    "urlSlug": "season-22-epic-content-offer"
   }
 ]
