@@ -1,3 +1,5 @@
+Every Thursday 19:00 UTC, gets the latest free game from the Epic Store and adds it to /epic_free_games.json . That file is used to render the free games table on https://josephmate.github.io/EpicFreeGamesList/ .
+
 # Building
 ```
 go build main.go .\cli_hander_free.go .\cli_hander_rating.go .\cli_handler_search.go .\graphql_get_free_games.go .\graphql_get_rating.go .\graphql_search_for_game_info.go
