@@ -5498,5 +5498,27 @@
     "productSlug": "",
     "sandboxId": "f9f24f4a353b451297e31f5db9cc54f2",
     "urlSlug": "season-22-epic-content-offer"
+  },
+  {
+    "epicId": "8cb6b75dd4f6415ab2458fa4c33c50d3",
+    "epicRating": 4.41,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/world-of-warships",
+    "freeDate": "2024-08-15",
+    "gameTitle": "World of Warships — Starter Pack: Albany",
+    "mappingSlug": "world-of-warships",
+    "productSlug": "",
+    "sandboxId": "84c76746bce94effb8e1047fabfd7eb7",
+    "urlSlug": "world-of-warships--starter-pack-albany"
+  },
+  {
+    "epicId": "15ffd983174241ae8a00033f5f23f060",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/deaths-gambit-afterlife-b5f411",
+    "freeDate": "2024-08-15",
+    "gameTitle": "Death's Gambit - Afterlife",
+    "mappingSlug": "deaths-gambit-afterlife-b5f411",
+    "productSlug": "",
+    "sandboxId": "7b9cdaaca4f5424e8d6bd7dabe559010",
+    "urlSlug": "5d8070d858304252b7dada2a81815a4a"
   }
 ]
