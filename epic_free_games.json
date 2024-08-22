@@ -5520,5 +5520,27 @@
     "productSlug": "",
     "sandboxId": "7b9cdaaca4f5424e8d6bd7dabe559010",
     "urlSlug": "5d8070d858304252b7dada2a81815a4a"
+  },
+  {
+    "epicId": "b8833393baf843d6abc4f5eb38487d33",
+    "epicRating": 4.24,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-callisto-protocol",
+    "freeDate": "2024-08-22",
+    "gameTitle": "The Callisto Protocol",
+    "mappingSlug": "the-callisto-protocol",
+    "productSlug": "the-callisto-protocol",
+    "sandboxId": "6b0541b5d9aa476cbf407643ab3b1d7d",
+    "urlSlug": "the-callisto-protocol"
+  },
+  {
+    "epicId": "5a387d243a05401b926575736262a929",
+    "epicRating": 4.29,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/gigantic-rampage-edition-03f532",
+    "freeDate": "2024-08-22",
+    "gameTitle": "Gigantic: Rampage Edition",
+    "mappingSlug": "gigantic-rampage-edition-03f532",
+    "productSlug": "",
+    "sandboxId": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
+    "urlSlug": "97e81d8b0e3a4b69a141dcb5ceb2464b"
   }
 ]
