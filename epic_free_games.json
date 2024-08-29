@@ -5542,5 +5542,27 @@
     "productSlug": "",
     "sandboxId": "ba2eb1ee9bfc434b8c06d33f9df7d15a",
     "urlSlug": "97e81d8b0e3a4b69a141dcb5ceb2464b"
+  },
+  {
+    "epicId": "ed35305f4e1e42b9a4166ab396816a73",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/wild-card-football",
+    "freeDate": "2024-08-29",
+    "gameTitle": "Wild Card Football",
+    "mappingSlug": "wild-card-football",
+    "productSlug": "wild-card-football",
+    "sandboxId": "3072dbe471f84dac8b2e9ba8af253ee2",
+    "urlSlug": "wild-card-football"
+  },
+  {
+    "epicId": "b2df9bd956ad46b4beabff90f69bd3c9",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/fallout-classic-collection",
+    "freeDate": "2024-08-29",
+    "gameTitle": "Fallout® Classic Collection",
+    "mappingSlug": "",
+    "productSlug": "fallout-classic-collection",
+    "sandboxId": "08f9ecb2186a454cacee6b05d06098ec",
+    "urlSlug": "fallout-classic-collection"
   }
 ]
