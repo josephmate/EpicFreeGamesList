@@ -5564,5 +5564,27 @@
     "productSlug": "fallout-classic-collection",
     "sandboxId": "08f9ecb2186a454cacee6b05d06098ec",
     "urlSlug": "fallout-classic-collection"
+  },
+  {
+    "epicId": "d0ec3758eb4b4224a2037cd438d51cc1",
+    "epicRating": 4.79,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/football-manager-2024",
+    "freeDate": "2024-09-05",
+    "gameTitle": "Football Manager 2024",
+    "mappingSlug": "football-manager-2024",
+    "productSlug": "",
+    "sandboxId": "610a546d4e204215a0b9a1c8a382bacb",
+    "urlSlug": "football-manager-2024"
+  },
+  {
+    "epicId": "20f88d53af6e4e59876ed82749db4ee5",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sniper-ghost-warrior-contracts-c772b9",
+    "freeDate": "2024-09-05",
+    "gameTitle": "Sniper Ghost Warrior Contracts",
+    "mappingSlug": "sniper-ghost-warrior-contracts-c772b9",
+    "productSlug": "",
+    "sandboxId": "3196925cb7ea45c3a9c47118e52a820e",
+    "urlSlug": "a646b7f8bea44745a55e6a6085b6a9d7"
   }
 ]
