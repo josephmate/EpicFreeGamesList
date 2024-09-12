@@ -5586,5 +5586,27 @@
     "productSlug": "",
     "sandboxId": "3196925cb7ea45c3a9c47118e52a820e",
     "urlSlug": "a646b7f8bea44745a55e6a6085b6a9d7"
+  },
+  {
+    "epicId": "c1480c18d56f476c96b36037f2a81f51",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/super-crazy-rhythm-castle-e3b464",
+    "freeDate": "2024-09-12",
+    "gameTitle": "SUPER CRAZY RHYTHM CASTLE",
+    "mappingSlug": "super-crazy-rhythm-castle-e3b464",
+    "productSlug": "",
+    "sandboxId": "048550a9623d4824894430a2c2823e02",
+    "urlSlug": "0dba6f07a7ca40f0b7f6d4d5338e69bf"
+  },
+  {
+    "epicId": "03fa35d7ade24540b5902b662570a270",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rugrats-adventures-in-gameland-737402",
+    "freeDate": "2024-09-12",
+    "gameTitle": "Rugrats: Adventures in Gameland",
+    "mappingSlug": "rugrats-adventures-in-gameland-737402",
+    "productSlug": "",
+    "sandboxId": "c20d98862be8473b896df438004868c5",
+    "urlSlug": "2141ab1576604d3da8994e7261f394e2"
   }
 ]
