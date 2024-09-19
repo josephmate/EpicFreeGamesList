@@ -5608,5 +5608,27 @@
     "productSlug": "",
     "sandboxId": "c20d98862be8473b896df438004868c5",
     "urlSlug": "2141ab1576604d3da8994e7261f394e2"
+  },
+  {
+    "epicId": "d4b6a615ea794a6295d34608c5426d4f",
+    "epicRating": 4.8,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/toem",
+    "freeDate": "2024-09-19",
+    "gameTitle": "TOEM",
+    "mappingSlug": "toem",
+    "productSlug": "toem",
+    "sandboxId": "0ef87626cd724281b9f8f74c83c54b93",
+    "urlSlug": "toem"
+  },
+  {
+    "epicId": "8f58067d08bb454ab0eb8907345b8c76",
+    "epicRating": 4.44,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-last-stand-aftermath",
+    "freeDate": "2024-09-19",
+    "gameTitle": "The Last Stand: Aftermath",
+    "mappingSlug": "the-last-stand-aftermath",
+    "productSlug": "the-last-stand-aftermath",
+    "sandboxId": "8d296e80f3ec42a79881f0693f3bded0",
+    "urlSlug": "the-last-stand-aftermath"
   }
 ]
