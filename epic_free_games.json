@@ -5227,7 +5227,7 @@
   {
     "epicId": "944b5b5d646d46bc92bc33edfe983d26",
     "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/lisa-the-definitive-edition",
+    "epicStoreLink": "https://store.epicgames.com/en-US/bundles/lisa-the-definitive-edition",
     "freeDate": "2024-04-25",
     "gameTitle": "LISA: The Definitive Edition",
     "mappingSlug": "",
@@ -5358,7 +5358,7 @@
   },
   {
     "epicId": "fab45428480549c1bff5c1fedfc0a648",
-    "epicRating": 0,
+    "epicRating": 4.47,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/rumble-club-674364",
     "freeDate": "2024-06-20",
     "gameTitle": "Rumble Club - Free Game of the Week Bonus",
@@ -5379,8 +5379,8 @@
     "urlSlug": "5a137d42abcb451f9a1c65542f096479"
   },
   {
-    "epicId": "98cffb44de6543aaa39a62e3c6124e06",
-    "epicRating": 0,
+    "epicId": "574121fb5ef54dc0b794e2d0e1d5695e",
+    "epicRating": 4.09,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-falconeer",
     "freeDate": "2024-07-04",
     "gameTitle": "The Falconeer: Standard Edition",
@@ -5391,7 +5391,7 @@
   },
   {
     "epicId": "2e84cea730144ac79c3b7f34a2e20d3f",
-    "epicRating": 0,
+    "epicRating": 4.45,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/floppy-knights-6a735a",
     "freeDate": "2024-07-11",
     "gameTitle": "Floppy Knights",
@@ -5413,7 +5413,7 @@
   },
   {
     "epicId": "3795a845a05d4b3baacb8126635ffd74",
-    "epicRating": 0,
+    "epicRating": 4.15,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/maid-of-sker-2ae24e",
     "freeDate": "2024-07-18",
     "gameTitle": "Maid of Sker",
@@ -5435,7 +5435,7 @@
   },
   {
     "epicId": "c91fd057f96b4e49a7b3af045e9fe79e",
-    "epicRating": 0,
+    "epicRating": 3.6,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/olympics-go-paris-2024-5d5f77",
     "freeDate": "2024-07-25",
     "gameTitle": "Exclusive Outfits Pack",
@@ -5446,7 +5446,7 @@
   },
   {
     "epicId": "ed744042986f41f791d295459d75725f",
-    "epicRating": 0,
+    "epicRating": 4.54,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/lumbearjack-b5bedf",
     "freeDate": "2024-08-01",
     "gameTitle": "LumbearJack",
@@ -5479,7 +5479,7 @@
   },
   {
     "epicId": "ce86ed5a3c0d48eaa5326dda50105a9b",
-    "epicRating": 0,
+    "epicRating": 3.99,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/cygni-all-guns-blazing-98f872",
     "freeDate": "2024-08-08",
     "gameTitle": "CYGNI - All Guns Blazing",
@@ -5512,7 +5512,7 @@
   },
   {
     "epicId": "15ffd983174241ae8a00033f5f23f060",
-    "epicRating": 0,
+    "epicRating": 4.56,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/deaths-gambit-afterlife-b5f411",
     "freeDate": "2024-08-15",
     "gameTitle": "Death's Gambit - Afterlife",
@@ -5544,8 +5544,8 @@
     "urlSlug": "97e81d8b0e3a4b69a141dcb5ceb2464b"
   },
   {
-    "epicId": "ed35305f4e1e42b9a4166ab396816a73",
-    "epicRating": 0,
+    "epicId": "0f05927e8b8d440dba62da9221638aa3",
+    "epicRating": 4.15,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/wild-card-football",
     "freeDate": "2024-08-29",
     "gameTitle": "Wild Card Football",
@@ -5557,7 +5557,7 @@
   {
     "epicId": "b2df9bd956ad46b4beabff90f69bd3c9",
     "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/fallout-classic-collection",
+    "epicStoreLink": "https://store.epicgames.com/en-US/bundles/fallout-classic-collection",
     "freeDate": "2024-08-29",
     "gameTitle": "Fallout® Classic Collection",
     "mappingSlug": "",
@@ -5578,7 +5578,7 @@
   },
   {
     "epicId": "20f88d53af6e4e59876ed82749db4ee5",
-    "epicRating": 0,
+    "epicRating": 4.21,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/sniper-ghost-warrior-contracts-c772b9",
     "freeDate": "2024-09-05",
     "gameTitle": "Sniper Ghost Warrior Contracts",
@@ -5589,7 +5589,7 @@
   },
   {
     "epicId": "c1480c18d56f476c96b36037f2a81f51",
-    "epicRating": 0,
+    "epicRating": 4.62,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/super-crazy-rhythm-castle-e3b464",
     "freeDate": "2024-09-12",
     "gameTitle": "SUPER CRAZY RHYTHM CASTLE",
@@ -5600,7 +5600,7 @@
   },
   {
     "epicId": "03fa35d7ade24540b5902b662570a270",
-    "epicRating": 0,
+    "epicRating": 3.88,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/rugrats-adventures-in-gameland-737402",
     "freeDate": "2024-09-12",
     "gameTitle": "Rugrats: Adventures in Gameland",
