@@ -5630,5 +5630,16 @@
     "productSlug": "the-last-stand-aftermath",
     "sandboxId": "8d296e80f3ec42a79881f0693f3bded0",
     "urlSlug": "the-last-stand-aftermath"
+  },
+  {
+    "epicId": "b9763cf171e446d5864cfa0b8fe8b9bb",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-spirit-and-the-mouse-42390b",
+    "freeDate": "2024-09-26",
+    "gameTitle": "The Spirit and the Mouse",
+    "mappingSlug": "the-spirit-and-the-mouse-42390b",
+    "productSlug": "",
+    "sandboxId": "300ee26a2d6746cdb7dd515ae819f5d4",
+    "urlSlug": "91aab9971e784cf9a736c3e276c11579"
   }
 ]
