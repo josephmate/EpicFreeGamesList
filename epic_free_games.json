@@ -5652,5 +5652,27 @@
     "productSlug": "",
     "sandboxId": "6c3a09646a954c04b5ab774e5b8c861d",
     "urlSlug": "e762389817c4407ebbadc1a94689add6"
+  },
+  {
+    "epicId": "a4d3ae371e674ce3b2892d63c8bb4041",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/outliver-tribulations-679884",
+    "freeDate": "2024-10-10",
+    "gameTitle": "Outliver: Tribulation",
+    "mappingSlug": "outliver-tribulations-679884",
+    "productSlug": "",
+    "sandboxId": "13e30807efce43ea9e04ac1c45668d8e",
+    "urlSlug": "cc38c0ffea0e44a4b754c9768c8c6068"
+  },
+  {
+    "epicId": "5d79a38c99e9432f8dec6288a17595ab",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/empyrion-galactic-survival-fbd99f",
+    "freeDate": "2024-10-10",
+    "gameTitle": "Empyrion - Galactic Survival",
+    "mappingSlug": "empyrion-galactic-survival-fbd99f",
+    "productSlug": "",
+    "sandboxId": "edd938a6d7ec4a55ab82bba8f8dd5b22",
+    "urlSlug": "e29128ab3c6b4cf29e968da395dd5ee8"
   }
 ]
