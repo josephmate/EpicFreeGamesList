@@ -5674,5 +5674,27 @@
     "productSlug": "",
     "sandboxId": "edd938a6d7ec4a55ab82bba8f8dd5b22",
     "urlSlug": "e29128ab3c6b4cf29e968da395dd5ee8"
+  },
+  {
+    "epicId": "747d522e0451439590fa6647ae67f58a",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/kardboard-kings-0962f8",
+    "freeDate": "2024-10-17",
+    "gameTitle": "Kardboard Kings",
+    "mappingSlug": "kardboard-kings-0962f8",
+    "productSlug": "",
+    "sandboxId": "22a9bc193ad94ab78155b5c2f9541e6b",
+    "urlSlug": "c5f2b09da8ce4e51bcff1d8524da93f2"
+  },
+  {
+    "epicId": "d8abd7984d034e21acafbce5ba0cca9b",
+    "epicRating": 4.35,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/atom-eve-ff090d",
+    "freeDate": "2024-10-17",
+    "gameTitle": "Invincible Presents: Atom Eve",
+    "mappingSlug": "atom-eve-ff090d",
+    "productSlug": "",
+    "sandboxId": "b79b8b81ba8c4bf9b4b1154670237131",
+    "urlSlug": "3e108c14e3c648738c4afdbfa42881d2"
   }
 ]
