@@ -5696,5 +5696,16 @@
     "productSlug": "",
     "sandboxId": "b79b8b81ba8c4bf9b4b1154670237131",
     "urlSlug": "3e108c14e3c648738c4afdbfa42881d2"
+  },
+  {
+    "epicId": "0a8b32256f374cf4998c3ecf44c31db9",
+    "epicRating": 4.59,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/moving-out",
+    "freeDate": "2024-10-24",
+    "gameTitle": "Moving Out",
+    "mappingSlug": "moving-out",
+    "productSlug": "moving-out",
+    "sandboxId": "f919a1262081444fb28f0fdef68d6b14",
+    "urlSlug": "moving-out"
   }
 ]
