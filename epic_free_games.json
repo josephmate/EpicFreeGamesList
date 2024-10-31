@@ -5707,5 +5707,27 @@
     "productSlug": "moving-out",
     "sandboxId": "f919a1262081444fb28f0fdef68d6b14",
     "urlSlug": "moving-out"
+  },
+  {
+    "epicId": "53a6356d1f4945e58d8c8e9f511c3c9d",
+    "epicRating": 4.48,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/ghostwire-tokyo",
+    "freeDate": "2024-10-31",
+    "gameTitle": "Ghostwire: Tokyo",
+    "mappingSlug": "ghostwire-tokyo",
+    "productSlug": "ghostwire-tokyo",
+    "sandboxId": "a93cd6111251461c953776a0c4ea4d80",
+    "urlSlug": "ghostwire-tokyo"
+  },
+  {
+    "epicId": "d2db7ad960a84551825707261c8437c4",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/witch-it-3624a9",
+    "freeDate": "2024-10-31",
+    "gameTitle": "Witch It",
+    "mappingSlug": "witch-it-3624a9",
+    "productSlug": "",
+    "sandboxId": "b9e6e3d5a4474a8ead248c62bfdf08b7",
+    "urlSlug": "3cde262d734e41848c5aa3817745ec65"
   }
 ]
