@@ -5729,5 +5729,27 @@
     "productSlug": "",
     "sandboxId": "b9e6e3d5a4474a8ead248c62bfdf08b7",
     "urlSlug": "3cde262d734e41848c5aa3817745ec65"
+  },
+  {
+    "epicId": "327e2f6dbe2b4859b3e1ba4f69dff5c2",
+    "epicRating": 4.5,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/deceive-inc",
+    "freeDate": "2024-11-07",
+    "gameTitle": "Deceive Inc.",
+    "mappingSlug": "deceive-inc",
+    "productSlug": "deceive-inc",
+    "sandboxId": "eca9a86adffa4605b8250d383fc01098",
+    "urlSlug": "deceive-inc"
+  },
+  {
+    "epicId": "b3b5fa8919d0460996a580892993a5cf",
+    "epicRating": 4.15,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/apex-legends-006cde",
+    "freeDate": "2024-11-07",
+    "gameTitle": "Apex Legends™: Ash Free Unlock Bundle",
+    "mappingSlug": "apex-legends-006cde",
+    "productSlug": "",
+    "sandboxId": "f9f24f4a353b451297e31f5db9cc54f2",
+    "urlSlug": "season-23-epic-content-offer"
   }
 ]
