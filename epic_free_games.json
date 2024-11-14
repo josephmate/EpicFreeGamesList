@@ -5751,5 +5751,27 @@
     "productSlug": "",
     "sandboxId": "f9f24f4a353b451297e31f5db9cc54f2",
     "urlSlug": "season-23-epic-content-offer"
+  },
+  {
+    "epicId": "fddca2297b9a4354b59f8f83d4975c90",
+    "epicRating": 4.55,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae",
+    "freeDate": "2024-11-14",
+    "gameTitle": "Snakebird Complete",
+    "mappingSlug": "snakebird-complete-e6f0ae",
+    "productSlug": "",
+    "sandboxId": "efc30c2078a2499ab979d198255e2e4b",
+    "urlSlug": "f66c32ab3a354f208d5e7522af8d141d"
+  },
+  {
+    "epicId": "8f80897c0b6e4e678fed08da169d44be",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94",
+    "freeDate": "2024-11-14",
+    "gameTitle": "Castlevania Anniversary Collection",
+    "mappingSlug": "castlevania-anniversary-collection-a61f94",
+    "productSlug": "",
+    "sandboxId": "247d4d4b4e424afd9b474334fe450a43",
+    "urlSlug": "32b3e0adbe0c4399be1874958194f97f"
   }
 ]
