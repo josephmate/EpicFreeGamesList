@@ -7,33 +7,35 @@ import (
 	"os"
 )
 
+func fixRatingsUsage(msg string) {
+	fmt.Println("Usage: epicFreeGamesList fix_ratings <arguments>")
+	fmt.Println("inputFile: The input json file. required")
+	fmt.Println("outputFile: The output json file. required")
+	fmt.Println(msg)
+	os.Exit(1)
+}
+
 func CliHandlerFixRatings() {
 	fs := flag.NewFlagSet("fix_ratings", flag.ExitOnError)
 	inputFile := fs.String("inputFile", "", "The input json file. required")
 	outputFile := fs.String("outputFile", "", "The output json file. required")
 	fs.Parse(os.Args[2:])
 	if len(*outputFile) == 0 {
-		fmt.Println("--outputFile is required")
-		flag.PrintDefaults()
-		os.Exit(1)
+		fixRatingsUsage("--outputFile is required")
 	}
 	if len(*inputFile) == 0 {
-		fmt.Println("--inputFile is required")
-		flag.PrintDefaults()
-		os.Exit(1)
+		fixRatingsUsage("--inputFile is required")
 	}
 
 	// Read the original JSON file
 	originalData, err := os.ReadFile(*inputFile)
 	if err != nil {
-		fmt.Println("Error reading:", *inputFile, err)
-		return
+		fixRatingsUsage("Error reading: " + *inputFile + " " + err.Error())
 	}
 
 	var gameEntries []GameEntryComplete
 	if err := json.Unmarshal(originalData, &gameEntries); err != nil {
-		fmt.Println("Error parsing JSON:", err)
-		return
+		fixRatingsUsage("Error parsing JSON: " + err.Error())
 	}
 
 	modifiedGameEntries := []map[string]interface{}{}
@@ -88,16 +90,16 @@ func CliHandlerFixRatings() {
 	// Convert the modified data to JSON
 		modifiedJSON, err := json.MarshalIndent(modifiedGameEntries, "", "  ")
 	if err != nil {
-		fmt.Println("Error converting to JSON:", err)
+		fixRatingsUsage("Error converting to JSON: " + err.Error())
 		return
 	}
 
 	// Write the modified data to the output file
 	err = os.WriteFile(*outputFile, modifiedJSON, 0644)
 	if err != nil {
-		fmt.Println("Error writing to:", outputFile, err)
+		fixRatingsUsage("Error writing to: " + *outputFile + " " + err.Error())
 		return
 	}
 
-	fmt.Println("Modified data saved to ", outputFile)
+	fmt.Println("Modified data saved to ", *outputFile)
 }

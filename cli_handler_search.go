@@ -12,6 +12,15 @@ type MinimalGameEntry struct {
 	GameTitle string `json:"gameTitle"`
 }
 
+func searchUsage(msg string) {
+	fmt.Println("Usage: epicFreeGamesList search <arguments>")
+	fmt.Println("  inputFile: The input json file. --freeDate, --gameTitle cannot be used with this option")
+	fmt.Println("  outputFile: The output json file. this option is always required")
+	fmt.Println("  gameTitle: The gameTitle of the free game. This option cannot be used with --inputFile")
+	fmt.Println(msg)
+	os.Exit(1)
+}
+
 func CliHandlerSearch() {
 
 	fs := flag.NewFlagSet("search", flag.ExitOnError)
@@ -27,30 +36,27 @@ func CliHandlerSearch() {
 	fs.Parse(os.Args[2:])
 
 	if len(outputFile) == 0 && len(inputFile) > 0 {
-		fmt.Println("--outputFile is required when --inputFile is used")
-		return
+		searchUsage("--outputFile is required when --inputFile is used")
 	}
 	if len(inputFile) == 0 && len(outputFile) > 0 {
-		fmt.Println("--inputFile is required when --outputFile is used")
+		searchUsage("--inputFile is required when --outputFile is used")
 		return
 	}
 
 	if len(inputFile) > 0 && len(gameTitle) > 0 {
-		fmt.Println("--inputFile cannot be used with --gameTitle")
+		searchUsage("--inputFile cannot be used with --gameTitle")
 	}
 
 	if len(inputFile) > 0 {
 		// Read the original JSON file
 		originalData, err := os.ReadFile(inputFile)
 		if err != nil {
-			fmt.Println("Error reading:", inputFile, err)
-			return
+			searchUsage("Error reading: " + inputFile + " " + err.Error())
 		}
 
 		var gameEntries []MinimalGameEntry
 		if err := json.Unmarshal(originalData, &gameEntries); err != nil {
-			fmt.Println("Error parsing JSON:", err)
-			return
+			searchUsage("Error parsing JSON:" + err.Error())
 		}
 
 		var modifiedGameEntries []GameEntryWithSearch
@@ -66,14 +72,13 @@ func CliHandlerSearch() {
 		// Convert the modified data to JSON
 		modifiedJSON, err := json.Marshal(modifiedGameEntries)
 		if err != nil {
-			fmt.Println("Error converting to JSON:", err)
-			return
+			searchUsage("Error converting to JSON: " + err.Error())
 		}
 
 		// Write the modified data to the output file
 		err = os.WriteFile(outputFile, modifiedJSON, 0644)
 		if err != nil {
-			fmt.Println("Error writing to:", outputFile, err)
+			searchUsage("Error writing to: " + outputFile + " " + err.Error())
 			return
 		}
 
@@ -89,7 +94,6 @@ func CliHandlerSearch() {
 		fmt.Println("SandboxId: ", modifiedEntry.SandboxId)
 		fmt.Println("UrlSlug: ", modifiedEntry.UrlSlug)
 	} else {
-		fmt.Println("--inputFile must be provided or both --gameTitle")
-		return
+		searchUsage("--inputFile must be provided or both --gameTitle")
 	}
 }
