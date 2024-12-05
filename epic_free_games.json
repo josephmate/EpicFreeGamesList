@@ -5795,5 +5795,27 @@
     "productSlug": "",
     "sandboxId": "3b391953ce4b42bb9a28a2fee249154b",
     "urlSlug": "331394fdb72349b3a1553b4214c4cd92"
+  },
+  {
+    "epicId": "283939b792814f5e87d8bdd5a8375fac",
+    "epicRating": 4.75,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga",
+    "freeDate": "2024-12-05",
+    "gameTitle": "LEGO® Star Wars™: The Skywalker Saga",
+    "mappingSlug": "lego-star-wars-the-skywalker-saga",
+    "productSlug": "lego-star-wars-the-skywalker-saga",
+    "sandboxId": "9c59efaabb6a48f19b3485d5d9416032",
+    "urlSlug": "lego-star-wars-the-skywalker-saga"
+  },
+  {
+    "epicId": "10adac482d1647e1afc237b66dc45066",
+    "epicRating": 4.17,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bus-simulator-21",
+    "freeDate": "2024-12-05",
+    "gameTitle": "Bus Simulator 21 Next Stop",
+    "mappingSlug": "bus-simulator-21",
+    "productSlug": "bus-simulator-21",
+    "sandboxId": "2b09519576cb4276bfd8df52f5288e4a",
+    "urlSlug": "bus-simulator-21"
   }
 ]
