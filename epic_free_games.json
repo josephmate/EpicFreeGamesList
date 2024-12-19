@@ -5828,5 +5828,16 @@
     "productSlug": "the-lord-of-the-rings-return-to-moria-f01344",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame1"
+  },
+  {
+    "epicId": "a5015ac15d8748f2a849cc6b51e9fcf9",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/vampire-survivors-f699a1",
+    "freeDate": "2024-12-19",
+    "gameTitle": "Vampire Survivors",
+    "mappingSlug": "",
+    "productSlug": "vampire-survivors-f699a1",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame2"
   }
 ]
