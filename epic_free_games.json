@@ -5819,36 +5819,36 @@
     "urlSlug": "bus-simulator-21"
   },
   {
-    "epicId": "3da7480aac8645f5988cec4572f4ab52",
-    "epicRating": 0,
+    "epicId": "2ae760629a384d5199cbefc612db7ac8",
+    "epicRating": 4.45,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344",
     "freeDate": "2024-12-12",
     "gameTitle": "The Lord of The Rings Return to Moria",
     "mappingSlug": "",
     "productSlug": "the-lord-of-the-rings-return-to-moria-f01344",
-    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "sandboxId": "1d6b5762a1d643a4830481c44d59abfb",
     "urlSlug": "mysterygame1"
   },
   {
-    "epicId": "a5015ac15d8748f2a849cc6b51e9fcf9",
-    "epicRating": 0,
+    "epicId": "6091b3f3943e4a7aa25fcac13de15cd1",
+    "epicRating": 4.72,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/vampire-survivors-f699a1",
     "freeDate": "2024-12-19",
     "gameTitle": "Vampire Survivors",
     "mappingSlug": "",
     "productSlug": "vampire-survivors-f699a1",
-    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "sandboxId": "a4e77bc04aa440a096962c14b63a41e8",
     "urlSlug": "mysterygame2"
   },
   {
-    "epicId": "862e2387886e41b9873d8462203763ed",
-    "epicRating": 0,
+    "epicId": "4515173972ae4444a2582bc690c150bd",
+    "epicRating": 4.46,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
     "freeDate": "2024-12-20",
     "gameTitle": "Astrea Six Sided Oracles",
     "mappingSlug": "",
     "productSlug": "astrea-six-sided-oracles-33c949",
-    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "sandboxId": "a940fa38f001486a9884640924119576",
     "urlSlug": "mysterygame3"
   }
 ]
