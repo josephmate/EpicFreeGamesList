@@ -5,7 +5,7 @@ on:
     # make sure to change to:
     #  in the spring: 5 18 * * 4
     #  in the fall:   5 19 * * 4
-    - cron: 5 19 * * 4
+    - cron: 5 19 * * *
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
