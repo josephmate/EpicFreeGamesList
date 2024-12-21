@@ -5795,5 +5795,49 @@
     "productSlug": "",
     "sandboxId": "3b391953ce4b42bb9a28a2fee249154b",
     "urlSlug": "331394fdb72349b3a1553b4214c4cd92"
+  },
+  {
+    "epicId": "283939b792814f5e87d8bdd5a8375fac",
+    "epicRating": 4.75,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga",
+    "freeDate": "2024-12-05",
+    "gameTitle": "LEGO® Star Wars™: The Skywalker Saga",
+    "mappingSlug": "lego-star-wars-the-skywalker-saga",
+    "productSlug": "lego-star-wars-the-skywalker-saga",
+    "sandboxId": "9c59efaabb6a48f19b3485d5d9416032",
+    "urlSlug": "lego-star-wars-the-skywalker-saga"
+  },
+  {
+    "epicId": "10adac482d1647e1afc237b66dc45066",
+    "epicRating": 4.17,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bus-simulator-21",
+    "freeDate": "2024-12-05",
+    "gameTitle": "Bus Simulator 21 Next Stop",
+    "mappingSlug": "bus-simulator-21",
+    "productSlug": "bus-simulator-21",
+    "sandboxId": "2b09519576cb4276bfd8df52f5288e4a",
+    "urlSlug": "bus-simulator-21"
+  },
+  {
+    "epicId": "3da7480aac8645f5988cec4572f4ab52",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344",
+    "freeDate": "2024-12-12",
+    "gameTitle": "The Lord of The Rings Return to Moria",
+    "mappingSlug": "",
+    "productSlug": "the-lord-of-the-rings-return-to-moria-f01344",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame1"
+  },
+  {
+    "epicId": "a5015ac15d8748f2a849cc6b51e9fcf9",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/vampire-survivors-f699a1",
+    "freeDate": "2024-12-19",
+    "gameTitle": "Vampire Survivors",
+    "mappingSlug": "",
+    "productSlug": "vampire-survivors-f699a1",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame2"
   }
 ]
