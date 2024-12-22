@@ -5861,5 +5861,16 @@
     "productSlug": "terratech-02ab0a",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame4"
+  },
+  {
+    "epicId": "06b83773e1f743a18000db1f99faa90e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/wizard-of-legend-21c07d",
+    "freeDate": "2024-12-22",
+    "gameTitle": "Wizard of Legend",
+    "mappingSlug": "",
+    "productSlug": "wizard-of-legend-21c07d",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame5"
   }
 ]
