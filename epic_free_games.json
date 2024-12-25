@@ -5894,5 +5894,16 @@
     "productSlug": "dredge-3e3a5f",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame7"
+  },
+  {
+    "epicId": "48b7fada65364b0d9500ecaf9c80228f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/control",
+    "freeDate": "2024-12-25",
+    "gameTitle": "Control",
+    "mappingSlug": "",
+    "productSlug": "control",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame8"
   }
 ]
