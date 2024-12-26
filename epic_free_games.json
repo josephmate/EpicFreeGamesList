@@ -5905,5 +5905,16 @@
     "productSlug": "control",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame8"
+  },
+  {
+    "epicId": "21a7c980a9214b80b9c471a801470a60",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+    "freeDate": "2024-12-26",
+    "gameTitle": "Ghostrunner 2",
+    "mappingSlug": "",
+    "productSlug": "ghostrunner-2",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame9"
   }
 ]
