@@ -5927,5 +5927,16 @@
     "productSlug": "hot-wheels-unleashed",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame10"
+  },
+  {
+    "epicId": "4a67bc93f23f4d9c8b0a375295fc93eb",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/kill-knight-e981b3",
+    "freeDate": "2024-12-28",
+    "gameTitle": "Kill Knight",
+    "mappingSlug": "",
+    "productSlug": "kill-knight-e981b3",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame11"
   }
 ]
