@@ -5949,5 +5949,16 @@
     "productSlug": "combo-a7e03a",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame12"
+  },
+  {
+    "epicId": "e114a5e98b504b2d9728a21577357af0",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/redacted-d9d21e",
+    "freeDate": "2024-12-30",
+    "gameTitle": "[REDACTED]",
+    "mappingSlug": "",
+    "productSlug": "redacted-d9d21e",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame13"
   }
 ]
