@@ -5960,5 +5960,16 @@
     "productSlug": "redacted-d9d21e",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame13"
+  },
+  {
+    "epicId": "a4a17421855249edbf4fc6b5a4819f7f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sifu",
+    "freeDate": "2024-12-31",
+    "gameTitle": "Sifu",
+    "mappingSlug": "",
+    "productSlug": "sifu",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame14"
   }
 ]
