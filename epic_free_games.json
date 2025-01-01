@@ -5971,5 +5971,16 @@
     "productSlug": "sifu",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame14"
+  },
+  {
+    "epicId": "a297ef0cc8c14e078107426d060d849c",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/kingdom-come-deliverance",
+    "freeDate": "2025-01-01",
+    "gameTitle": "Kingdom Come: Deliverance",
+    "mappingSlug": "",
+    "productSlug": "kingdom-come-deliverance",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame15"
   }
 ]
