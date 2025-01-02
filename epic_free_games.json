@@ -5982,5 +5982,16 @@
     "productSlug": "kingdom-come-deliverance",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame15"
+  },
+  {
+    "epicId": "d30946927c894a6dad62a32faeece0d6",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/hell-let-loose-03f036",
+    "freeDate": "2025-01-02",
+    "gameTitle": "Hell Let Loose",
+    "mappingSlug": "",
+    "productSlug": "hell-let-loose-03f036",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame16"
   }
 ]
