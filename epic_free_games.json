@@ -6026,5 +6026,16 @@
     "productSlug": "behind-the-frame-the-finest-scenery",
     "sandboxId": "5fb8093984924ff5bfad61ae28730818",
     "urlSlug": "behind-the-frame-the-finest-scenery"
+  },
+  {
+    "epicId": "c9d2e42d8b404add9390c0182093abbd",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/undying",
+    "freeDate": "2025-01-30",
+    "gameTitle": "Undying",
+    "mappingSlug": "undying",
+    "productSlug": "undying",
+    "sandboxId": "487df1dfd24b44c381a2a376fbf78946",
+    "urlSlug": "undying"
   }
 ]
