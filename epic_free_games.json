@@ -6037,5 +6037,27 @@
     "productSlug": "undying",
     "sandboxId": "487df1dfd24b44c381a2a376fbf78946",
     "urlSlug": "undying"
+  },
+  {
+    "epicId": "c3006006e4c74c4d8316ff09fb8dcc8d",
+    "epicRating": 4.33,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/beyond-blue",
+    "freeDate": "2025-02-06",
+    "gameTitle": "Beyond Blue",
+    "mappingSlug": "beyond-blue",
+    "productSlug": "beyond-blue",
+    "sandboxId": "bd9fd28ca1214868922f2ab41d6d3b65",
+    "urlSlug": "beyond-blue"
+  },
+  {
+    "epicId": "e79119839e374d468236b7acc979ff95",
+    "epicRating": 4.5,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/humankind",
+    "freeDate": "2025-02-06",
+    "gameTitle": "HUMANKIND™ Standard Edition",
+    "mappingSlug": "humankind",
+    "productSlug": "humankind",
+    "sandboxId": "02c14a01b7044db98de3f3a10813a42e",
+    "urlSlug": "scorpiogeneralaudience"
   }
 ]
