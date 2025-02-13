@@ -6059,5 +6059,27 @@
     "productSlug": "humankind",
     "sandboxId": "02c14a01b7044db98de3f3a10813a42e",
     "urlSlug": "scorpiogeneralaudience"
+  },
+  {
+    "epicId": "80480c4dce974e03a009beeffc625b21",
+    "epicRating": 4.55,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/f1-manager-2024-fe51bd",
+    "freeDate": "2025-02-13",
+    "gameTitle": "F1® Manager 2024",
+    "mappingSlug": "f1-manager-2024-fe51bd",
+    "productSlug": "",
+    "sandboxId": "53ea1f0a585f4fbc9c8adc6b76af1165",
+    "urlSlug": "f1-manager-2024-01"
+  },
+  {
+    "epicId": "f4b09c0830d44f08a4a042b697483977",
+    "epicRating": 4.16,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/apex-legends-006cde",
+    "freeDate": "2025-02-13",
+    "gameTitle": "Apex Legends™: Loba Free Unlock Bundle",
+    "mappingSlug": "apex-legends-006cde",
+    "productSlug": "",
+    "sandboxId": "f9f24f4a353b451297e31f5db9cc54f2",
+    "urlSlug": "season-24-epic-content-offer"
   }
 ]
