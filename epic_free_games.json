@@ -6081,5 +6081,27 @@
     "productSlug": "",
     "sandboxId": "f9f24f4a353b451297e31f5db9cc54f2",
     "urlSlug": "season-24-epic-content-offer"
+  },
+  {
+    "epicId": "794bbf45d5fe451d9f805d99d30bbbd0",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/garden-story",
+    "freeDate": "2025-02-20",
+    "gameTitle": "Garden Story",
+    "mappingSlug": "garden-story",
+    "productSlug": "garden-story",
+    "sandboxId": "0f3f352865294c3ea5e10454f24fde85",
+    "urlSlug": "genericviridian-general-audience"
+  },
+  {
+    "epicId": "05af9ab1d2dc4b78ada8b2f09724da20",
+    "epicRating": 4.56,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/world-war-z",
+    "freeDate": "2025-02-20",
+    "gameTitle": "World War Z Aftermath",
+    "mappingSlug": "world-war-z",
+    "productSlug": "world-war-z",
+    "sandboxId": "wombat",
+    "urlSlug": "world-war-z-aftermath"
   }
 ]
