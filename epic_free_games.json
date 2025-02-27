@@ -6103,5 +6103,16 @@
     "productSlug": "world-war-z",
     "sandboxId": "wombat",
     "urlSlug": "world-war-z-aftermath"
+  },
+  {
+    "epicId": "464a19f4865248b5948c9514af11d563",
+    "epicRating": 4.37,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mages-of-mystralia",
+    "freeDate": "2025-02-27",
+    "gameTitle": "Mages of Mystralia",
+    "mappingSlug": "mages-of-mystralia",
+    "productSlug": "mages-of-mystralia",
+    "sandboxId": "bd12fd574df14846ad24703ca7b1a12b",
+    "urlSlug": "mages-of-mystralia"
   }
 ]
