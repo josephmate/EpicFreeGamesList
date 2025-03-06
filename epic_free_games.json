@@ -6114,5 +6114,16 @@
     "productSlug": "mages-of-mystralia",
     "sandboxId": "bd12fd574df14846ad24703ca7b1a12b",
     "urlSlug": "mages-of-mystralia"
+  },
+  {
+    "epicId": "1f723b00df58467998c4984ca39915ad",
+    "epicRating": 4.59,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/thems-fightin-herds",
+    "freeDate": "2025-03-06",
+    "gameTitle": "Them's Fightin' Herds",
+    "mappingSlug": "thems-fightin-herds",
+    "productSlug": "thems-fightin-herds/home",
+    "sandboxId": "a567c32599bf4d4fb609e424f3691b39",
+    "urlSlug": "thems-fightin-herds"
   }
 ]
