@@ -6125,5 +6125,27 @@
     "productSlug": "thems-fightin-herds/home",
     "sandboxId": "a567c32599bf4d4fb609e424f3691b39",
     "urlSlug": "thems-fightin-herds"
+  },
+  {
+    "epicId": "10c62ba6044c4cbba8b50ad16dc58c4d",
+    "epicRating": 4.24,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mortal-shell",
+    "freeDate": "2025-03-13",
+    "gameTitle": "Mortal Shell",
+    "mappingSlug": "mortal-shell",
+    "productSlug": "mortal-shell",
+    "sandboxId": "ff8c96d781824ba1ae62d18d207fc52e",
+    "urlSlug": "spinellaunchaudience"
+  },
+  {
+    "epicId": "ffb6b42a72d74d7fba7b9720fda5feee",
+    "epicRating": 4.4,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/world-of-warships",
+    "freeDate": "2025-03-13",
+    "gameTitle": "World of Warships — Anniversary Party Favor",
+    "mappingSlug": "world-of-warships",
+    "productSlug": "",
+    "sandboxId": "84c76746bce94effb8e1047fabfd7eb7",
+    "urlSlug": "world-of-warships-anniversary-party-favor"
   }
 ]
