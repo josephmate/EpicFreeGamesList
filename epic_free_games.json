@@ -6158,5 +6158,27 @@
     "productSlug": "jurassic-world-evolution-2",
     "sandboxId": "4817ba5c11504724ba4d5817c8995dff",
     "urlSlug": "kombugreen-generalaudience"
+  },
+  {
+    "epicId": "e494e053818b4790b5388836b3937e18",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/neko-ghost-jump",
+    "freeDate": "2025-03-27",
+    "gameTitle": "Neko Ghost, Jump!",
+    "mappingSlug": "",
+    "productSlug": "neko-ghost-jump",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-03172"
+  },
+  {
+    "epicId": "9977d12c6b5e41f894448f605aa34b0a",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/cat-quest-8373e0",
+    "freeDate": "2025-03-27",
+    "gameTitle": "Cat Quest",
+    "mappingSlug": "",
+    "productSlug": "cat-quest-8373e0",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-0317"
   }
 ]
