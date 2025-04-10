@@ -6191,5 +6191,38 @@
     "productSlug": "cat-quest-ii-9dbefc",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mystery-game-03173"
+  },
+  {
+    "epicId": "a9748abde1c94b66aae5250bb9fc5503",
+    "epicRating": 4.07,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
+    "freeDate": "2025-04-10",
+    "gameTitle": "Idle Champions of the Forgotten Realms",
+    "mappingSlug": "idle-champions-of-the-forgotten-realms",
+    "productSlug": "idle-champions-of-the-forgotten-realms",
+    "sandboxId": "7e508f543b05465abe3a935960eb70ac",
+    "urlSlug": "banegeneralaudience"
+  },
+  {
+    "epicId": "ceea8c3f2f0b48dfbd5c658c3cb6d1b0",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/river-city-girls-e6f608",
+    "freeDate": "2025-04-10",
+    "gameTitle": "River City Girls",
+    "mappingSlug": "river-city-girls-e6f608",
+    "productSlug": "",
+    "sandboxId": "a02304688fb3406192a3491b4281bee7",
+    "urlSlug": "9e50ca4a982f4780bbb858d0879296d2"
+  },
+  {
+    "epicId": "33b2cb59eb304f0d978457bffaac8f0c",
+    "epicRating": 4.49,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/arcadegeddon",
+    "freeDate": "2025-04-10",
+    "gameTitle": "Arcadegeddon",
+    "mappingSlug": "arcadegeddon",
+    "productSlug": "",
+    "sandboxId": "043ffc92cbd64a9fbc350ea68f415937",
+    "urlSlug": "arcadgeddon-f2p-promo-bundle"
   }
 ]
