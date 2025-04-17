@@ -6224,5 +6224,27 @@
     "productSlug": "",
     "sandboxId": "043ffc92cbd64a9fbc350ea68f415937",
     "urlSlug": "arcadgeddon-f2p-promo-bundle"
+  },
+  {
+    "epicId": "0623017cf9f341efbe07557f46beb4e8",
+    "epicRating": 3.78,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+    "freeDate": "2025-04-17",
+    "gameTitle": "Firestone Online Idle RPG",
+    "mappingSlug": "firestone-online-idle-rpg-bfd04b",
+    "productSlug": "",
+    "sandboxId": "bda8d2133655435982b9118972792328",
+    "urlSlug": "1185abfe7c554a1e8c528aba37bf3d0f"
+  },
+  {
+    "epicId": "03c59230eea04398900d900770899a9e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/botanicula-50043d",
+    "freeDate": "2025-04-17",
+    "gameTitle": "Botanicula",
+    "mappingSlug": "botanicula-50043d",
+    "productSlug": "",
+    "sandboxId": "5c7501617f3449c5a6eed7590392f9fa",
+    "urlSlug": "3c32d774010245b6b1095ff2d3df6b2e"
   }
 ]
