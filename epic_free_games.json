@@ -6246,5 +6246,27 @@
     "productSlug": "",
     "sandboxId": "5c7501617f3449c5a6eed7590392f9fa",
     "urlSlug": "3c32d774010245b6b1095ff2d3df6b2e"
+  },
+  {
+    "epicId": "70ec5e706b404d378762042f029b46ef",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/chuchel-203808",
+    "freeDate": "2025-04-24",
+    "gameTitle": "CHUCHEL",
+    "mappingSlug": "chuchel-203808",
+    "productSlug": "",
+    "sandboxId": "092bbf0d7e2449c08271cae2fb791cf2",
+    "urlSlug": "dbd02c877c374aa3b5bbb40202a48061"
+  },
+  {
+    "epicId": "3a91372e417f46eca3f5dffe4c33d961",
+    "epicRating": 4.39,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/albion-online-7eb24d",
+    "freeDate": "2025-04-24",
+    "gameTitle": "Albion Online Free Welcome Gift",
+    "mappingSlug": "albion-online-7eb24d",
+    "productSlug": "",
+    "sandboxId": "72520902fc594621b6daa5a6217b4ee7",
+    "urlSlug": "epic-launch-promo-bundle"
   }
 ]
