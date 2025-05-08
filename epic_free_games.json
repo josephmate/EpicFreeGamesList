@@ -6279,5 +6279,27 @@
     "productSlug": "",
     "sandboxId": "5d6924bd68114aab9e48f1ed17ce1883",
     "urlSlug": "43f2f343f49a4061878da46c60d9345b"
+  },
+  {
+    "epicId": "ac63bc06c6d44a5d8c423675bd7208d9",
+    "epicRating": 4.74,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/touch-type-tale",
+    "freeDate": "2025-05-08",
+    "gameTitle": "Touch Type Tale",
+    "mappingSlug": "touch-type-tale",
+    "productSlug": "touch-type-tale",
+    "sandboxId": "7029f6353d7f468eb6940bbe6041474e",
+    "urlSlug": "touch-type-tale"
+  },
+  {
+    "epicId": "cff516f0708444ee8ee06a96e6986b34",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/deadtime-defenders-3e9fc8",
+    "freeDate": "2025-05-08",
+    "gameTitle": "Deadtime Defenders",
+    "mappingSlug": "deadtime-defenders-3e9fc8",
+    "productSlug": "",
+    "sandboxId": "bd93f0ee6bcb47f9abc3ef018cb97a0d",
+    "urlSlug": "828138b1254d4ea79bc50b9909c30a3f"
   }
 ]
