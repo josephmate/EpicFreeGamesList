@@ -6301,5 +6301,27 @@
     "productSlug": "",
     "sandboxId": "bd93f0ee6bcb47f9abc3ef018cb97a0d",
     "urlSlug": "828138b1254d4ea79bc50b9909c30a3f"
+  },
+  {
+    "epicId": "c0c9f6ca5ea14a608094219f96789ae0",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/happy-game-35a105",
+    "freeDate": "2025-05-15",
+    "gameTitle": "Happy Game",
+    "mappingSlug": "",
+    "productSlug": "happy-game-35a105",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-2-02"
+  },
+  {
+    "epicId": "bc07d445f178417da137028c19573b4e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dead-island-2",
+    "freeDate": "2025-05-15",
+    "gameTitle": "Dead Island 2",
+    "mappingSlug": "",
+    "productSlug": "dead-island-2",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game"
   }
 ]
