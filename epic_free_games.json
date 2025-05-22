@@ -6323,5 +6323,38 @@
     "productSlug": "dead-island-2",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mystery-game"
+  },
+  {
+    "epicId": "af3f55227dff45f2805901ae10c96ab3",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sifu",
+    "freeDate": "2025-05-22",
+    "gameTitle": "Sifu",
+    "mappingSlug": "",
+    "productSlug": "sifu",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-3-01"
+  },
+  {
+    "epicId": "9799fecaebb9459989bc95af8844fba6",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/gigapocalypse-fdc53b",
+    "freeDate": "2025-05-22",
+    "gameTitle": "Gigapocalypse",
+    "mappingSlug": "",
+    "productSlug": "gigapocalypse-fdc53b",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-5-01"
+  },
+  {
+    "epicId": "94c637ba57d748d28235e8fafe3860c4",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/deliver-at-all-costs-a30c8d",
+    "freeDate": "2025-05-22",
+    "gameTitle": "Deliver At All Costs",
+    "mappingSlug": "",
+    "productSlug": "deliver-at-all-costs-a30c8d",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-4-01"
   }
 ]
