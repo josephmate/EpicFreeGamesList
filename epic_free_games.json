@@ -6356,5 +6356,27 @@
     "productSlug": "deliver-at-all-costs-a30c8d",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mystery-game-4-01"
+  },
+  {
+    "epicId": "ce28797ae01f4c8ebb3e8692a5aa1395",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/tiny-tinas-wonderlands",
+    "freeDate": "2025-05-29",
+    "gameTitle": "Tiny Tina's Wonderlands",
+    "mappingSlug": "",
+    "productSlug": "tiny-tinas-wonderlands",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-2-01"
+  },
+  {
+    "epicId": "8ac7a28bdcdf4f4db7706419aa502c0e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/limbo",
+    "freeDate": "2025-05-29",
+    "gameTitle": "Limbo",
+    "mappingSlug": "",
+    "productSlug": "limbo",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-7-01"
   }
 ]
