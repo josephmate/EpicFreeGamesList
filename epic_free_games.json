@@ -6378,5 +6378,27 @@
     "productSlug": "limbo",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mystery-game-7-01"
+  },
+  {
+    "epicId": "550d30ebf2f343609a2b01c98293b264",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/ogu-and-the-secret-forest-ffc421",
+    "freeDate": "2025-06-05",
+    "gameTitle": "Ogu and the Secret Forest",
+    "mappingSlug": "",
+    "productSlug": "ogu-and-the-secret-forest-ffc421",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-9"
+  },
+  {
+    "epicId": "172406399087483db3a8b84e7051107b",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/deathloop",
+    "freeDate": "2025-06-05",
+    "gameTitle": "DEATHLOOP",
+    "mappingSlug": "",
+    "productSlug": "deathloop",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mystery-game-08"
   }
 ]
