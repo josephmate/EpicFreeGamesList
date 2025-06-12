@@ -6400,5 +6400,16 @@
     "productSlug": "deathloop",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mystery-game-08"
+  },
+  {
+    "epicId": "1078bc6439ab4b92b8786695e5f7f37d",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/two-point-hospital",
+    "freeDate": "2025-06-12",
+    "gameTitle": "Two Point Hospital",
+    "mappingSlug": "two-point-hospital",
+    "productSlug": "",
+    "sandboxId": "0f4a572a3c1541319db70c3737d3a123",
+    "urlSlug": "two-point-hospital"
   }
 ]
