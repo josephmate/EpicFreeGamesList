@@ -6422,5 +6422,16 @@
     "productSlug": "",
     "sandboxId": "2485eccb13d14250a0a5649e8ed63a3b",
     "urlSlug": "da87575e64bf4ab89c3ef1515a059c8a"
+  },
+  {
+    "epicId": "d19627e74ac445bcbcfc8157a35d6f80",
+    "epicRating": 4.53,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sable",
+    "freeDate": "2025-06-26",
+    "gameTitle": "Sable",
+    "mappingSlug": "sable",
+    "productSlug": "sable",
+    "sandboxId": "66a0893b7b9a42a695f0a387d64dfcc6",
+    "urlSlug": "sable"
   }
 ]
