@@ -6433,5 +6433,27 @@
     "productSlug": "sable",
     "sandboxId": "66a0893b7b9a42a695f0a387d64dfcc6",
     "urlSlug": "sable"
+  },
+  {
+    "epicId": "addd4e86c4d746ab86f21606bdadce7d",
+    "epicRating": 4.45,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/figment",
+    "freeDate": "2025-07-03",
+    "gameTitle": "Figment",
+    "mappingSlug": "figment",
+    "productSlug": "figment/home",
+    "sandboxId": "270e1d648a5e4060b7b441615c4da4d9",
+    "urlSlug": "figment"
+  },
+  {
+    "epicId": "d95cc849f45e406e88c1c371c7af309f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/backpack-hero-449c5e",
+    "freeDate": "2025-07-03",
+    "gameTitle": "Backpack Hero",
+    "mappingSlug": "backpack-hero-449c5e",
+    "productSlug": "",
+    "sandboxId": "0dc17d69dbfa4dd7b4eeb480d3adad6d",
+    "urlSlug": "fbdf104eda71436d8ed4d50e65e42d33"
   }
 ]
