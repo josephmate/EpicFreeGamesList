@@ -6455,5 +6455,27 @@
     "productSlug": "",
     "sandboxId": "0dc17d69dbfa4dd7b4eeb480d3adad6d",
     "urlSlug": "fbdf104eda71436d8ed4d50e65e42d33"
+  },
+  {
+    "epicId": "4d83f5e4aa8d42bdb2bdda9081a13ef3",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sky-racket-4cf23a",
+    "freeDate": "2025-07-10",
+    "gameTitle": "Sky Racket",
+    "mappingSlug": "sky-racket-4cf23a",
+    "productSlug": "",
+    "sandboxId": "43c0da4f8c774c23a76a213fb8dfe59b",
+    "urlSlug": "f0b545c8f22a40678aa8ffe195d8fd72"
+  },
+  {
+    "epicId": "1fb78130d9804fc6801fb2d6ab642721",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/figment2-creed-valley",
+    "freeDate": "2025-07-10",
+    "gameTitle": "Figment 2: Creed Valley",
+    "mappingSlug": "figment2-creed-valley",
+    "productSlug": "",
+    "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69",
+    "urlSlug": "figment2-creed-valley"
   }
 ]
