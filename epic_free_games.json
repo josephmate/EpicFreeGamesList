@@ -6477,5 +6477,16 @@
     "productSlug": "",
     "sandboxId": "109a4631336a475ca4e4a8a51cc6fe69",
     "urlSlug": "figment2-creed-valley"
+  },
+  {
+    "epicId": "9cf93671754649668f7a043b6200ff9b",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sid-meiers-civilization-vi",
+    "freeDate": "2025-07-17",
+    "gameTitle": "Sid Meier’s Civilization® VI Platinum Edition",
+    "mappingSlug": "sid-meiers-civilization-vi",
+    "productSlug": "sid-meiers-civilization-vi--platinum-edition",
+    "sandboxId": "cd14dcaa4f3443f19f7169a980559c62",
+    "urlSlug": "sid-meiers-civilization-vi--platinum-edition"
   }
 ]
