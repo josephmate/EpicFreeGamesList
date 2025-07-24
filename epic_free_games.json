@@ -6488,5 +6488,16 @@
     "productSlug": "sid-meiers-civilization-vi--platinum-edition",
     "sandboxId": "cd14dcaa4f3443f19f7169a980559c62",
     "urlSlug": "sid-meiers-civilization-vi--platinum-edition"
+  },
+  {
+    "epicId": "71f1c64e7e41477ca09228c1253c9ce7",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/legion-td-2-a244b9",
+    "freeDate": "2025-07-24",
+    "gameTitle": "Legion TD 2",
+    "mappingSlug": "legion-td-2-a244b9",
+    "productSlug": "",
+    "sandboxId": "524c3386e7e6470a8d8400cc51d92296",
+    "urlSlug": "19a478231fb64e89b929bb982b03924f"
   }
 ]
