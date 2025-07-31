@@ -6499,5 +6499,27 @@
     "productSlug": "",
     "sandboxId": "524c3386e7e6470a8d8400cc51d92296",
     "urlSlug": "19a478231fb64e89b929bb982b03924f"
+  },
+  {
+    "epicId": "605ced56db424539ba3ac26f904a83f2",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/pilgrims-6d250f",
+    "freeDate": "2025-07-31",
+    "gameTitle": "Pilgrims",
+    "mappingSlug": "pilgrims-6d250f",
+    "productSlug": "",
+    "sandboxId": "0693e8391e49492096424712a5595484",
+    "urlSlug": "9b5afb9e48704b6a834df8d495c77386"
+  },
+  {
+    "epicId": "3de25d0eaa7f4b9dbb3fa3f08fd55746",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/keylocker-622bcc",
+    "freeDate": "2025-07-31",
+    "gameTitle": "Keylocker | Turn Based Cyberpunk Action",
+    "mappingSlug": "keylocker-622bcc",
+    "productSlug": "",
+    "sandboxId": "1c0e80ffead94d1f911254d457ebb48b",
+    "urlSlug": "15bd195e431843078fe1a9d9977f2f9b"
   }
 ]
