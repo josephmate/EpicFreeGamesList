@@ -6521,5 +6521,27 @@
     "productSlug": "",
     "sandboxId": "1c0e80ffead94d1f911254d457ebb48b",
     "urlSlug": "15bd195e431843078fe1a9d9977f2f9b"
+  },
+  {
+    "epicId": "913af1ed18e24007ab5fd2bc2092c175",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/112-operator-f34b0b",
+    "freeDate": "2025-08-07",
+    "gameTitle": "112 Operator",
+    "mappingSlug": "112-operator-f34b0b",
+    "productSlug": "",
+    "sandboxId": "9f981e2c861e4a8fbd0eab89541ac8e6",
+    "urlSlug": "112-operator"
+  },
+  {
+    "epicId": "91a0b419d5b741c39cc35ce3a35138c0",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/road-redemption-ce16fb",
+    "freeDate": "2025-08-07",
+    "gameTitle": "Road Redemption",
+    "mappingSlug": "road-redemption-ce16fb",
+    "productSlug": "",
+    "sandboxId": "462451248e9640f4a211294193034dda",
+    "urlSlug": "road-redemption"
   }
 ]
