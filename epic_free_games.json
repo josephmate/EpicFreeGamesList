@@ -6543,5 +6543,27 @@
     "productSlug": "",
     "sandboxId": "462451248e9640f4a211294193034dda",
     "urlSlug": "road-redemption"
+  },
+  {
+    "epicId": "9aa227e2ba294bb1a95c95fde892eb31",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/totally-reliable-delivery-service",
+    "freeDate": "2025-08-14",
+    "gameTitle": "Totally Reliable Delivery Service Standard Edition",
+    "mappingSlug": "totally-reliable-delivery-service",
+    "productSlug": "totally-reliable-delivery-service/home",
+    "sandboxId": "52b90f9a982a404781b189f6a7903226",
+    "urlSlug": "hoatzingeneralaudience"
+  },
+  {
+    "epicId": "8ea3500dc38e4f429702bf889c172d3d",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/hidden-folks-239d16",
+    "freeDate": "2025-08-14",
+    "gameTitle": "Hidden Folks",
+    "mappingSlug": "hidden-folks-239d16",
+    "productSlug": "",
+    "sandboxId": "b0545d64f90248208a5dd6f213f4dde7",
+    "urlSlug": "8231330d9e5c446dbd4f386ed9f19f53"
   }
 ]
