@@ -6565,5 +6565,27 @@
     "productSlug": "",
     "sandboxId": "b0545d64f90248208a5dd6f213f4dde7",
     "urlSlug": "8231330d9e5c446dbd4f386ed9f19f53"
+  },
+  {
+    "epicId": "0d9a533f0e684cc18620a8f408e8e72c",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/strange-horticulture-360e80",
+    "freeDate": "2025-08-21",
+    "gameTitle": "Strange Horticulture",
+    "mappingSlug": "strange-horticulture-360e80",
+    "productSlug": "",
+    "sandboxId": "c9d0a59bf89c45ceadc5960d6bc1ae4c",
+    "urlSlug": "e80e18d9bbf24029b898d2cf68807e5e"
+  },
+  {
+    "epicId": "4cbb6c3704d240f19c3dd5f5cb2b0cb4",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/kamaeru-0c301e",
+    "freeDate": "2025-08-21",
+    "gameTitle": "Kamaeru",
+    "mappingSlug": "kamaeru-0c301e",
+    "productSlug": "",
+    "sandboxId": "a1fb482c4c6c4dcd855a1cbef1ad79d1",
+    "urlSlug": "dc461f7367714ec6ad01df67163de5eb"
   }
 ]
