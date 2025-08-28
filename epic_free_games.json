@@ -6587,5 +6587,27 @@
     "productSlug": "",
     "sandboxId": "a1fb482c4c6c4dcd855a1cbef1ad79d1",
     "urlSlug": "dc461f7367714ec6ad01df67163de5eb"
+  },
+  {
+    "epicId": "54003c89a604467abe315658a4a853b3",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/machinarium-5e6c71",
+    "freeDate": "2025-08-28",
+    "gameTitle": "Machinarium",
+    "mappingSlug": "machinarium-5e6c71",
+    "productSlug": "",
+    "sandboxId": "e52b4d8cbcfd45ad95eff800ccc59d93",
+    "urlSlug": "21f761703f124f8fbeafd9c9763f0f52"
+  },
+  {
+    "epicId": "5e416c7c1444483e828899b0c30ce2cd",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/make-way-bddf5f",
+    "freeDate": "2025-08-28",
+    "gameTitle": "Make Way",
+    "mappingSlug": "make-way-bddf5f",
+    "productSlug": "",
+    "sandboxId": "99d8ac4b0cd94611b52bae792d84b0e4",
+    "urlSlug": "make-way"
   }
 ]
