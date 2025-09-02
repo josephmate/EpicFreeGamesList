@@ -6609,5 +6609,53 @@
     "productSlug": "",
     "sandboxId": "99d8ac4b0cd94611b52bae792d84b0e4",
     "urlSlug": "make-way"
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.18,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/gigapocalypse-android-e56f84",
+    "freeDate": "2025-05-22",
+    "gameTitle": "Gigapocalypse",
+    "platform": "android",
+    "mappingSlug": "",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.18,
+    "epicStoreLink": "https://store.epicgames.com/de/p/gigapocalypse-ios-e9799b",
+    "freeDate": "2025-05-22",
+    "gameTitle": "Gigapocalypse",
+    "platform": "ios",
+    "mappingSlug": "",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.51,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/machinarium-android-cb6e90",
+    "freeDate": "2025-08-28",
+    "gameTitle": "Machinarium",
+    "platform": "android",
+    "mappingSlug": "",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.51,
+    "epicStoreLink": "https://store.epicgames.com/de/p/machinarium-ios-cde620",
+    "freeDate": "2025-08-28",
+    "gameTitle": "Machinarium",
+    "platform": "ios",
+    "mappingSlug": "",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
