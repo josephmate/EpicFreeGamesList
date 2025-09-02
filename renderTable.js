@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
                   label = "Android";
                   break;
                 case "ios":
-                  iconPath = "/EpicFreeGamesList/assets/ios.svg";
+                  iconPath = "/EpicFreeGamesList/assets/apple.svg";
                   label = "iOS";
                   break;
                 case "pc":
