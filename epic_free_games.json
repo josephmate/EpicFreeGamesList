@@ -7364,5 +7364,29 @@
     "productSlug": "",
     "sandboxId": "e236e73a294b462d85715f5ba23a6346",
     "urlSlug": "monument-valley-02"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-android-1046b9",
+    "freeDate": "2025-09-04",
+    "gameTitle": "Monument Valley",
+    "platform": "android",
+    "mappingSlug": "",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-ios-8ad17f",
+    "freeDate": "2025-09-04",
+    "gameTitle": "Monument Valley",
+    "platform": "ios",
+    "mappingSlug": "",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
