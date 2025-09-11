@@ -7371,8 +7371,8 @@
     "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-android-1046b9",
     "freeDate": "2025-09-04",
     "gameTitle": "Monument Valley",
-    "platform": "android",
     "mappingSlug": "",
+    "platform": "android",
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
@@ -7383,10 +7383,43 @@
     "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-ios-8ad17f",
     "freeDate": "2025-09-04",
     "gameTitle": "Monument Valley",
-    "platform": "ios",
     "mappingSlug": "",
+    "platform": "ios",
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "be5600439b434624802764f704755cde",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+    "freeDate": "2025-09-11",
+    "gameTitle": "Ghostrunner 2",
+    "mappingSlug": "ghostrunner-2",
+    "productSlug": "ghostrunner-2",
+    "sandboxId": "708f57aaa04b42ef885be16c8288f0ac",
+    "urlSlug": "ghostrunner-2"
+  },
+  {
+    "epicId": "006ff26e1ff84141a1fa1b48884ac1c7",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6",
+    "freeDate": "2025-09-11",
+    "gameTitle": "The Battle of Polytopia",
+    "mappingSlug": "the-battle-of-polytopia-12fed6",
+    "productSlug": "",
+    "sandboxId": "c28a4972ae574f27af0304e6ac625009",
+    "urlSlug": "45ec993c44f942428aa92c842e2f2902"
+  },
+  {
+    "epicId": "d09a24a332c94549b2144f962231c394",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-2-addd02",
+    "freeDate": "2025-09-11",
+    "gameTitle": "Monument Valley 2",
+    "mappingSlug": "monument-valley-2-addd02",
+    "productSlug": "",
+    "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511",
+    "urlSlug": "monument-valley-2-06"
   }
 ]
