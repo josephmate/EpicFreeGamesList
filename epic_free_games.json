@@ -7421,5 +7421,53 @@
     "productSlug": "",
     "sandboxId": "e6abebfda00f45e2b3b9ba79970bc511",
     "urlSlug": "monument-valley-2-06"
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.81,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-2-android-b21888",
+    "freeDate": "2025-09-11",
+    "gameTitle": "Monument Valley 2",
+    "mappingSlug": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.81,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-2-ios-b4a7bf",
+    "freeDate": "2025-09-11",
+    "gameTitle": "Monument Valley 2",
+    "mappingSlug": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.52,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-battle-of-polytopia-android-2acf81",
+    "freeDate": "2025-09-11",
+    "gameTitle": "The Battle of Polytopia",
+    "mappingSlug": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.52,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-battle-of-polytopia-ios-afc195",
+    "freeDate": "2025-09-11",
+    "gameTitle": "The Battle of Polytopia",
+    "mappingSlug": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
