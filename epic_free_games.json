@@ -7469,5 +7469,27 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "15176675e3bd4fcc98949566caa754e4",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/samorost-2-1b9bb1",
+    "freeDate": "2025-09-18",
+    "gameTitle": "Samorost 2",
+    "mappingSlug": "samorost-2-1b9bb1",
+    "productSlug": "",
+    "sandboxId": "3341d4dd5b8d44c3a372da3f10122485",
+    "urlSlug": "7e3160660b3f406aa92c77971f04c4e1"
+  },
+  {
+    "epicId": "185405ac2556457883827885b44e0e69",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/project-winter-3b9e84",
+    "freeDate": "2025-09-18",
+    "gameTitle": "Project Winter",
+    "mappingSlug": "project-winter-3b9e84",
+    "productSlug": "",
+    "sandboxId": "788e00e07a364c4ab1a42708b6ea6e17",
+    "urlSlug": "7d768bd73c50476f9832d8265114a742"
   }
 ]
