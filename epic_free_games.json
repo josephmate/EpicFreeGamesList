@@ -7483,7 +7483,7 @@
   },
   {
     "epicId": "185405ac2556457883827885b44e0e69",
-    "epicRating": 0,
+    "epicRating": 4.43,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/project-winter-3b9e84",
     "freeDate": "2025-09-18",
     "gameTitle": "Project Winter",
@@ -7491,5 +7491,53 @@
     "productSlug": "",
     "sandboxId": "788e00e07a364c4ab1a42708b6ea6e17",
     "urlSlug": "7d768bd73c50476f9832d8265114a742"
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.52,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/samorost-2-android-96a371",
+    "freeDate": "2025-09-18",
+    "gameTitle": "Samorost 2",
+    "mappingSlug": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.52,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/samorost-2-ios-990d45",
+    "freeDate": "2025-09-18",
+    "gameTitle": "Samorost 2",
+    "mappingSlug": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.2,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/road-redemption-mobile-full-game-unlock-34a6aa",
+    "freeDate": "2025-09-18",
+    "gameTitle": "Road Redemption Mobile Full Game Offer",
+    "mappingSlug": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 4.2,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/road-redemption-mobile-full-game-unlock-34a6aa",
+    "freeDate": "2025-09-18",
+    "gameTitle": "Road Redemption Mobile Full Game Offer",
+    "mappingSlug": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
