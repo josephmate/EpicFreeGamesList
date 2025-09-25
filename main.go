@@ -13,6 +13,8 @@ func mainUsage(msg string) {
 		fmt.Println("  rate: find the rating of game given some identifier")
 		fmt.Println("  free: update the free game list")
 		fmt.Println("  fix_ratings: fix any broken ratings that can be fixed")
+		fmt.Println("  mobile_discover_page: print the games from the mobile page")
+
 		fmt.Println(msg)
 		os.Exit(1)
 }
@@ -39,6 +41,8 @@ func main() {
 		CliHandlerFree()
 	} else if operation == "fix_ratings" {
 		CliHandlerFixRatings()
+	} else if operation == "mobile_discover_page" {
+		CliHandlerMobileDiscoverPage()
 	} else {
 		mainUsage("--operation " + operation + " is not recognized.")
 	}
