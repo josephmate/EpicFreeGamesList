@@ -7540,6 +7540,27 @@
     "sandboxId": "",
     "urlSlug": ""
   },
+    "epicId": "aa2e42dde7b64a3183855ac1803a829c",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/eastern-exorcist-d49923",
+    "freeDate": "2025-09-25",
+    "gameTitle": "Eastern Exorcist",
+    "mappingSlug": "eastern-exorcist-d49923",
+    "productSlug": "",
+    "sandboxId": "630a4b97a55545bb9941aee38ec799db",
+    "urlSlug": "8cdd4288fac84b7fa20e702065c03820"
+  },
+  {
+    "epicId": "70d56e56409e4a0384282d9bea1b4e20",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
+    "freeDate": "2025-09-25",
+    "gameTitle": "Jorel’s Brother and The Most Important Game of the Galaxy",
+    "mappingSlug": "jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
+    "productSlug": "",
+    "sandboxId": "d5b2727bc277495facca061b00b9876c",
+    "urlSlug": "15af6e3d36f145a1aed111769893aadd"
+  },
   {
     "epicId": "",
     "epicRating": 3.92,
