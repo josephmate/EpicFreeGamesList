@@ -7539,5 +7539,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 3.92,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/eastern-exorcist-android-8e99ad",
+    "freeDate": "2025-09-25",
+    "gameTitle": "Eastern Exorcist",
+    "mappingSlug": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 3.92,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/eastern-exorcist-ios-910c34",
+    "freeDate": "2025-09-25",
+    "gameTitle": "Eastern Exorcist",
+    "mappingSlug": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
