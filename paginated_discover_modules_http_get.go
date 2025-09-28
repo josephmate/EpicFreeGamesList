@@ -9,6 +9,12 @@ import (
 	"github.com/bogdanfinn/tls-client/profiles"
 )
 
+
+const (
+	PaginatedDiscoverModulesAndroidURL = "https://egs-platform-service.store.epicgames.com/api/v2/public/discover/home?count=10&country=US&locale=en&platform=android&start=0&store=EGS"
+	PaginatedDiscoverModulesIosURL     = "https://egs-platform-service.store.epicgames.com/api/v2/public/discover/home?count=10&country=US&locale=en&platform=ios&start=0&store=EGS"
+)
+
 // TLS client with timeout and Chrome profile
 var tlsClient tls_client.HttpClient
 

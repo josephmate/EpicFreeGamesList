@@ -17,6 +17,7 @@ type FreeGameEntry struct {
 	ProductSlug   string `json:"productSlug"`
 	SandboxId     string `json:"sandboxId"`
 	UrlSlug       string `json:"urlSlug"`
+	Platform       string `json:"platform"`
 }
 
 type FreeGames struct {
@@ -145,6 +146,7 @@ func GetFreeGames() (FreeGames, error) {
 		if !isVaultedGame(element) {
 			modifiedEntry := FreeGameEntry{}
 			modifiedEntry.EpicId = element.Id
+			modifiedEntry.Platform = "pc"
 			mapping := element.CatalogNs.Mappings
 			if len(mapping) > 0 {
 				modifiedEntry.EpicStoreLink = "https://store.epicgames.com/en-US/p/" + mapping[0].PageSlug

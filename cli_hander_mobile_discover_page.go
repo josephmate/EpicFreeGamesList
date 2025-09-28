@@ -6,12 +6,6 @@ import (
 	"os"
 )
 
-const (
-	//            
-	androidURL = "https://egs-platform-service.store.epicgames.com/api/v2/public/discover/home?count=10&country=US&locale=en&platform=android&start=0&store=EGS"
-	iosURL     = "https://egs-platform-service.store.epicgames.com/api/v2/public/discover/home?count=10&country=US&locale=en&platform=ios&start=0&store=EGS"
-)
-
 func CliHandlerMobileDiscoverPage() {
 	fs := flag.NewFlagSet("mobile_discover_page", flag.ExitOnError)
 	platform := fs.String("platform", "", "Platform to fetch data for (android|ios)")
@@ -39,10 +33,10 @@ func CliHandlerMobileDiscoverPage() {
 	var url string
 	switch *platform {
 	case "android":
-		url = androidURL
+		url = PaginatedDiscoverModulesAndroidURL
 		fmt.Printf("Fetching Android discover modules...\n")
 	case "ios":
-		url = iosURL
+		url = PaginatedDiscoverModulesIosURL
 		fmt.Printf("Fetching iOS discover modules...\n")
 	default:
 		fmt.Fprintf(os.Stderr, "Error: invalid platform '%s'. Must be 'android' or 'ios'\n\n", *platform)
@@ -120,6 +114,7 @@ func CliHandlerMobileDiscoverPage() {
 
 	fmt.Printf("\n🎉 Done!\n")
 }
+
 
 // Helper functions to safely get values from pointers
 func getStringValue(s *string) string {

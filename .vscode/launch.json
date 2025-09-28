@@ -5,20 +5,14 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "Launch Package",
+      "name": "Launch file",
       "type": "go",
       "request": "launch",
-      "mode": "auto",
-      "program": "${fileDirname}",
-      "env": {},
+      "mode": "debug",
+      "program": "${workspaceFolder}",
       "args": [
-        "fix_ratings",
-        "--inputFile",
-        "epic_free_games.json",
-        "--outputFile",
-        "out.json"
-      ],
-      "showLog": true
+        "free_mobile",
+      ]
     }
   ]
 }

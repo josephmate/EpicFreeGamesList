@@ -5,42 +5,10 @@ import (
 	"flag"
 	"fmt"
 	"os"
-	"sort"
 )
 
-func PrintFreeGame(game FreeGameEntry) {
-	fmt.Println("EpicId: ", game.EpicId)
-	fmt.Println("EpicStoreLink: ", game.EpicStoreLink)
-	fmt.Println("FreeDate: ", game.FreeDate)
-	fmt.Println("GameTitle: ", game.GameTitle)
-	fmt.Println("MappingSlug: ", game.MappingSlug)
-	fmt.Println("Platform: ", game.Platform)
-	fmt.Println("ProductSlug: ", game.ProductSlug)
-	fmt.Println("SandboxId: ", game.SandboxId)
-	fmt.Println("UrlSlug: ", game.UrlSlug)
-	fmt.Println("------------------------------------")
-}
-
-func sortKeysInObjects(input []map[string]interface{}) []map[string]interface{} {
-	for _, obj := range input {
-		sortedKeys := make([]string, 0, len(obj))
-		for key := range obj {
-			sortedKeys = append(sortedKeys, key)
-		}
-		sort.Strings(sortedKeys)
-
-		sortedData := make(map[string]interface{})
-		for _, key := range sortedKeys {
-			sortedData[key] = obj[key]
-		}
-
-		obj = sortedData
-	}
-	return input
-}
-
-func CliHandlerFree() {
-	fs := flag.NewFlagSet("free", flag.ExitOnError)
+func CliHandlerFreeMobile() {
+	fs := flag.NewFlagSet("free_mobile", flag.ExitOnError)
 	inputFile := fs.String("inputFile", "", "The input json file.")
 	outputFile := fs.String("outputFile", "", "The output json file. this option required when inputFile is provided. prints to console otherwise")
 	fs.Parse(os.Args[2:])
@@ -55,7 +23,16 @@ func CliHandlerFree() {
 		os.Exit(1)
 	}
 
-	freeGames, _ := GetFreeGames()
+	freeGames, err := FreeMobileGames()
+	if (err != nil) {
+		fmt.Println("unable to get the free mobile games")
+		os.Exit(1)
+	}
+
+	if len(freeGames.ThisWeek) <= 0 {
+		fmt.Println("no free games found this week")
+		os.Exit(1)
+	}
 
 	if len(*inputFile) > 0 {
 		// Read the original JSON file
@@ -127,5 +104,4 @@ func CliHandlerFree() {
 			PrintFreeGame(game)
 		}
 	}
-
 }
