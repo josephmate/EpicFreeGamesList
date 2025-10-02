@@ -7585,5 +7585,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "0623017cf9f341efbe07557f46beb4e8",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+    "freeDate": "2025-10-02",
+    "gameTitle": "Firestone Online Idle RPG",
+    "mappingSlug": "firestone-online-idle-rpg-bfd04b",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "bda8d2133655435982b9118972792328",
+    "urlSlug": "1185abfe7c554a1e8c528aba37bf3d0f"
+  },
+  {
+    "epicId": "048561ae0c75490593c4b5ee79c20e38",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/nightingale",
+    "freeDate": "2025-10-02",
+    "gameTitle": "Nightingale",
+    "mappingSlug": "nightingale",
+    "platform": "pc",
+    "productSlug": "nightingale",
+    "sandboxId": "88e8dde0de8f44bdb3580d73e36d4157",
+    "urlSlug": "nightingale"
   }
 ]
