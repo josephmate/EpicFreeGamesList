@@ -7609,5 +7609,29 @@
     "productSlug": "nightingale",
     "sandboxId": "88e8dde0de8f44bdb3580d73e36d4157",
     "urlSlug": "nightingale"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/doodle-devil-dark-side-android-2b0231",
+    "freeDate": "",
+    "gameTitle": "Doodle Devil: Dark Side",
+    "mappingSlug": "doodle-devil-dark-side-android-2b0231",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/doodle-devil-dark-side-ios-307eea",
+    "freeDate": "",
+    "gameTitle": "Doodle Devil: Dark Side",
+    "mappingSlug": "doodle-devil-dark-side-ios-307eea",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
