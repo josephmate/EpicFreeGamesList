@@ -4,6 +4,7 @@ import (
 	"errors"
 	"fmt"
 	"os"
+	"time"
 )
 
 func getGames(url string) (*PaginatedDiscoverModules, error) {
@@ -77,6 +78,9 @@ func getFreeGames(url string, platform string) ([]FreeGameEntry, error) {
 			freeGame.MappingSlug = *slugId
 			freeGame.Platform = platform
 			freeGame.GameTitle = *offer.Content.Title
+			now := time.Now()
+			formatted := now.Format("2006-01-02")
+			freeGame.FreeDate = formatted
 
 			freeGames = append(freeGames, freeGame)
 		}
