@@ -7657,5 +7657,29 @@
     "productSlug": "",
     "sandboxId": "72520902fc594621b6daa5a6217b4ee7",
     "urlSlug": "rogue-journeyman-bundle"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/double-dragon-trilogy-android-aa344a",
+    "freeDate": "2025-10-09",
+    "gameTitle": "Double Dragon Trilogy",
+    "mappingSlug": "double-dragon-trilogy-android-aa344a",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/double-dragon-trilogy-ios-ae64d4",
+    "freeDate": "2025-10-09",
+    "gameTitle": "Double Dragon Trilogy",
+    "mappingSlug": "double-dragon-trilogy-ios-ae64d4",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
