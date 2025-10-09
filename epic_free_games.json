@@ -7633,5 +7633,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "ca6648eabced4312bd29c543307ecd29",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/gravity-circuit-489baa",
+    "freeDate": "2025-10-09",
+    "gameTitle": "Gravity Circuit",
+    "mappingSlug": "gravity-circuit-489baa",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "de295b694198450fad4569530b0e9419",
+    "urlSlug": "fc21158bb42f4162b7e4ac70801ba7a9"
+  },
+  {
+    "epicId": "1fabfcaf66d24dc1bd487ab2b2afefe0",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/albion-online-7eb24d",
+    "freeDate": "2025-10-09",
+    "gameTitle": "Rogue Journeyman Bundle",
+    "mappingSlug": "albion-online-7eb24d",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "72520902fc594621b6daa5a6217b4ee7",
+    "urlSlug": "rogue-journeyman-bundle"
   }
 ]
