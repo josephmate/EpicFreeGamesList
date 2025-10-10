@@ -7553,7 +7553,7 @@
   },
   {
     "epicId": "70d56e56409e4a0384282d9bea1b4e20",
-    "epicRating": 0,
+    "epicRating": 4.32,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f",
     "freeDate": "2025-09-25",
     "gameTitle": "Jorel’s Brother and The Most Important Game of the Galaxy",
@@ -7588,7 +7588,7 @@
   },
   {
     "epicId": "0623017cf9f341efbe07557f46beb4e8",
-    "epicRating": 0,
+    "epicRating": 3.61,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
     "freeDate": "2025-10-02",
     "gameTitle": "Firestone Online Idle RPG",
@@ -7600,7 +7600,7 @@
   },
   {
     "epicId": "048561ae0c75490593c4b5ee79c20e38",
-    "epicRating": 0,
+    "epicRating": 3.92,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/nightingale",
     "freeDate": "2025-10-02",
     "gameTitle": "Nightingale",
@@ -7636,7 +7636,7 @@
   },
   {
     "epicId": "ca6648eabced4312bd29c543307ecd29",
-    "epicRating": 0,
+    "epicRating": 4.6,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/gravity-circuit-489baa",
     "freeDate": "2025-10-09",
     "gameTitle": "Gravity Circuit",
@@ -7648,10 +7648,10 @@
   },
   {
     "epicId": "1fabfcaf66d24dc1bd487ab2b2afefe0",
-    "epicRating": 0,
+    "epicRating": 4.31,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/albion-online-7eb24d",
     "freeDate": "2025-10-09",
-    "gameTitle": "Rogue Journeyman Bundle",
+    "gameTitle": "Albion Online: Rogue Journeyman Bundle",
     "mappingSlug": "albion-online-7eb24d",
     "platform": "pc",
     "productSlug": "",
