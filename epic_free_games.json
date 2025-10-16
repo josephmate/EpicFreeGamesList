@@ -7705,5 +7705,29 @@
     "productSlug": "",
     "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548",
     "urlSlug": "99a6d203a4774494963a49fc63a17208"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/samorost-3-android-0408e5",
+    "freeDate": "2025-10-16",
+    "gameTitle": "Samorost 3",
+    "mappingSlug": "samorost-3-android-0408e5",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/samorost-3-ios-06e52a",
+    "freeDate": "2025-10-16",
+    "gameTitle": "Samorost 3",
+    "mappingSlug": "samorost-3-ios-06e52a",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
