@@ -7681,5 +7681,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "7ae41233a8ad4fd4a2d5a415abd77d24",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799",
+    "freeDate": "2025-10-16",
+    "gameTitle": "Amnesia: The Bunker",
+    "mappingSlug": "amnesia-the-bunker-9d5799",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "8c73bcc38bd4440f945d81ac7774b418",
+    "urlSlug": "71b693e61abd43b4bf2879ae5d3c9c01"
+  },
+  {
+    "epicId": "5e8e1821206d4b5994e09cd153f77f96",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/samorost-3-0c4489",
+    "freeDate": "2025-10-16",
+    "gameTitle": "Samorost 3",
+    "mappingSlug": "samorost-3-0c4489",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "c62d7481ae1744dab7310c8f4e1e9548",
+    "urlSlug": "99a6d203a4774494963a49fc63a17208"
   }
 ]
