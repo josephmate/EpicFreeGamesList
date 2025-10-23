@@ -7741,5 +7741,53 @@
     "productSlug": "",
     "sandboxId": "61159823352c4467b9f6205c01d8d3ee",
     "urlSlug": "9eea1c9a2590434a9899bd484d9cbfbd"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-android-4fc7c4",
+    "freeDate": "2025-10-23",
+    "gameTitle": "Bendy and the Ink Machine",
+    "mappingSlug": "bendy-and-the-ink-machine-android-4fc7c4",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/doodle-farm-breeds-and-beasts-android-9c6b12",
+    "freeDate": "2025-10-23",
+    "gameTitle": "Doodle Farm: Breeds and Beasts",
+    "mappingSlug": "doodle-farm-breeds-and-beasts-android-9c6b12",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-ios-eece7b",
+    "freeDate": "2025-10-23",
+    "gameTitle": "Bendy and the Ink Machine",
+    "mappingSlug": "bendy-and-the-ink-machine-ios-eece7b",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/doodle-farm-breeds-and-beasts-ios-a11512",
+    "freeDate": "2025-10-23",
+    "gameTitle": "Doodle Farm: Breeds and Beasts",
+    "mappingSlug": "doodle-farm-breeds-and-beasts-ios-a11512",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
