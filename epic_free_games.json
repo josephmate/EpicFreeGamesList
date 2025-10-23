@@ -7729,5 +7729,17 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "1f1bb7fd09a94d8f9d9219210ffacf95",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f",
+    "freeDate": "2025-10-23",
+    "gameTitle": "Fear the Spotlight",
+    "mappingSlug": "fear-the-spotlight-97656f",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "61159823352c4467b9f6205c01d8d3ee",
+    "urlSlug": "9eea1c9a2590434a9899bd484d9cbfbd"
   }
 ]
