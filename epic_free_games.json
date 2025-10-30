@@ -7813,5 +7813,29 @@
     "productSlug": "",
     "sandboxId": "afa1cff319dd4f81b58006e223dd4401",
     "urlSlug": "4b89f18efb9645ec8083b37e85cb24db"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-android-4fc7c4",
+    "freeDate": "2025-10-30",
+    "gameTitle": "Bendy and the Ink Machine",
+    "mappingSlug": "bendy-and-the-ink-machine-android-4fc7c4",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-ios-eece7b",
+    "freeDate": "2025-10-30",
+    "gameTitle": "Bendy and the Ink Machine",
+    "mappingSlug": "bendy-and-the-ink-machine-ios-eece7b",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
