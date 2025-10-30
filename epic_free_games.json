@@ -7789,5 +7789,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "fb722544c8314c45bf9a42c66b2a5a73",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a",
+    "freeDate": "2025-10-30",
+    "gameTitle": "Bendy and the Ink Machine",
+    "mappingSlug": "bendy-and-the-ink-machine-60cf5a",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "4ebf21b7761e40cdb180d0604127e4a6",
+    "urlSlug": "bdc31c7712834e9d8daf19fd1ac497e5"
+  },
+  {
+    "epicId": "4f870cf44ac24a64a44225045d4aaa96",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563",
+    "freeDate": "2025-10-30",
+    "gameTitle": "Five Nights at Freddy's: Into the Pit",
+    "mappingSlug": "five-nights-at-freddys-into-the-pit-99c563",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "afa1cff319dd4f81b58006e223dd4401",
+    "urlSlug": "4b89f18efb9645ec8083b37e85cb24db"
   }
 ]
