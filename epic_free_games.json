@@ -7732,7 +7732,7 @@
   },
   {
     "epicId": "1f1bb7fd09a94d8f9d9219210ffacf95",
-    "epicRating": 0,
+    "epicRating": 4.53,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f",
     "freeDate": "2025-10-23",
     "gameTitle": "Fear the Spotlight",
@@ -7745,35 +7745,11 @@
   {
     "epicId": "",
     "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-android-4fc7c4",
-    "freeDate": "2025-10-23",
-    "gameTitle": "Bendy and the Ink Machine",
-    "mappingSlug": "bendy-and-the-ink-machine-android-4fc7c4",
-    "platform": "android",
-    "productSlug": "",
-    "sandboxId": "",
-    "urlSlug": ""
-  },
-  {
-    "epicId": "",
-    "epicRating": 0,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/doodle-farm-breeds-and-beasts-android-9c6b12",
     "freeDate": "2025-10-23",
     "gameTitle": "Doodle Farm: Breeds and Beasts",
     "mappingSlug": "doodle-farm-breeds-and-beasts-android-9c6b12",
     "platform": "android",
-    "productSlug": "",
-    "sandboxId": "",
-    "urlSlug": ""
-  },
-  {
-    "epicId": "",
-    "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-ios-eece7b",
-    "freeDate": "2025-10-23",
-    "gameTitle": "Bendy and the Ink Machine",
-    "mappingSlug": "bendy-and-the-ink-machine-ios-eece7b",
-    "platform": "ios",
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
@@ -7792,7 +7768,7 @@
   },
   {
     "epicId": "fb722544c8314c45bf9a42c66b2a5a73",
-    "epicRating": 0,
+    "epicRating": 4.67,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a",
     "freeDate": "2025-10-30",
     "gameTitle": "Bendy and the Ink Machine",
@@ -7816,7 +7792,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.67,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-android-4fc7c4",
     "freeDate": "2025-10-30",
     "gameTitle": "Bendy and the Ink Machine",
@@ -7828,7 +7804,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.67,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-ios-eece7b",
     "freeDate": "2025-10-30",
     "gameTitle": "Bendy and the Ink Machine",
