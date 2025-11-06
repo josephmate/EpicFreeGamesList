@@ -7813,5 +7813,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "a9748abde1c94b66aae5250bb9fc5503",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
+    "freeDate": "2025-11-06",
+    "gameTitle": "Idle Champions of the Forgotten Realms",
+    "mappingSlug": "idle-champions-of-the-forgotten-realms",
+    "platform": "pc",
+    "productSlug": "idle-champions-of-the-forgotten-realms",
+    "sandboxId": "7e508f543b05465abe3a935960eb70ac",
+    "urlSlug": "banegeneralaudience"
+  },
+  {
+    "epicId": "64dcb34ab8794d67a59bbb4bc805d4c6",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/felix-the-reaper-3f7e62",
+    "freeDate": "2025-11-06",
+    "gameTitle": "Felix The Reaper",
+    "mappingSlug": "felix-the-reaper-3f7e62",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "77882e466fc140cdb20ea0c72fca9f93",
+    "urlSlug": "0724c3f1aac0495a85d5a952931b4167"
   }
 ]
