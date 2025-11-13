@@ -7837,5 +7837,41 @@
     "productSlug": "",
     "sandboxId": "77882e466fc140cdb20ea0c72fca9f93",
     "urlSlug": "0724c3f1aac0495a85d5a952931b4167"
+  },
+  {
+    "epicId": "786eacc66b8b4075bf7c8684930127d3",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/scourgebringer",
+    "freeDate": "2025-11-13",
+    "gameTitle": "Scourgebringer",
+    "mappingSlug": "scourgebringer",
+    "platform": "pc",
+    "productSlug": "scourgebringer",
+    "sandboxId": "c03a3687567a4cf3910ea5ec7279664e",
+    "urlSlug": "scourgebringer"
+  },
+  {
+    "epicId": "25aa14df3f40465c8fb997de5d5cf8fe",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/songs-of-silence-778d86",
+    "freeDate": "2025-11-13",
+    "gameTitle": "Songs of Silence",
+    "mappingSlug": "songs-of-silence-778d86",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "900054606a74444badf56b2f2abd7c69",
+    "urlSlug": "8195fdc89688494bbaf6062e60d51ff1"
+  },
+  {
+    "epicId": "639547f643c4440db499878634c22dd1",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/zero-hour-8449a0",
+    "freeDate": "2025-11-13",
+    "gameTitle": "Zero Hour",
+    "mappingSlug": "zero-hour-8449a0",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "35d137e3d82640ed9811d302e8067ecd",
+    "urlSlug": "c332ef2785454852a86332d1d3e09c23"
   }
 ]
