@@ -7897,5 +7897,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "257195bad91744b1803c616135332bdb",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/zoeti-3ccef9",
+    "freeDate": "2025-11-20",
+    "gameTitle": "Zoeti",
+    "mappingSlug": "zoeti-3ccef9",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "1a7cbda7efe7435dabda1af662aeb1ba",
+    "urlSlug": "6ac5f2cb9dee45408f585c7aa758e318"
+  },
+  {
+    "epicId": "88a37c5ab8db412380708a2b9933d626",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/godzillawars-2c30e4",
+    "freeDate": "2025-11-20",
+    "gameTitle": "Godzilla Voxel Wars",
+    "mappingSlug": "godzillawars-2c30e4",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "8549e5bffe744f67933bf4f8689030c4",
+    "urlSlug": "7b0fd846d27b4d69a63cde236de00533"
   }
 ]
