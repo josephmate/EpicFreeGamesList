@@ -7921,5 +7921,29 @@
     "productSlug": "",
     "sandboxId": "8549e5bffe744f67933bf4f8689030c4",
     "urlSlug": "7b0fd846d27b4d69a63cde236de00533"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/zoeti-android-15ba72",
+    "freeDate": "2025-11-20",
+    "gameTitle": "Zoeti",
+    "mappingSlug": "zoeti-android-15ba72",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/zoeti-ios-1810be",
+    "freeDate": "2025-11-20",
+    "gameTitle": "Zoeti",
+    "mappingSlug": "zoeti-ios-1810be",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
