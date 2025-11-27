@@ -7945,5 +7945,17 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "b2b995e52f7a413099e2b1421b9fb2d8",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/universe-for-sale-05c53e",
+    "freeDate": "2025-11-27",
+    "gameTitle": "Universe for Sale",
+    "mappingSlug": "universe-for-sale-05c53e",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "60525048f11c46b88bb6d7492ce7b67d",
+    "urlSlug": "116c60adb9db4c5ca089be37bd7c3393"
   }
 ]
