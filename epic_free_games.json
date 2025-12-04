@@ -8005,5 +8005,29 @@
     "productSlug": "",
     "sandboxId": "29857990e5434b7db5dd026ef18dbc96",
     "urlSlug": "71dfeab61949427e898b69fb974c221a"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-android-f088bb",
+    "freeDate": "2025-12-04",
+    "gameTitle": "The Darkside Detective",
+    "mappingSlug": "the-darkside-detective-android-f088bb",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-ios-f97bd7",
+    "freeDate": "2025-12-04",
+    "gameTitle": "The Darkside Detective",
+    "mappingSlug": "the-darkside-detective-ios-f97bd7",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
