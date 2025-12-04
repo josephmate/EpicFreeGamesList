@@ -7981,5 +7981,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "da763a33956745888bea060de7ecf059",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/jackbox-party-pack-4",
+    "freeDate": "2025-12-04",
+    "gameTitle": "The Jackbox Party Pack 4",
+    "mappingSlug": "jackbox-party-pack-4",
+    "platform": "pc",
+    "productSlug": "jackbox-party-pack-4",
+    "sandboxId": "snowdrop",
+    "urlSlug": "jackbox-party-pack-4"
+  },
+  {
+    "epicId": "537f9c03801d45c293b2a75eecd7170c",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a",
+    "freeDate": "2025-12-04",
+    "gameTitle": "The Darkside Detective",
+    "mappingSlug": "the-darkside-detective-02fd5a",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "29857990e5434b7db5dd026ef18dbc96",
+    "urlSlug": "71dfeab61949427e898b69fb974c221a"
   }
 ]
