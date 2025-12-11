@@ -8029,5 +8029,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dead-cells-android-eb6382",
+    "freeDate": "2025-12-11",
+    "gameTitle": "Dead Cells",
+    "mappingSlug": "dead-cells-android-eb6382",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dead-cells-ios-edfc55",
+    "freeDate": "2025-12-11",
+    "gameTitle": "Dead Cells",
+    "mappingSlug": "dead-cells-ios-edfc55",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
