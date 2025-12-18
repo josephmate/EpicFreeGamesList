@@ -8077,5 +8077,29 @@
     "productSlug": "jotunnslayer-hordes-of-hel-3579b3",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame2025-2"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/shotgun-king-android-74f556",
+    "freeDate": "2025-12-18",
+    "gameTitle": "Shotgun King: The Final Checkmate",
+    "mappingSlug": "shotgun-king-android-74f556",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/shotgun-king-ios-386641",
+    "freeDate": "2025-12-18",
+    "gameTitle": "Shotgun King: The Final Checkmate",
+    "mappingSlug": "shotgun-king-ios-386641",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
