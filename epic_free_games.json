@@ -8101,5 +8101,17 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "38662974c4dc4a55bd16fe0817985424",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/eternights-c2fbca",
+    "freeDate": "2025-12-19",
+    "gameTitle": "Eternights",
+    "mappingSlug": "",
+    "platform": "pc",
+    "productSlug": "eternights-c2fbca",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame2025-3"
   }
 ]
