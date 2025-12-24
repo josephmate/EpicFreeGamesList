@@ -8161,5 +8161,17 @@
     "productSlug": "bloodstained-f3f575",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame2025-7"
+  },
+  {
+    "epicId": "6579cbb19cd44979a8ba008bb1ac9084",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-callisto-protocol",
+    "freeDate": "2025-12-24",
+    "gameTitle": "The Callisto Protocol",
+    "mappingSlug": "",
+    "platform": "pc",
+    "productSlug": "the-callisto-protocol",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame2025-8"
   }
 ]
