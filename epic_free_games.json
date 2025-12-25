@@ -8173,5 +8173,17 @@
     "productSlug": "the-callisto-protocol",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame2025-8"
+  },
+  {
+    "epicId": "0afb2607f1ac42e1b2c8f01791a505d3",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/disco-elysium",
+    "freeDate": "2025-12-25",
+    "gameTitle": "Disco Elysium - The Final Cut",
+    "mappingSlug": "",
+    "platform": "pc",
+    "productSlug": "disco-elysium",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame2025-9"
   }
 ]
