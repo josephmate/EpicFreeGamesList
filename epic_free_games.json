@@ -8185,5 +8185,53 @@
     "productSlug": "disco-elysium",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame2025-9"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-android-1046b9",
+    "freeDate": "2025-12-25",
+    "gameTitle": "Monument Valley",
+    "mappingSlug": "monument-valley-android-1046b9",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-2-android-b21888",
+    "freeDate": "2025-12-25",
+    "gameTitle": "Monument Valley 2",
+    "mappingSlug": "monument-valley-2-android-b21888",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-ios-8ad17f",
+    "freeDate": "2025-12-25",
+    "gameTitle": "Monument Valley",
+    "mappingSlug": "monument-valley-ios-8ad17f",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-2-ios-b4a7bf",
+    "freeDate": "2025-12-25",
+    "gameTitle": "Monument Valley 2",
+    "mappingSlug": "monument-valley-2-ios-b4a7bf",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
