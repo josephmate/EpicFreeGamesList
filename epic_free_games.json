@@ -8233,5 +8233,17 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "984957124d7f4cb3a437b6fe20e5c53a",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66",
+    "freeDate": "2025-12-26",
+    "gameTitle": "We Were Here Together",
+    "mappingSlug": "",
+    "platform": "pc",
+    "productSlug": "we-were-here-together-6a6d66",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame2025-10"
   }
 ]
