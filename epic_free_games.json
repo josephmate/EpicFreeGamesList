@@ -8293,5 +8293,17 @@
     "productSlug": "trine-classic-collection",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame2025-14"
+  },
+  {
+    "epicId": "cbe6c0707eaf48348fb5a8b7ad43c195",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/chivalry-2",
+    "freeDate": "2025-12-31",
+    "gameTitle": "Chivalry 2",
+    "mappingSlug": "",
+    "platform": "pc",
+    "productSlug": "chivalry-2",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame2025-15"
   }
 ]
