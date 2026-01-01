@@ -8329,5 +8329,29 @@
     "productSlug": "total-war-three-kingdoms-d3bb7a",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame2025-16"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/skul-the-hero-slayer-android-0d2aed",
+    "freeDate": "2026-01-01",
+    "gameTitle": "Skul: The Hero Slayer",
+    "mappingSlug": "skul-the-hero-slayer-android-0d2aed",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/skul-the-hero-slayer-ios-699ae8",
+    "freeDate": "2026-01-01",
+    "gameTitle": "Skul: The Hero Slayer",
+    "mappingSlug": "skul-the-hero-slayer-ios-699ae8",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
