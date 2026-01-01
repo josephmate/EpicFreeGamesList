@@ -8305,5 +8305,29 @@
     "productSlug": "chivalry-2",
     "sandboxId": "d5241c76f178492ea1540fce45616757",
     "urlSlug": "mysterygame2025-15"
+  },
+  {
+    "epicId": "acd0b5048a0d43ec80909788a388964a",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/wildgate-standard-edition-b886b5",
+    "freeDate": "2026-01-01",
+    "gameTitle": "Wildgate",
+    "mappingSlug": "",
+    "platform": "pc",
+    "productSlug": "wildgate-standard-edition-b886b5",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame2025-17"
+  },
+  {
+    "epicId": "77f90158ddc1488baeb4155bd934fbbd",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/total-war-three-kingdoms-d3bb7a",
+    "freeDate": "2026-01-01",
+    "gameTitle": "Total War: THREE KINGDOMS",
+    "mappingSlug": "",
+    "platform": "pc",
+    "productSlug": "total-war-three-kingdoms-d3bb7a",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "urlSlug": "mysterygame2025-16"
   }
 ]
