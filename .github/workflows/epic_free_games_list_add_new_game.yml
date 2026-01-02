@@ -6,7 +6,7 @@ on:
     #  in the spring: 5 18 * * 4
     #  in the fall:   5 19 * * 4
     #  holiday daily giveaway: 5 19 * * *
-    - cron: 5 19 * * *
+    - cron: 5 19 * * 4
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
