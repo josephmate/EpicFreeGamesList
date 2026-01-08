@@ -8353,5 +8353,17 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "b27e3b556f1048b9824c7196f32afceb",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0",
+    "freeDate": "2026-01-08",
+    "gameTitle": "Bloons TD 6",
+    "mappingSlug": "bloons-td-6-bf95a0",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "6a8dfa6e441e4f2f9048a98776c6077d",
+    "urlSlug": "68621af956534439a7f8de5a0e5873e5"
   }
 ]
