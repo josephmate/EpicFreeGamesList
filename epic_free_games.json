@@ -8365,5 +8365,29 @@
     "productSlug": "",
     "sandboxId": "6a8dfa6e441e4f2f9048a98776c6077d",
     "urlSlug": "68621af956534439a7f8de5a0e5873e5"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bouncemasters-android-ebc0b1",
+    "freeDate": "2026-01-08",
+    "gameTitle": "Bouncemasters",
+    "mappingSlug": "bouncemasters-android-ebc0b1",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bouncemasters-ios-e86970",
+    "freeDate": "2026-01-08",
+    "gameTitle": "Bouncemasters",
+    "mappingSlug": "bouncemasters-ios-e86970",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
