@@ -8413,5 +8413,53 @@
     "productSlug": "",
     "sandboxId": "795fdebb6c6e497d98cee43057286743",
     "urlSlug": "81e2a51d2be949b986993cdca25f4d7d"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-die-android-625b0c",
+    "freeDate": "2026-01-15",
+    "gameTitle": "Dumb Ways to Die",
+    "mappingSlug": "dumb-ways-to-die-android-625b0c",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-die-android-625b0c",
+    "freeDate": "2026-01-15",
+    "gameTitle": "Dumb Ways to Die",
+    "mappingSlug": "dumb-ways-to-die-android-625b0c",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-die-ios-5f556d",
+    "freeDate": "2026-01-15",
+    "gameTitle": "Dumb Ways to Die",
+    "mappingSlug": "dumb-ways-to-die-ios-5f556d",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-die-ios-5f556d",
+    "freeDate": "2026-01-15",
+    "gameTitle": "Dumb Ways to Die",
+    "mappingSlug": "dumb-ways-to-die-ios-5f556d",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
