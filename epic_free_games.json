@@ -8389,5 +8389,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "ed109adce3c042f792f48d629221ac8b",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/styx-master-of-shadows-4d9ab3",
+    "freeDate": "2026-01-15",
+    "gameTitle": "Styx: Master of Shadows",
+    "mappingSlug": "styx-master-of-shadows-4d9ab3",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "962cf46ed59b42c1a16834193a7cde54",
+    "urlSlug": "0aa23c9aff4045d7b4b9b5ccc06b5c03"
+  },
+  {
+    "epicId": "9b99ffa5a53e4317824f4ccb2b6e68d2",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/styx-shards-of-darkness-77c030",
+    "freeDate": "2026-01-15",
+    "gameTitle": "Styx: Shards of Darkness - Deluxe Edition",
+    "mappingSlug": "styx-shards-of-darkness-77c030",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "795fdebb6c6e497d98cee43057286743",
+    "urlSlug": "81e2a51d2be949b986993cdca25f4d7d"
   }
 ]
