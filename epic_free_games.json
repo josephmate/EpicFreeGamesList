@@ -8236,7 +8236,7 @@
   },
   {
     "epicId": "984957124d7f4cb3a437b6fe20e5c53a",
-    "epicRating": 0,
+    "epicRating": 4.02,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66",
     "freeDate": "2025-12-26",
     "gameTitle": "We Were Here Together",
@@ -8248,7 +8248,7 @@
   },
   {
     "epicId": "72f7c809d1d546dfb59f5a3ddd96e5ec",
-    "epicRating": 0,
+    "epicRating": 4.65,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/cassette-beasts-32c8e0",
     "freeDate": "2025-12-27",
     "gameTitle": "Cassette Beasts",
@@ -8260,7 +8260,7 @@
   },
   {
     "epicId": "e9fc82ad6ebd4cf2b4a152c85c4def39",
-    "epicRating": 0,
+    "epicRating": 4.53,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/skald-against-the-black-priory-cffcc0",
     "freeDate": "2025-12-28",
     "gameTitle": "SKALD Against the Black Priory",
@@ -8272,7 +8272,7 @@
   },
   {
     "epicId": "10295136a02b412c9615ceca50e64704",
-    "epicRating": 0,
+    "epicRating": 4.79,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/viewfinder-61691c",
     "freeDate": "2025-12-29",
     "gameTitle": "Viewfinder",
@@ -8284,8 +8284,8 @@
   },
   {
     "epicId": "ba12b3d0fde94f1cafec8e8d5dd3fe67",
-    "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/trine-classic-collection",
+    "epicRating": 4.52,
+    "epicStoreLink": "https://store.epicgames.com/en-US/bundles/trine-classic-collection",
     "freeDate": "2025-12-30",
     "gameTitle": "Trine Classic Collection",
     "mappingSlug": "",
@@ -8296,7 +8296,7 @@
   },
   {
     "epicId": "cbe6c0707eaf48348fb5a8b7ad43c195",
-    "epicRating": 0,
+    "epicRating": 4.5,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/chivalry-2",
     "freeDate": "2025-12-31",
     "gameTitle": "Chivalry 2",
@@ -8308,7 +8308,7 @@
   },
   {
     "epicId": "acd0b5048a0d43ec80909788a388964a",
-    "epicRating": 0,
+    "epicRating": 4.33,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/wildgate-standard-edition-b886b5",
     "freeDate": "2026-01-01",
     "gameTitle": "Wildgate",
@@ -8320,7 +8320,7 @@
   },
   {
     "epicId": "77f90158ddc1488baeb4155bd934fbbd",
-    "epicRating": 0,
+    "epicRating": 4.47,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/total-war-three-kingdoms-d3bb7a",
     "freeDate": "2026-01-01",
     "gameTitle": "Total War: THREE KINGDOMS",
@@ -8356,7 +8356,7 @@
   },
   {
     "epicId": "b27e3b556f1048b9824c7196f32afceb",
-    "epicRating": 0,
+    "epicRating": 4.76,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0",
     "freeDate": "2026-01-08",
     "gameTitle": "Bloons TD 6",
@@ -8392,7 +8392,7 @@
   },
   {
     "epicId": "ed109adce3c042f792f48d629221ac8b",
-    "epicRating": 0,
+    "epicRating": 4.28,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/styx-master-of-shadows-4d9ab3",
     "freeDate": "2026-01-15",
     "gameTitle": "Styx: Master of Shadows",
@@ -8404,7 +8404,7 @@
   },
   {
     "epicId": "9b99ffa5a53e4317824f4ccb2b6e68d2",
-    "epicRating": 0,
+    "epicRating": 4.28,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/styx-shards-of-darkness-77c030",
     "freeDate": "2026-01-15",
     "gameTitle": "Styx: Shards of Darkness - Deluxe Edition",
@@ -8422,30 +8422,6 @@
     "gameTitle": "Dumb Ways to Die",
     "mappingSlug": "dumb-ways-to-die-android-625b0c",
     "platform": "android",
-    "productSlug": "",
-    "sandboxId": "",
-    "urlSlug": ""
-  },
-  {
-    "epicId": "",
-    "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-die-android-625b0c",
-    "freeDate": "2026-01-15",
-    "gameTitle": "Dumb Ways to Die",
-    "mappingSlug": "dumb-ways-to-die-android-625b0c",
-    "platform": "android",
-    "productSlug": "",
-    "sandboxId": "",
-    "urlSlug": ""
-  },
-  {
-    "epicId": "",
-    "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-die-ios-5f556d",
-    "freeDate": "2026-01-15",
-    "gameTitle": "Dumb Ways to Die",
-    "mappingSlug": "dumb-ways-to-die-ios-5f556d",
-    "platform": "ios",
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
