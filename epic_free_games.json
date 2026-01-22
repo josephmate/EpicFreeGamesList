@@ -8449,5 +8449,53 @@
     "productSlug": "",
     "sandboxId": "aca2ee0619aa482791f0a71dbf3eeac0",
     "urlSlug": "rustler-grand-theft-horse"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/forest-quartet-android-eb07b9",
+    "freeDate": "2026-01-22",
+    "gameTitle": "The Forest Quartet",
+    "mappingSlug": "forest-quartet-android-eb07b9",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/faily-brakes-2-android-a5e0d1",
+    "freeDate": "2026-01-22",
+    "gameTitle": "Faily Brakes 2",
+    "mappingSlug": "faily-brakes-2-android-a5e0d1",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/faily-brakes-2-ios-ab39ae",
+    "freeDate": "2026-01-22",
+    "gameTitle": "Faily Brakes 2",
+    "mappingSlug": "faily-brakes-2-ios-ab39ae",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/forest-quartet-ios-eea63c",
+    "freeDate": "2026-01-22",
+    "gameTitle": "The Forest Quartet",
+    "mappingSlug": "forest-quartet-ios-eea63c",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
