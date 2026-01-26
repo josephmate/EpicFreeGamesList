@@ -8437,5 +8437,41 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "3d10f32b87b94b769524cd44a12e634a",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rustler-grand-theft-horse-21a7ca",
+    "freeDate": "2026-01-22",
+    "gameTitle": "Rustler - Grand Theft Horse",
+    "mappingSlug": "rustler-grand-theft-horse-21a7ca",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "aca2ee0619aa482791f0a71dbf3eeac0",
+    "urlSlug": "rustler-grand-theft-horse"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/forest-quartet-android-eb07b9",
+    "freeDate": "2026-01-22",
+    "gameTitle": "The Forest Quartet",
+    "mappingSlug": "forest-quartet-android-eb07b9",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/forest-quartet-ios-eea63c",
+    "freeDate": "2026-01-22",
+    "gameTitle": "The Forest Quartet",
+    "mappingSlug": "forest-quartet-ios-eea63c",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
