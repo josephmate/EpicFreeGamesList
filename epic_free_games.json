@@ -8485,5 +8485,29 @@
     "productSlug": "",
     "sandboxId": "8d8fb21ac3554271853582bad9d394d7",
     "urlSlug": "6b5b8432768a423f848fd85a61c97623"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/faily-brakes-2-android-a5e0d1",
+    "freeDate": "2026-01-29",
+    "gameTitle": "Faily Brakes 2",
+    "mappingSlug": "faily-brakes-2-android-a5e0d1",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/faily-brakes-2-ios-ab39ae",
+    "freeDate": "2026-01-29",
+    "gameTitle": "Faily Brakes 2",
+    "mappingSlug": "faily-brakes-2-ios-ab39ae",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
