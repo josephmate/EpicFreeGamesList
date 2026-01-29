@@ -8473,5 +8473,17 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "b916500f733b4973802bdb4fdb276515",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/definitely-not-fried-chicken-a30160",
+    "freeDate": "2026-01-29",
+    "gameTitle": "Definitely Not Fried Chicken",
+    "mappingSlug": "definitely-not-fried-chicken-a30160",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "8d8fb21ac3554271853582bad9d394d7",
+    "urlSlug": "6b5b8432768a423f848fd85a61c97623"
   }
 ]
