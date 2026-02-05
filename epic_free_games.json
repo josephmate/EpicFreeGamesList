@@ -8533,5 +8533,53 @@
     "productSlug": "",
     "sandboxId": "964bca52db2845498a7040b3733c4441",
     "urlSlug": "poison-retro-set"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-android-125a49",
+    "freeDate": "2026-02-05",
+    "gameTitle": "The Darkside Detective A Fumble in the Dark",
+    "mappingSlug": "the-darkside-detective-a-fumble-in-the-dark-android-125a49",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/botany-manor-android-911d85",
+    "freeDate": "2026-02-05",
+    "gameTitle": "Botany Manor",
+    "mappingSlug": "botany-manor-android-911d85",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-ios-1519b7",
+    "freeDate": "2026-02-05",
+    "gameTitle": "The Darkside Detective A Fumble in the Dark",
+    "mappingSlug": "the-darkside-detective-a-fumble-in-the-dark-ios-1519b7",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/botany-manor-ios-971c19",
+    "freeDate": "2026-02-05",
+    "gameTitle": "Botany Manor",
+    "mappingSlug": "botany-manor-ios-971c19",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
