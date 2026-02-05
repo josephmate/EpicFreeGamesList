@@ -8509,5 +8509,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "855a903d4f694353ac20f74321f6e400",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/botany-manor-e7c456",
+    "freeDate": "2026-02-05",
+    "gameTitle": "Botany Manor",
+    "mappingSlug": "botany-manor-e7c456",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "969bbfac9e7840a986c1d594ccd55c01",
+    "urlSlug": "61eca1a9e42243d29e93b02510d88d83"
+  },
+  {
+    "epicId": "f643a600e99c43cca99d1ca37b41fe33",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/pixel-gun-3d-812855",
+    "freeDate": "2026-02-05",
+    "gameTitle": "Poison Retro Set",
+    "mappingSlug": "pixel-gun-3d-812855",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "964bca52db2845498a7040b3733c4441",
+    "urlSlug": "poison-retro-set"
   }
 ]
