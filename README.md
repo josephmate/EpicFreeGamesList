@@ -7,8 +7,10 @@ Every Thursday 19:00 UTC, gets the latest free game from the Epic Store and adds
 
 # Building
 
+Recommended (cross-platform): run from the repository root so Go discovers packages automatically.
+
 ```
-go build main.go .\cli_hander_free.go .\cli_hander_rating.go .\cli_handler_search.go .\graphql_get_free_games.go .\graphql_get_rating.go .\graphql_search_for_game_info.go
+go build -o epic-updater .
 ```
 
 # Running
@@ -17,52 +19,38 @@ go build main.go .\cli_hander_free.go .\cli_hander_rating.go .\cli_handler_searc
 ## Search
 Searching based on input json
 ```
-.\main search --inputFile .\epic_free_games.json --outputFile out.json > search.log 2>&1
+./epic-updater search --inputFile ./epic_free_games.json --outputFile out.json > search.log 2>&1
 ```
 
 Single search:
 ```
-.\main search --gameTitle "Celeste"
+./epic-updater search --gameTitle "Celeste"
 ```
 
 ## Ratings
 Rating based on input json
 ```
-.\main rate --inputFile .\epic_free_games.json --outputFile out.json > ratings.log 2>&1
+./epic-updater rate --inputFile ./epic_free_games.json --outputFile out.json > ratings.log 2>&1
 ```
 
 Single rating:
 ```
-.\main rate --searchKey b671fbc7be424e888c9346a9a6d3d9db 
+./epic-updater rate --searchKey b671fbc7be424e888c9346a9a6d3d9db 
 ```
 
 ## Free Games
 
-
 Append to file:
 ```
-.\main free --inputFile epic_free_games.json --outputFile out.json
+./epic-updater free --inputFile epic_free_games.json --outputFile out.json
 ```
 
 Print to console:
 ```
-.\main free 
+./epic-updater free
 ```
 
 
-# Making docker image
-
-```
-docker build -t josephmate/epic-games-free-list-updater .
-```
-
-# Sending to Dockerhub
-
-```
-docker push josephmate/epic-games-free-list-updater
-```
-
-# Running from docker image
 
 
 # High Level Solution

@@ -74,6 +74,11 @@ try {
         $bytes = [System.IO.File]::ReadAllBytes($full)
         $ext = [System.IO.Path]::GetExtension($full)
         $res.ContentType = Get-MimeType -ext $ext
+        # Disable browser caching so changes appear immediately on refresh
+        $res.Headers['Cache-Control'] = 'no-cache, no-store, must-revalidate'
+        $res.Headers['Pragma'] = 'no-cache'
+        $res.Headers['Expires'] = '0'
+        $res.Headers['Last-Modified'] = (Get-Item -LiteralPath $full).LastWriteTimeUtc.ToString('R')
         $res.ContentLength64 = $bytes.Length
         $res.StatusCode = 200
         $res.OutputStream.Write($bytes, 0, $bytes.Length)

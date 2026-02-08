@@ -1,0 +1,8 @@
+{
+  "chat.tools.terminal.autoApprove": {
+    "/^go build -o epic-updater \\.$/": {
+      "approve": true,
+      "matchCommandLine": true
+    }
+  }
+}
