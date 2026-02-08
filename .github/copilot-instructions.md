@@ -31,12 +31,12 @@ How to build / run / debug (concrete)
 - Debug tips: run `go run . free` to print fetch logs (functions already print responses). Add scoped prints inside `GetFreeGames()` or `RateGame()` for HTTP response bodies when investigating parsing issues.
 
 Integration tests (quick smoke runs)
-- To quickly validate `free` and `free_mobile` after code changes, run them against a minimal empty JSON file (`{}`) so the CLI will append or produce output without needing a full dataset.
+- To quickly validate `free` and `free_mobile` after code changes, run them against a minimal empty JSON array (`[]`) so the CLI will append or produce output without needing a full dataset.
 - Create an empty JSON file:
   - Unix/macOS / WSL:
-    - `echo '{}' > empty.json`
+    - `echo '[]' > empty.json`
   - Windows PowerShell:
-    - `Set-Content -Path .\empty.json -Value '{}'`
+    - `Set-Content -Path .\empty.json -Value '[]'`
 - Run the CLI (built binary):
   - Cross-platform (after `go build -o epic-updater .`):
     - `./epic-updater free --inputFile empty.json --outputFile out.json`

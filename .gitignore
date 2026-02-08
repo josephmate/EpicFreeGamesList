@@ -6,3 +6,5 @@ main.exe
 check_endpoints.ps1
 serve.log
 epic-updater
+empty.json
+out_mobile.json

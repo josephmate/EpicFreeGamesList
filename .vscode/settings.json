@@ -3,6 +3,14 @@
     "/^go build -o epic-updater \\.$/": {
       "approve": true,
       "matchCommandLine": true
+    },
+    "/^go run \\. free --inputFile empty\\.json --outputFile out\\.json$/": {
+      "approve": true,
+      "matchCommandLine": true
+    },
+    "/^go run \\. free_mobile --inputFile empty\\.json --outputFile out_mobile\\.json$/": {
+      "approve": true,
+      "matchCommandLine": true
     }
   }
 }
