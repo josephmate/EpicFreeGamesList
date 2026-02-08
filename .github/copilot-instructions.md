@@ -78,4 +78,16 @@ When in doubt / where to ask
 - Start with reproducing the behaviour locally using `go run main.go free` and inspect `out.json`/console logs.
 - If network issues arise, check usage of `tls-client` in `go.mod` and the approach in README research notes.
 
+Frontend dev testing (index.html / renderTable.js)
+- Always serve the static UI locally before verifying changes. Run the platform-specific helper when available:
+  - Windows PowerShell: `./serve.ps1`
+  - Unix / WSL / macOS: `./serve.sh`
+- These scripts run a small HTTP server and handle the GitHub Pages prefix used by this repo. Do not rely on generic fallbacks (`python -m http.server`) — they do not replicate the repo prefix handling and produce false positives.
+- Verify UI changes using the Playwright MCP viewer (do not install Playwright locally):
+  1. Start the local server using the appropriate helper (above) so the site is reachable at `http://localhost:8000/` (or the repo prefix URL the script prints).
+  2. Open the Playwright MCP/viewer and point it at the local URL to interactively inspect the page and confirm visual/DOM changes.
+  3. Use Playwright MCP's recording or step-through features to capture the verification steps (e.g., navigate to the page, locate `#free-games-table`, confirm rows render).
+  4. For CI or automated checks, export a Playwright MCP test or use the project's preferred CI runner — use the MCP viewer during development to create reliable, reproducible checks.
+- Use the serve script + Playwright MCP sequence for every change to `index.html` or `renderTable.js` to avoid false positives caused by file/path handling differences between local file serving and GitHub Pages.
+
 If any section is unclear or you need more examples (specific functions or sample log lines), tell me which area and I will expand or add inline examples.
