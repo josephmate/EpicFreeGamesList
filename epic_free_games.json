@@ -8605,5 +8605,29 @@
     "productSlug": "",
     "sandboxId": "60b8d9b4c2be4e34aeec311c953c2ee2",
     "urlSlug": "eea910991d674322b3832f9b7bbefb7b"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-android-125a49",
+    "freeDate": "2026-02-12",
+    "gameTitle": "The Darkside Detective A Fumble in the Dark",
+    "mappingSlug": "the-darkside-detective-a-fumble-in-the-dark-android-125a49",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-ios-1519b7",
+    "freeDate": "2026-02-12",
+    "gameTitle": "The Darkside Detective A Fumble in the Dark",
+    "mappingSlug": "the-darkside-detective-a-fumble-in-the-dark-ios-1519b7",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
