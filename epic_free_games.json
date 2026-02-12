@@ -8581,5 +8581,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "9e3c580751a94c6d8a1b8b08b2e3d21f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
+    "freeDate": "2026-02-12",
+    "gameTitle": "The Darkside Detective A Fumble in the Dark",
+    "mappingSlug": "the-darkside-detective-a-fumble-in-the-dark-174fcf",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "87375f89fc4c4c7a8c681cf21febee06",
+    "urlSlug": "b87bb60e2398412e82ba540e50ac6222"
+  },
+  {
+    "epicId": "9da459f7c3984877bd5a12bdc3b6b3af",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd",
+    "freeDate": "2026-02-12",
+    "gameTitle": "Nobody Wants to Die",
+    "mappingSlug": "nobody-wants-to-die-fe21cd",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "60b8d9b4c2be4e34aeec311c953c2ee2",
+    "urlSlug": "eea910991d674322b3832f9b7bbefb7b"
   }
 ]
