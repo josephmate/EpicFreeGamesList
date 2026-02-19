@@ -8653,5 +8653,41 @@
     "productSlug": "",
     "sandboxId": "1319020a7c08408489d4dc9c5b1df4c0",
     "urlSlug": "stalcraft-x-starter-edition"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/residual-android-eef593",
+    "freeDate": "2026-02-19",
+    "gameTitle": "Residual",
+    "mappingSlug": "residual-android-eef593",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/residual-android-eef593",
+    "freeDate": "2026-02-19",
+    "gameTitle": "Residual",
+    "mappingSlug": "residual-android-eef593",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/residual-ios-0e5d52",
+    "freeDate": "2026-02-19",
+    "gameTitle": "Residual",
+    "mappingSlug": "residual-ios-0e5d52",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
