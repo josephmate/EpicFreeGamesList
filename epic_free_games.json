@@ -8629,5 +8629,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "06cd7ef2079646dcb6c5b04e04e1d676",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/return-to-ash-dee3ff",
+    "freeDate": "2026-02-19",
+    "gameTitle": "Return to Ash",
+    "mappingSlug": "return-to-ash-dee3ff",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "511a5b709ee242fb9603378b071d99d7",
+    "urlSlug": "return-to-ash"
+  },
+  {
+    "epicId": "d6111db209c34b068736ca33411c9209",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/stalcraft-x-057c4a",
+    "freeDate": "2026-02-19",
+    "gameTitle": "STALCRAFT: X Starter Edition",
+    "mappingSlug": "stalcraft-x-057c4a",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "1319020a7c08408489d4dc9c5b1df4c0",
+    "urlSlug": "stalcraft-x-starter-edition"
   }
 ]
