@@ -8677,5 +8677,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "14bd618815aa43209a3613e5bc2c2274",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-079041",
+    "freeDate": "2026-02-26",
+    "gameTitle": "Boxes: Lost Fragments",
+    "mappingSlug": "boxes-lost-fragments-079041",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "abc34708e5a0420287f52302582e3fec",
+    "urlSlug": "a9ef6e969aa249ef936923216909d747"
+  },
+  {
+    "epicId": "0c9ceba4cc60473f97510ab2514a4b6e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/my-night-job-a416a6",
+    "freeDate": "2026-02-26",
+    "gameTitle": "My Night Job",
+    "mappingSlug": "my-night-job-a416a6",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "08e225ed73a2433198c025de20ec8173",
+    "urlSlug": "bce593b9b8754aa595ae4123f36ad4a9"
   }
 ]
