@@ -8701,5 +8701,29 @@
     "productSlug": "",
     "sandboxId": "08e225ed73a2433198c025de20ec8173",
     "urlSlug": "bce593b9b8754aa595ae4123f36ad4a9"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-android-356638",
+    "freeDate": "2026-02-26",
+    "gameTitle": "Boxes: Lost Fragments",
+    "mappingSlug": "boxes-lost-fragments-android-356638",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-ios-07172e",
+    "freeDate": "2026-02-26",
+    "gameTitle": "Boxes: Lost Fragments",
+    "mappingSlug": "boxes-lost-fragments-ios-07172e",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
