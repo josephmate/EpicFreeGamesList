@@ -8749,5 +8749,29 @@
     "productSlug": "",
     "sandboxId": "263de26be57d43528bb9c7fdb133b9fe",
     "urlSlug": "000ff62d1877415589bb126e900a88e8"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/little-nightmares-android-9ac815",
+    "freeDate": "2026-03-05",
+    "gameTitle": "Little Nightmares",
+    "mappingSlug": "little-nightmares-android-9ac815",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/little-nightmares-ios-714075",
+    "freeDate": "2026-03-05",
+    "gameTitle": "Little Nightmares",
+    "mappingSlug": "little-nightmares-ios-714075",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
