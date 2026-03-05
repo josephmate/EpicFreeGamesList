@@ -8725,5 +8725,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "a9748abde1c94b66aae5250bb9fc5503",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
+    "freeDate": "2026-03-05",
+    "gameTitle": "Idle Champions of the Forgotten Realms",
+    "mappingSlug": "idle-champions-of-the-forgotten-realms",
+    "platform": "pc",
+    "productSlug": "idle-champions-of-the-forgotten-realms",
+    "sandboxId": "7e508f543b05465abe3a935960eb70ac",
+    "urlSlug": "banegeneralaudience"
+  },
+  {
+    "epicId": "68d9f0e261464ba284e10418d98532ea",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+    "freeDate": "2026-03-05",
+    "gameTitle": "Turnip Boy Robs a Bank",
+    "mappingSlug": "turnip-boy-robs-a-bank-3fae0e",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "263de26be57d43528bb9c7fdb133b9fe",
+    "urlSlug": "000ff62d1877415589bb126e900a88e8"
   }
 ]
