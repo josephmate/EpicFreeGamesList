@@ -8773,5 +8773,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "c367569acede446995c5a3663e993446",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/cozy-grove",
+    "freeDate": "2026-03-12",
+    "gameTitle": "Cozy Grove",
+    "mappingSlug": "cozy-grove",
+    "platform": "pc",
+    "productSlug": "cozy-grove",
+    "sandboxId": "768ec2d3b5114ac4a800631b12ee3f31",
+    "urlSlug": "cozy-grove"
+  },
+  {
+    "epicId": "4889207626a44fed973f5e72ae79ce9d",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/isonzo",
+    "freeDate": "2026-03-12",
+    "gameTitle": "Isonzo",
+    "mappingSlug": "isonzo",
+    "platform": "pc",
+    "productSlug": "isonzo",
+    "sandboxId": "30de69013f3b41b0ba594a8ef3b693ba",
+    "urlSlug": "isonzo-2"
   }
 ]
