@@ -8797,5 +8797,41 @@
     "productSlug": "isonzo",
     "sandboxId": "30de69013f3b41b0ba594a8ef3b693ba",
     "urlSlug": "isonzo-2"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/wonder-boy-the-dragons-trap-android-cca4a4",
+    "freeDate": "2026-03-12",
+    "gameTitle": "Wonder Boy: The Dragon's Trap",
+    "mappingSlug": "wonder-boy-the-dragons-trap-android-cca4a4",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/wonder-boy-the-dragons-trap-android-cca4a4",
+    "freeDate": "2026-03-12",
+    "gameTitle": "Wonder Boy: The Dragon's Trap",
+    "mappingSlug": "wonder-boy-the-dragons-trap-android-cca4a4",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/wonder-boy-the-dragons-trap-ios-b8e1a4",
+    "freeDate": "2026-03-12",
+    "gameTitle": "Wonder Boy: The Dragon's Trap",
+    "mappingSlug": "wonder-boy-the-dragons-trap-ios-b8e1a4",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
