@@ -8440,7 +8440,7 @@
   },
   {
     "epicId": "3d10f32b87b94b769524cd44a12e634a",
-    "epicRating": 0,
+    "epicRating": 4.04,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/rustler-grand-theft-horse-21a7ca",
     "freeDate": "2026-01-22",
     "gameTitle": "Rustler - Grand Theft Horse",
@@ -8452,7 +8452,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.09,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/forest-quartet-android-eb07b9",
     "freeDate": "2026-01-22",
     "gameTitle": "The Forest Quartet",
@@ -8464,7 +8464,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.09,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/forest-quartet-ios-eea63c",
     "freeDate": "2026-01-22",
     "gameTitle": "The Forest Quartet",
@@ -8476,7 +8476,7 @@
   },
   {
     "epicId": "b916500f733b4973802bdb4fdb276515",
-    "epicRating": 0,
+    "epicRating": 4.34,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/definitely-not-fried-chicken-a30160",
     "freeDate": "2026-01-29",
     "gameTitle": "Definitely Not Fried Chicken",
@@ -8512,7 +8512,7 @@
   },
   {
     "epicId": "855a903d4f694353ac20f74321f6e400",
-    "epicRating": 0,
+    "epicRating": 4.69,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/botany-manor-e7c456",
     "freeDate": "2026-02-05",
     "gameTitle": "Botany Manor",
@@ -8524,10 +8524,10 @@
   },
   {
     "epicId": "f643a600e99c43cca99d1ca37b41fe33",
-    "epicRating": 0,
+    "epicRating": 4.27,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/pixel-gun-3d-812855",
     "freeDate": "2026-02-05",
-    "gameTitle": "Poison Retro Set",
+    "gameTitle": "Pixel Gun 3D: Poison Retro Set",
     "mappingSlug": "pixel-gun-3d-812855",
     "platform": "pc",
     "productSlug": "",
@@ -8536,19 +8536,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-android-125a49",
-    "freeDate": "2026-02-05",
-    "gameTitle": "The Darkside Detective A Fumble in the Dark",
-    "mappingSlug": "the-darkside-detective-a-fumble-in-the-dark-android-125a49",
-    "platform": "android",
-    "productSlug": "",
-    "sandboxId": "",
-    "urlSlug": ""
-  },
-  {
-    "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.69,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/botany-manor-android-911d85",
     "freeDate": "2026-02-05",
     "gameTitle": "Botany Manor",
@@ -8560,19 +8548,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-ios-1519b7",
-    "freeDate": "2026-02-05",
-    "gameTitle": "The Darkside Detective A Fumble in the Dark",
-    "mappingSlug": "the-darkside-detective-a-fumble-in-the-dark-ios-1519b7",
-    "platform": "ios",
-    "productSlug": "",
-    "sandboxId": "",
-    "urlSlug": ""
-  },
-  {
-    "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.69,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/botany-manor-ios-971c19",
     "freeDate": "2026-02-05",
     "gameTitle": "Botany Manor",
@@ -8584,7 +8560,7 @@
   },
   {
     "epicId": "9e3c580751a94c6d8a1b8b08b2e3d21f",
-    "epicRating": 0,
+    "epicRating": 4.63,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
     "freeDate": "2026-02-12",
     "gameTitle": "The Darkside Detective A Fumble in the Dark",
@@ -8596,7 +8572,7 @@
   },
   {
     "epicId": "9da459f7c3984877bd5a12bdc3b6b3af",
-    "epicRating": 0,
+    "epicRating": 4.23,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd",
     "freeDate": "2026-02-12",
     "gameTitle": "Nobody Wants to Die",
@@ -8608,7 +8584,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.63,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-android-125a49",
     "freeDate": "2026-02-12",
     "gameTitle": "The Darkside Detective A Fumble in the Dark",
@@ -8620,7 +8596,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.63,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-ios-1519b7",
     "freeDate": "2026-02-12",
     "gameTitle": "The Darkside Detective A Fumble in the Dark",
@@ -8632,7 +8608,7 @@
   },
   {
     "epicId": "06cd7ef2079646dcb6c5b04e04e1d676",
-    "epicRating": 0,
+    "epicRating": 4.57,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/return-to-ash-dee3ff",
     "freeDate": "2026-02-19",
     "gameTitle": "Return to Ash",
@@ -8644,7 +8620,7 @@
   },
   {
     "epicId": "d6111db209c34b068736ca33411c9209",
-    "epicRating": 0,
+    "epicRating": 4.07,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/stalcraft-x-057c4a",
     "freeDate": "2026-02-19",
     "gameTitle": "STALCRAFT: X Starter Edition",
@@ -8680,7 +8656,7 @@
   },
   {
     "epicId": "14bd618815aa43209a3613e5bc2c2274",
-    "epicRating": 0,
+    "epicRating": 4.58,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-079041",
     "freeDate": "2026-02-26",
     "gameTitle": "Boxes: Lost Fragments",
@@ -8692,7 +8668,7 @@
   },
   {
     "epicId": "0c9ceba4cc60473f97510ab2514a4b6e",
-    "epicRating": 0,
+    "epicRating": 3.85,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/my-night-job-a416a6",
     "freeDate": "2026-02-26",
     "gameTitle": "My Night Job",
@@ -8704,7 +8680,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.58,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-android-356638",
     "freeDate": "2026-02-26",
     "gameTitle": "Boxes: Lost Fragments",
@@ -8716,7 +8692,7 @@
   },
   {
     "epicId": "",
-    "epicRating": 0,
+    "epicRating": 4.58,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-ios-07172e",
     "freeDate": "2026-02-26",
     "gameTitle": "Boxes: Lost Fragments",
@@ -8728,7 +8704,7 @@
   },
   {
     "epicId": "a9748abde1c94b66aae5250bb9fc5503",
-    "epicRating": 0,
+    "epicRating": 4.02,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
     "freeDate": "2026-03-05",
     "gameTitle": "Idle Champions of the Forgotten Realms",
@@ -8740,7 +8716,7 @@
   },
   {
     "epicId": "68d9f0e261464ba284e10418d98532ea",
-    "epicRating": 0,
+    "epicRating": 4.64,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
     "freeDate": "2026-03-05",
     "gameTitle": "Turnip Boy Robs a Bank",
@@ -8776,7 +8752,7 @@
   },
   {
     "epicId": "c367569acede446995c5a3663e993446",
-    "epicRating": 0,
+    "epicRating": 4.5,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/cozy-grove",
     "freeDate": "2026-03-12",
     "gameTitle": "Cozy Grove",
@@ -8788,7 +8764,7 @@
   },
   {
     "epicId": "4889207626a44fed973f5e72ae79ce9d",
-    "epicRating": 0,
+    "epicRating": 4.46,
     "epicStoreLink": "https://store.epicgames.com/en-US/p/isonzo",
     "freeDate": "2026-03-12",
     "gameTitle": "Isonzo",
@@ -8797,18 +8773,6 @@
     "productSlug": "isonzo",
     "sandboxId": "30de69013f3b41b0ba594a8ef3b693ba",
     "urlSlug": "isonzo-2"
-  },
-  {
-    "epicId": "",
-    "epicRating": 0,
-    "epicStoreLink": "https://store.epicgames.com/en-US/p/wonder-boy-the-dragons-trap-android-cca4a4",
-    "freeDate": "2026-03-12",
-    "gameTitle": "Wonder Boy: The Dragon's Trap",
-    "mappingSlug": "wonder-boy-the-dragons-trap-android-cca4a4",
-    "platform": "android",
-    "productSlug": "",
-    "sandboxId": "",
-    "urlSlug": ""
   },
   {
     "epicId": "",
