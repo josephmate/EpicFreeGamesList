@@ -5,6 +5,85 @@
     <title>Epic Free Games</title>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+      /* Wrapper that holds the platform filter and the native DataTables search side-by-side */
+      #dt-toolbar {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        gap: 8px;
+        margin-bottom: 4px;
+      }
+
+      /* Custom platform dropdown */
+      .platform-filter {
+        position: relative;
+        display: inline-flex;
+        align-items: center;
+        user-select: none;
+      }
+
+      .platform-filter-selected {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        padding: 4px 8px;
+        border: 1px solid #aaa;
+        border-radius: 3px;
+        background: #fff;
+        cursor: pointer;
+        font-size: 0.875rem;
+        white-space: nowrap;
+        min-width: 120px;
+      }
+
+      .platform-filter-selected .pf-arrow {
+        margin-left: auto;
+        font-size: 0.7rem;
+        color: #555;
+      }
+
+      .platform-filter-menu {
+        display: none;
+        position: absolute;
+        top: calc(100% + 2px);
+        left: 0;
+        z-index: 9999;
+        background: #fff;
+        border: 1px solid #aaa;
+        border-radius: 3px;
+        min-width: 100%;
+        box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+        list-style: none;
+        margin: 0;
+        padding: 2px 0;
+      }
+
+      .platform-filter-menu.open {
+        display: block;
+      }
+
+      .platform-filter-menu li {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        padding: 5px 10px;
+        cursor: pointer;
+        font-size: 0.875rem;
+        white-space: nowrap;
+      }
+
+      .platform-filter-menu li:hover {
+        background: #f0f0f0;
+      }
+
+      .platform-filter-menu li img,
+      .platform-filter-selected img {
+        width: 18px;
+        height: 18px;
+        vertical-align: middle;
+      }
+    </style>
 </head>
 <body>
     <table id="epicGamesTable" class="display" style="width:100%"></table>
