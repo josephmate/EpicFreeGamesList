@@ -8821,5 +8821,29 @@
     "productSlug": "",
     "sandboxId": "84c76746bce94effb8e1047fabfd7eb7",
     "urlSlug": "world-of-warships-tachibana-lima-pack"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/potion-permit-android-e270c3",
+    "freeDate": "2026-03-19",
+    "gameTitle": "Potion Permit",
+    "mappingSlug": "potion-permit-android-e270c3",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/potion-permit-ios-e4b5aa",
+    "freeDate": "2026-03-19",
+    "gameTitle": "Potion Permit",
+    "mappingSlug": "potion-permit-ios-e4b5aa",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
