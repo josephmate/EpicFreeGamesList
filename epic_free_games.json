@@ -8797,5 +8797,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "b3d56c3e27fc4816bf6cc0cefecd4948",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/electrician-simulator-164e9f",
+    "freeDate": "2026-03-19",
+    "gameTitle": "Electrician Simulator",
+    "mappingSlug": "electrician-simulator-164e9f",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "d400b874b09b4cd49d149358c67aa453",
+    "urlSlug": "d4645b0dc574438e95d20c6a31d3a0f7"
+  },
+  {
+    "epicId": "d3b29bd0dac74187970db0d79bf4b18e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/world-of-warships",
+    "freeDate": "2026-03-19",
+    "gameTitle": "World of Warships — Epic Anniversary Tachibana Pack",
+    "mappingSlug": "world-of-warships",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "84c76746bce94effb8e1047fabfd7eb7",
+    "urlSlug": "world-of-warships-tachibana-lima-pack"
   }
 ]
