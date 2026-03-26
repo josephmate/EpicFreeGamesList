@@ -8845,5 +8845,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "5d15c054641543c9a535b3b4ac29e843",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/hyper-echelon-2d23ff",
+    "freeDate": "2026-03-26",
+    "gameTitle": "Hyper Echelon",
+    "mappingSlug": "hyper-echelon-2d23ff",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "5ffdf739f9b549ebba9caf3596e7c632",
+    "urlSlug": "39e8285c09224707ab83d5c256e9b41b"
+  },
+  {
+    "epicId": "d7b336a5c49f4a14b16359193caeb296",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/havendock-64983e",
+    "freeDate": "2026-03-26",
+    "gameTitle": "Havendock",
+    "mappingSlug": "havendock-64983e",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "dc6b31eb3a7540f28ccff83204aa1c3d",
+    "urlSlug": "454bc0b5893f46a885bd86a6589ee67a"
   }
 ]
