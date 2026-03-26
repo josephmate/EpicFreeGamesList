@@ -8869,5 +8869,29 @@
     "productSlug": "",
     "sandboxId": "dc6b31eb3a7540f28ccff83204aa1c3d",
     "urlSlug": "454bc0b5893f46a885bd86a6589ee67a"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-wreck-android-3754bc",
+    "freeDate": "2026-03-26",
+    "gameTitle": "The Wreck",
+    "mappingSlug": "the-wreck-android-3754bc",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-wreck-ios-3c0525",
+    "freeDate": "2026-03-26",
+    "gameTitle": "The Wreck",
+    "mappingSlug": "the-wreck-ios-3c0525",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
