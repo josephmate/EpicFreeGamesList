@@ -8893,5 +8893,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "c6479f31043943d0b1710cc5983f53c6",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/clone-drone-in-the-danger-zone-4daf6e",
+    "freeDate": "2026-04-02",
+    "gameTitle": "Clone Drone in the Danger Zone",
+    "mappingSlug": "clone-drone-in-the-danger-zone-4daf6e",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "59d27ef047494b999bf0b04ddc471a07",
+    "urlSlug": "4d7e959581394dc4aee2039844753beb"
+  },
+  {
+    "epicId": "9f67865fcf0749a58f4d35827473266f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/tomak-save-the-earth-regeneration-c1207c",
+    "freeDate": "2026-04-02",
+    "gameTitle": "TOMAK: Save the Earth Regeneration",
+    "mappingSlug": "tomak-save-the-earth-regeneration-c1207c",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "7de6896ed120435fba9433d2732dadb4",
+    "urlSlug": "798328bff911452783523d61986170c0"
   }
 ]
