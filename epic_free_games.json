@@ -8917,5 +8917,29 @@
     "productSlug": "",
     "sandboxId": "7de6896ed120435fba9433d2732dadb4",
     "urlSlug": "798328bff911452783523d61986170c0"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-die-2-android-2e8cb3",
+    "freeDate": "2026-04-02",
+    "gameTitle": "Dumb Ways to Die 2: The Games",
+    "mappingSlug": "dumb-ways-to-die-2-android-2e8cb3",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-die-2-ios-2c123d",
+    "freeDate": "2026-04-02",
+    "gameTitle": "Dumb Ways to Die 2: The Games",
+    "mappingSlug": "dumb-ways-to-die-2-ios-2c123d",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
