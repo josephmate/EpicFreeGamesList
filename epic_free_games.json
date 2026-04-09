@@ -8965,5 +8965,29 @@
     "productSlug": "",
     "sandboxId": "a01818d165284996896acce560c669fa",
     "urlSlug": "67a9bcbc6b8e411e9265afb380fea91f"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-draw-android-3bce1a",
+    "freeDate": "2026-04-09",
+    "gameTitle": "Dumb Ways to Draw",
+    "mappingSlug": "dumb-ways-to-draw-android-3bce1a",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/dumb-ways-to-draw-ios-3e511b",
+    "freeDate": "2026-04-09",
+    "gameTitle": "Dumb Ways to Draw",
+    "mappingSlug": "dumb-ways-to-draw-ios-3e511b",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
