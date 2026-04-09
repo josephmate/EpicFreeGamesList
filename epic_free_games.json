@@ -8941,5 +8941,29 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "9f67865fcf0749a58f4d35827473266f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/tomak-save-the-earth-regeneration-c1207c",
+    "freeDate": "2026-04-02",
+    "gameTitle": "TOMAK: Save the Earth Regeneration",
+    "mappingSlug": "tomak-save-the-earth-regeneration-c1207c",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "7de6896ed120435fba9433d2732dadb4",
+    "urlSlug": "798328bff911452783523d61986170c0"
+  },
+  {
+    "epicId": "bc9b3091841840ad974ff525873d48c1",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/propsumo-ca8bd7",
+    "freeDate": "2026-04-09",
+    "gameTitle": "Prop Sumo",
+    "mappingSlug": "propsumo-ca8bd7",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "a01818d165284996896acce560c669fa",
+    "urlSlug": "67a9bcbc6b8e411e9265afb380fea91f"
   }
 ]
