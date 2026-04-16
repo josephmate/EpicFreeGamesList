@@ -9001,5 +9001,29 @@
     "productSlug": "",
     "sandboxId": "bc51d32ca88b41bda1e50f5876c0b16e",
     "urlSlug": "the-stone-of-madness"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/broken-sword-reforged-android-6a7c91",
+    "freeDate": "2026-04-16",
+    "gameTitle": "Broken Sword : Reforged",
+    "mappingSlug": "broken-sword-reforged-android-6a7c91",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/broken-sword-reforged-ios-6d7670",
+    "freeDate": "2026-04-16",
+    "gameTitle": "Broken Sword : Reforged",
+    "mappingSlug": "broken-sword-reforged-ios-6d7670",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
