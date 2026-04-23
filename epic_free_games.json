@@ -9025,5 +9025,17 @@
     "productSlug": "",
     "sandboxId": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "9e7d6a034aaf450dacda4b51695d113a",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/doomblade-afdf9a",
+    "freeDate": "2026-04-23",
+    "gameTitle": "DOOMBLADE",
+    "mappingSlug": "doomblade-afdf9a",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "12a3a68913864eaa8420e575eb6dbd42",
+    "urlSlug": "ed9fee5cea29495394853e134f27a291"
   }
 ]
