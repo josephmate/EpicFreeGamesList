@@ -9037,5 +9037,29 @@
     "productSlug": "",
     "sandboxId": "12a3a68913864eaa8420e575eb6dbd42",
     "urlSlug": "ed9fee5cea29495394853e134f27a291"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/911-operator-android-81a414",
+    "freeDate": "2026-04-23",
+    "gameTitle": "911 Operator",
+    "mappingSlug": "911-operator-android-81a414",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/911-operator-ios-8716e3",
+    "freeDate": "2026-04-23",
+    "gameTitle": "911 Operator",
+    "mappingSlug": "911-operator-ios-8716e3",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "urlSlug": ""
   }
 ]
