@@ -9,6 +9,12 @@ Every Thursday 19:00 UTC, gets the latest free game from the Epic Store and adds
 
 Recommended (cross-platform): run from the repository root so Go discovers packages automatically.
 
+Windows
+```
+go build -o epic-updater.exe .
+```
+
+Linux/Mac
 ```
 go build -o epic-updater .
 ```
@@ -20,22 +26,28 @@ go build -o epic-updater .
 Searching based on input json
 ```
 ./epic-updater search --inputFile ./epic_free_games.json --outputFile out.json > search.log 2>&1
+go run . search --inputFile ./epic_free_games.json --outputFile out.json > search.log 2>&1
 ```
 
 Single search:
 ```
 ./epic-updater search --gameTitle "Celeste"
+go run . search --gameTitle "Celeste"
 ```
 
 ## Ratings
 Rating based on input json
 ```
 ./epic-updater rate --inputFile ./epic_free_games.json --outputFile out.json > ratings.log 2>&1
+# alternative
+go run . rate --inputFile ./epic_free_games.json --outputFile out.json > ratings.log 2>&1
 ```
 
 Single rating:
 ```
 ./epic-updater rate --searchKey b671fbc7be424e888c9346a9a6d3d9db 
+# alternative
+go run . rate --searchKey b671fbc7be424e888c9346a9a6d3d9db
 ```
 
 ## Free Games
