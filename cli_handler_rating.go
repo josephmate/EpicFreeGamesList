@@ -1,10 +1,10 @@
 package main
 
 import (
-    "encoding/json"
-    "flag"
-    "fmt"
-    "os"
+	"encoding/json"
+	"flag"
+	"fmt"
+	"os"
 )
 
 func CliHandlerRating() {
@@ -32,7 +32,7 @@ func CliHandlerRating() {
             return
         }
 
-        var gameEntries []GameEntryWithSearch
+        var gameEntries []GameEntryComplete
         if err := json.Unmarshal(originalData, &gameEntries); err != nil {
             fmt.Println("Error parsing JSON:", err)
             return
@@ -56,23 +56,54 @@ func CliHandlerRating() {
                 searchKey = entry.EpicId
             } else {
                 jsonStr, _ := json.Marshal(entry)
-                fmt.Println("No useful property provided on :", jsonStr)
+                fmt.Println("No useful property provided, preserving existing entry:", jsonStr)
+                modifiedGameEntries = append(modifiedGameEntries, map[string]interface{}{
+                    "epicId":        entry.EpicId,
+                    "epicRating":    entry.EpicRating,
+                    "epicStoreLink": entry.EpicStoreLink,
+                    "freeDate":      entry.FreeDate,
+                    "gameTitle":     entry.GameTitle,
+                    "mappingSlug":   entry.MappingSlug,
+                    "platform":      entry.Platform,
+                    "productSlug":   entry.ProductSlug,
+                    "sandboxId":     entry.SandboxId,
+                    "urlSlug":       entry.UrlSlug,
+                })
                 continue
             }
             response, err := RateGame(searchKey)
             if err != nil {
-                fmt.Println("Error getting rating:", err)
+                fmt.Println("Error getting rating, preserving existing entry:", err)
+                modifiedGameEntries = append(modifiedGameEntries, map[string]interface{}{
+                    "epicId":        entry.EpicId,
+                    "epicRating":    entry.EpicRating,
+                    "epicStoreLink": entry.EpicStoreLink,
+                    "freeDate":      entry.FreeDate,
+                    "gameTitle":     entry.GameTitle,
+                    "mappingSlug":   entry.MappingSlug,
+                    "platform":      entry.Platform,
+                    "productSlug":   entry.ProductSlug,
+                    "sandboxId":     entry.SandboxId,
+                    "urlSlug":       entry.UrlSlug,
+                })
                 continue
+            }
+
+            // Preserve existing rating if the fetched rating is 0
+            fetchedRating := response.Data.RatingsPolls.GetProductResult.AverageRating
+            if fetchedRating == 0 && entry.EpicRating > 0 {
+                fetchedRating = entry.EpicRating
             }
 
             // Create the modified entry
             modifiedEntry := map[string]interface{}{
                 "epicId":        entry.EpicId,
-                "epicRating":    response.Data.RatingsPolls.GetProductResult.AverageRating,
+                "epicRating":    fetchedRating,
                 "epicStoreLink": entry.EpicStoreLink,
                 "freeDate":      entry.FreeDate,
                 "gameTitle":     entry.GameTitle,
                 "mappingSlug":   entry.MappingSlug,
+                "platform":      entry.Platform,
                 "productSlug":   entry.ProductSlug,
                 "sandboxId":     entry.SandboxId,
                 "urlSlug":       entry.UrlSlug,

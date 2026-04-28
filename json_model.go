@@ -14,13 +14,14 @@ package main
   },
 */
 type GameEntryComplete struct {
-	EpicId        string `json:"epicId"`
+	EpicId        string  `json:"epicId"`
 	EpicRating    float64 `json:"epicRating"`
-	EpicStoreLink string `json:"epicStoreLink"`
-	FreeDate      string `json:"freeDate"`
-	GameTitle     string `json:"gameTitle"`
-	MappingSlug   string `json:"mappingSlug"`
-	ProductSlug   string `json:"productSlug"`
-	SandboxId     string `json:"sandboxId"`
-	UrlSlug       string `json:"urlSlug"`
+	EpicStoreLink string  `json:"epicStoreLink"`
+	FreeDate      string  `json:"freeDate"`
+	GameTitle     string  `json:"gameTitle"`
+	MappingSlug   string  `json:"mappingSlug"`
+	Platform      string  `json:"platform,omitempty"`
+	ProductSlug   string  `json:"productSlug"`
+	SandboxId     string  `json:"sandboxId"`
+	UrlSlug       string  `json:"urlSlug"`
 }
