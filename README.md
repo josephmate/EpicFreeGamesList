@@ -55,14 +55,21 @@ go run . rate --searchKey b671fbc7be424e888c9346a9a6d3d9db
 Append to file:
 ```
 ./epic-updater free --inputFile epic_free_games.json --outputFile out.json
+go run . free --inputFile epic_free_games.json --outputFile out.json
+```
+
+```
+./epic-updater free_mobile --inputFile epic_free_games.json --outputFile out.json
+go run . free_mobile --inputFile epic_free_games.json --outputFile out.json
 ```
 
 Print to console:
 ```
 ./epic-updater free
+go run . free
+./epic-updater free_mobile
+go run . free_mobile
 ```
-
-
 
 
 # High Level Solution
