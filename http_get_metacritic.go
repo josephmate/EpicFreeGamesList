@@ -137,6 +137,13 @@ func GetMetacriticScore(gameTitle string) (score int, metacriticSlug string, err
 	}
 	fmt.Println("Game page response code:", gameStatus)
 
+	// If the critic score is TBD, the page uses global-score-tbd instead of global-score-value.
+	// Bail out early to avoid accidentally matching a perfect individual review score.
+	if strings.Contains(gameBody, `data-testid="global-score-tbd"`) {
+		fmt.Println("Metascore is TBD on game page")
+		return 0, metacriticSlug, nil
+	}
+
 	scoreMatches := reMetascore.FindStringSubmatch(gameBody)
 	if len(scoreMatches) < 2 {
 		fmt.Println("No Metascore found on game page")
