@@ -35,7 +35,7 @@ Single search:
 go run . search --gameTitle "Celeste"
 ```
 
-## Ratings
+## Ratings: Epic
 Rating based on input json
 ```
 ./epic-updater rate --inputFile ./epic_free_games.json --outputFile out.json > ratings.log 2>&1
@@ -49,6 +49,22 @@ Single rating:
 # alternative
 go run . rate --searchKey b671fbc7be424e888c9346a9a6d3d9db
 ```
+
+## Ratings: Metacritic
+Rating based on input json
+```
+./epic-updater metacritic --inputFile ./epic_free_games.json --outputFile out.json > ratings.log 2>&1
+# alternative
+go run . metacritic --inputFile ./epic_free_games.json --outputFile out.json > ratings.log 2>&1
+```
+
+Single rating:
+```
+./epic-updater metacritic --gameTitle "Celeste"
+# alternative
+go run . metacritic --gameTitle "Celeste"
+```
+
 
 ## Free Games
 
