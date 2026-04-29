@@ -12,7 +12,7 @@ import (
 	http "github.com/bogdanfinn/fhttp"
 )
 
-var reMetascore = regexp.MustCompile(`title="Metascore (\d+) out of 100"`)
+var reMetascore = regexp.MustCompile(`data-testid="global-score-value">(\d+)<`)
 var reMetacriticSlug = regexp.MustCompile(`href="/game/([^/"]+)/"`)
 
 // toMetacriticSlug converts a game title to a Metacritic-style URL slug.
