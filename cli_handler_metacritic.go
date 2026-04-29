@@ -12,6 +12,7 @@ func CliHandlerMetacritic() {
 	inputFile := fs.String("inputFile", "", "The input json file to add Metacritic scores to")
 	outputFile := fs.String("outputFile", "", "The output json file. Required when --inputFile is provided")
 	gameTitle := fs.String("gameTitle", "", "The game title to search for on Metacritic")
+	keepZero := fs.Bool("keepZero", false, "When set, a fetched score of 0 (TBD) will overwrite the existing score instead of preserving it")
 	fs.Parse(os.Args[2:])
 
 	if len(*outputFile) == 0 && len(*inputFile) > 0 {
@@ -56,12 +57,12 @@ func CliHandlerMetacritic() {
 				continue
 			}
 
-			// Preserve existing score/url if the fetched score is 0
+			// Preserve existing score/url if the fetched score is 0, unless --keepZero is set
 			metacriticUrl := ""
 			if len(slug) > 0 {
 				metacriticUrl = "https://www.metacritic.com/game/" + slug + "/"
 			}
-			if score == 0 && entry.MetacriticScore > 0 {
+			if score == 0 && entry.MetacriticScore > 0 && !*keepZero {
 				score = entry.MetacriticScore
 				metacriticUrl = entry.MetacriticUrl
 			}
