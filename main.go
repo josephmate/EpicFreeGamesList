@@ -11,8 +11,7 @@ func mainUsage(msg string) {
 		fmt.Println("Usage: epicFreeGamesList <operation> <arguments>")
 		fmt.Println("  search: look for a game by string")
 		fmt.Println("  rate: find the rating of game given some identifier")
-		fmt.Println("  free: update the free game list with the pc games")
-		fmt.Println("  free_mobile: update the free game list with the mobile games")
+	fmt.Println("  metacritic: find the Metacritic score of a game by title")
 		fmt.Println("  fix_ratings: fix any broken ratings that can be fixed")
 		fmt.Println("  mobile_discover_page: print the games from the mobile page")
 
@@ -38,6 +37,8 @@ func main() {
 		CliHandlerSearch()
 	} else if operation == "rate" {
 		CliHandlerRating()
+	} else if operation == "metacritic" {
+		CliHandlerMetacritic()
 	} else if operation == "free" {
 		CliHandlerFree()
 	} else if operation == "free_mobile" {

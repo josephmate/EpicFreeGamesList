@@ -9,3 +9,4 @@ epic-updater
 epic-updater.exe
 empty.json
 out_mobile.json
+.playwright-mcp/

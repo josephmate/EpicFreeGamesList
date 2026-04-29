@@ -113,7 +113,7 @@ func CliHandlerRating() {
         }
 
         // Convert the modified data to JSON
-        modifiedJSON, err := json.Marshal(modifiedGameEntries)
+        modifiedJSON, err := json.MarshalIndent(sortKeysInObjects(modifiedGameEntries), "", "  ")
         if err != nil {
             fmt.Println("Error converting to JSON:", err)
             return
@@ -122,11 +122,11 @@ func CliHandlerRating() {
         // Write the modified data to the output file
         err = os.WriteFile(*outputFile, modifiedJSON, 0644)
         if err != nil {
-            fmt.Println("Error writing to:", outputFile, err)
+            fmt.Println("Error writing to:", *outputFile, err)
             return
         }
 
-        fmt.Println("Modified data saved to ", outputFile)
+        fmt.Println("Modified data saved to ", *outputFile)
 
     } else if len(*searchKey) > 0 {
         rating, _ := RateGame(*searchKey)
