@@ -1,10 +1,10 @@
 package main
 
 import (
-    "encoding/json"
-    "flag"
-    "fmt"
-    "os"
+	"encoding/json"
+	"flag"
+	"fmt"
+	"os"
 )
 
 func CliHandlerFreeMobile() {
@@ -56,16 +56,18 @@ func CliHandlerFreeMobile() {
         // add all the free games
         for _, game := range freeGames.ThisWeek {
             modifiedEntry := map[string]interface{}{
-                "epicId":        game.EpicId,
-                "epicRating":    0.0,
-                "epicStoreLink": game.EpicStoreLink,
-                "freeDate":      game.FreeDate,
-                "gameTitle":     game.GameTitle,
-                "mappingSlug":   game.MappingSlug,
-                "platform":      game.Platform,
-                "productSlug":   game.ProductSlug,
-                "sandboxId":     game.SandboxId,
-                "urlSlug":       game.UrlSlug,
+                "epicId":          game.EpicId,
+                "epicRating":      0.0,
+                "epicStoreLink":   game.EpicStoreLink,
+                "freeDate":        game.FreeDate,
+                "gameTitle":       game.GameTitle,
+                "mappingSlug":     game.MappingSlug,
+                "metacriticScore": 0,
+                "metacriticUrl":   "",
+                "platform":        game.Platform,
+                "productSlug":     game.ProductSlug,
+                "sandboxId":       game.SandboxId,
+                "urlSlug":         game.UrlSlug,
             }
 
             if len(game.SandboxId) > 0 && game.SandboxId != "TODO" {
@@ -74,6 +76,18 @@ func CliHandlerFreeMobile() {
                     modifiedEntry["epicRating"] = ratingResponse.Data.RatingsPolls.GetProductResult.AverageRating
                 } else {
                     fmt.Println("Could not find rating for gameTitle=", game.GameTitle, "sandboxId=", game.SandboxId)
+                }
+            }
+
+            if len(game.GameTitle) > 0 {
+                mcScore, mcSlug, mcErr := GetMetacriticScore(game.GameTitle)
+                if mcErr != nil {
+                    fmt.Println("Could not get Metacritic score for gameTitle=", game.GameTitle, mcErr)
+                } else if mcScore > 0 {
+                    modifiedEntry["metacriticScore"] = mcScore
+                    if len(mcSlug) > 0 {
+                        modifiedEntry["metacriticUrl"] = "https://www.metacritic.com/game/" + mcSlug + "/"
+                    }
                 }
             }
 
@@ -98,6 +112,20 @@ func CliHandlerFreeMobile() {
         fmt.Println("Free This Week:")
         for _, game := range freeGames.ThisWeek {
             PrintFreeGame(game)
+            if len(game.GameTitle) > 0 {
+                mcScore, mcSlug, mcErr := GetMetacriticScore(game.GameTitle)
+                if mcErr != nil {
+                    fmt.Println("MetacriticScore: error:", mcErr)
+                } else {
+                    mcUrl := ""
+                    if len(mcSlug) > 0 {
+                        mcUrl = "https://www.metacritic.com/game/" + mcSlug + "/"
+                    }
+                    fmt.Println("MetacriticScore: ", mcScore)
+                    fmt.Println("MetacriticUrl:  ", mcUrl)
+                }
+                fmt.Println("------------------------------------")
+            }
         }
         fmt.Println("Free Next Week:")
         for _, game := range freeGames.NextWeek {
