@@ -102,6 +102,20 @@ document.addEventListener("DOMContentLoaded", function () {
             data: "freeDate",
           },
           {
+            title: "Metascore",
+            data: "metacriticScore",
+            render: function (data, type, row) {
+              if (type === "display") {
+                if (!data) return "";
+                if (row.metacriticUrl) {
+                  return `<a href="${row.metacriticUrl}" target="_blank">${data}</a>`;
+                }
+                return data;
+              }
+              return data || 0;
+            },
+          },
+          {
             title: "Epic Rating",
             data: "epicRating",
           },
