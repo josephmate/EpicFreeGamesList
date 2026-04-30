@@ -13734,5 +13734,39 @@
     "steamDBUrl": "https://steamdb.info/app/1817800/",
     "steamUrl": "https://store.steampowered.com/app/1817800/",
     "urlSlug": "e16c97c0da0b4e5aa507e930befb1a25"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/streets-of-rage-4-android-b10fcc",
+    "freeDate": "2026-04-30",
+    "gameTitle": "Streets of Rage 4",
+    "mappingSlug": "streets-of-rage-4-android-b10fcc",
+    "metacriticScore": 84,
+    "metacriticUrl": "https://www.metacritic.com/game/streets-of-rage-4/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 90.3,
+    "steamDBUrl": "https://steamdb.info/app/985890/",
+    "steamUrl": "https://store.steampowered.com/app/985890/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/streets-of-rage-4-ios-b39146",
+    "freeDate": "2026-04-30",
+    "gameTitle": "Streets of Rage 4",
+    "mappingSlug": "streets-of-rage-4-ios-b39146",
+    "metacriticScore": 84,
+    "metacriticUrl": "https://www.metacritic.com/game/streets-of-rage-4/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 90.3,
+    "steamDBUrl": "https://steamdb.info/app/985890/",
+    "steamUrl": "https://store.steampowered.com/app/985890/",
+    "urlSlug": ""
   }
 ]
