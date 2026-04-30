@@ -10,15 +10,38 @@ import (
 	"unicode"
 
 	http "github.com/bogdanfinn/fhttp"
+	"golang.org/x/text/runes"
+	"golang.org/x/text/transform"
+	"golang.org/x/text/unicode/norm"
 )
 
 var reMetascore = regexp.MustCompile(`data-testid="global-score-value">(\d+)<`)
 var reMetacriticSlug = regexp.MustCompile(`href="/game/([^/"]+)/"`)
 
+// toASCII converts accented/decorated characters to their ASCII base letter
+// using NFD decomposition + stripping combining marks (e.g. û→u, é→e, ü→u).
+func toASCII(s string) string {
+	t := transform.Chain(norm.NFD, runes.Remove(runes.In(unicode.Mn)), norm.NFC)
+	result, _, _ := transform.String(t, s)
+	return result
+}
+
 // toMetacriticSlug converts a game title to a Metacritic-style URL slug.
-// e.g. "The Sims 4" → "the-sims-4", "Celeste" → "celeste"
+//   - ASCII-normalizes accented chars (û→u)
+//   - Strips apostrophes/curly-apostrophes so "Wake's"→"wakes" not "wake-s"
+//   - Strips dots so "Q.U.B.E."→"qube" not "q-u-b-e"
+//   - Lowercases and replaces remaining non-alphanumeric runs with hyphens
 func toMetacriticSlug(title string) string {
-	title = strings.ToLower(title)
+	title = toASCII(title)
+	var stripped strings.Builder
+	for _, r := range title {
+		if r == '\'' || r == '\u2019' || r == '.' {
+			// drop: apostrophes merge adjacent words, dots merge abbreviations
+			continue
+		}
+		stripped.WriteRune(r)
+	}
+	title = strings.ToLower(stripped.String())
 	var b strings.Builder
 	prevHyphen := false
 	for _, r := range title {
@@ -31,6 +54,133 @@ func toMetacriticSlug(title string) string {
 		}
 	}
 	return strings.Trim(b.String(), "-")
+}
+
+// primaryTitle returns the portion of a title before the first ": " or " - ".
+// e.g. "Jotun: Valhalla Edition" → "Jotun", "Hades - DLC" → "Hades"
+func primaryTitle(title string) string {
+	for _, sep := range []string{": ", " - "} {
+		if idx := strings.Index(title, sep); idx >= 0 {
+			return title[:idx]
+		}
+	}
+	return title
+}
+
+// slugCandidates returns the ordered set of expected slug variants to try.
+// Full title slug is tried first, then the primary title (before any subtitle).
+func slugCandidates(title string) []string {
+	seen := map[string]bool{}
+	var result []string
+	for _, t := range []string{title, primaryTitle(title)} {
+		s := toMetacriticSlug(t)
+		if s != "" && !seen[s] {
+			seen[s] = true
+			result = append(result, s)
+		}
+	}
+	return result
+}
+
+// bigrams returns the multiset of character bigrams in s.
+func bigrams(s string) map[string]int {
+	rs := []rune(s)
+	bg := map[string]int{}
+	for i := 0; i+1 < len(rs); i++ {
+		bg[string(rs[i:i+2])]++
+	}
+	return bg
+}
+
+// bigramSim computes Sørensen-Dice bigram similarity between two strings.
+func bigramSim(a, b string) float64 {
+	if len([]rune(a)) < 2 || len([]rune(b)) < 2 {
+		if a == b {
+			return 1.0
+		}
+		return 0.0
+	}
+	ba, bb := bigrams(a), bigrams(b)
+	intersection := 0
+	for k, ca := range ba {
+		if cb, ok := bb[k]; ok {
+			if ca < cb {
+				intersection += ca
+			} else {
+				intersection += cb
+			}
+		}
+	}
+	total := 0
+	for _, c := range ba {
+		total += c
+	}
+	for _, c := range bb {
+		total += c
+	}
+	if total == 0 {
+		return 0
+	}
+	return float64(2*intersection) / float64(total)
+}
+
+// mongeElkan computes Monge-Elkan similarity: for each query token find the
+// max bigram similarity to any candidate token, then average those maxes.
+func mongeElkan(queryTokens, candidateTokens []string) float64 {
+	if len(queryTokens) == 0 || len(candidateTokens) == 0 {
+		return 0
+	}
+	sum := 0.0
+	for _, qt := range queryTokens {
+		best := 0.0
+		for _, ct := range candidateTokens {
+			if s := bigramSim(qt, ct); s > best {
+				best = s
+			}
+		}
+		sum += best
+	}
+	return sum / float64(len(queryTokens))
+}
+
+// bestSlugMatch selects the best slug from allSlugs for the given title using:
+//  1. Exact match against any expected slug variant
+//  2. Prefix match (candidate starts with expectedSlug+"-")
+//  3. Monge-Elkan fuzzy scoring against the full title slug tokens
+func bestSlugMatch(expectedSlugs []string, allSlugs []string) string {
+	// Exact match
+	for _, slug := range allSlugs {
+		for _, expected := range expectedSlugs {
+			if slug == expected {
+				return slug
+			}
+		}
+	}
+	// Prefix match
+	for _, slug := range allSlugs {
+		for _, expected := range expectedSlugs {
+			if strings.HasPrefix(slug, expected+"-") {
+				return slug
+			}
+		}
+	}
+	// Monge-Elkan fuzzy fallback using full title slug tokens
+	if len(expectedSlugs) == 0 || len(allSlugs) == 0 {
+		return ""
+	}
+	queryTokens := strings.Split(expectedSlugs[0], "-")
+	bestScore := -1.0
+	bestSlug := ""
+	for _, slug := range allSlugs {
+		candidateTokens := strings.Split(slug, "-")
+		score := mongeElkan(queryTokens, candidateTokens)
+		if score > bestScore {
+			bestScore = score
+			bestSlug = slug
+		}
+	}
+	fmt.Printf("Fuzzy match: %q → %q (score=%.3f)\n", expectedSlugs[0], bestSlug, bestScore)
+	return bestSlug
 }
 
 // fetchMetacriticPage performs a tls-client GET to url and returns the body and status code.
@@ -79,13 +229,11 @@ func fetchMetacriticPage(rawURL string) (string, int, error) {
 // along with the Metacritic game slug.
 //
 // Strategy:
-//  1. Fetch the search page to collect all /game/ slugs from search results.
-//  2. Find the best-matching slug by comparing against the slugified game title:
-//     prefer exact match, then prefix match, then fall back to the first result.
-//  3. Fetch the game's own page (/game/{slug}/) to extract the score, since
-//     older or less popular games may not show a Metascore badge in search listings.
+//  1. Fetch the search page and collect up to 50 /game/ slugs.
+//  2. Pick the best slug via exact → prefix → Monge-Elkan fuzzy match.
+//     Multiple expected slug variants are generated (full title + primary title).
+//  3. Fetch the game's own page (/game/{slug}/) to extract the score.
 func GetMetacriticScore(gameTitle string) (score int, metacriticSlug string, err error) {
-	// Step 1: search for the game to find the best-matching slug.
 	searchURL := "https://www.metacritic.com/search/" + url.PathEscape(gameTitle) + "/?category=13"
 	fmt.Println("Search URL:", searchURL)
 
@@ -96,37 +244,27 @@ func GetMetacriticScore(gameTitle string) (score int, metacriticSlug string, err
 	}
 	fmt.Println("Search response code:", statusCode)
 
-	allSlugs := reMetacriticSlug.FindAllStringSubmatch(body, 20)
-	titleSlug := toMetacriticSlug(gameTitle)
-	fmt.Printf("Looking for slug matching: %q\n", titleSlug)
-
-	// First pass: exact match.
-	var prefixMatch string
-	for _, m := range allSlugs {
-		slug := m[1]
-		if slug == titleSlug {
-			metacriticSlug = slug
-			break
-		} else if prefixMatch == "" && strings.HasPrefix(slug, titleSlug+"-") {
-			prefixMatch = slug
+	rawSlugs := reMetacriticSlug.FindAllStringSubmatch(body, 50)
+	allSlugs := make([]string, 0, len(rawSlugs))
+	seen := map[string]bool{}
+	for _, m := range rawSlugs {
+		if !seen[m[1]] {
+			seen[m[1]] = true
+			allSlugs = append(allSlugs, m[1])
 		}
 	}
-	// Second pass: prefix match if no exact found.
-	if metacriticSlug == "" && prefixMatch != "" {
-		metacriticSlug = prefixMatch
-	}
-	// Final fallback: first result.
-	if metacriticSlug == "" && len(allSlugs) > 0 {
-		metacriticSlug = allSlugs[0][1]
-		fmt.Printf("No title match found; falling back to first result: %q\n", metacriticSlug)
-	}
+
+	expected := slugCandidates(gameTitle)
+	fmt.Printf("Looking for slug matching: %v\n", expected)
+
+	metacriticSlug = bestSlugMatch(expected, allSlugs)
 
 	if metacriticSlug == "" {
 		fmt.Println("No game slugs found in search results")
 		return 0, "", nil
 	}
 
-	// Step 2: fetch the game's own page for the score.
+	// Fetch the game's own page for the score.
 	gameURL := "https://www.metacritic.com/game/" + metacriticSlug + "/"
 	fmt.Println("Game URL:", gameURL)
 
