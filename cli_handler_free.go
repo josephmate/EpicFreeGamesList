@@ -90,6 +90,9 @@ func CliHandlerFree() {
                 "platform":        game.Platform,
                 "productSlug":     game.ProductSlug,
                 "sandboxId":       game.SandboxId,
+                "steamDBRating":   0.0,
+                "steamDBUrl":      "",
+                "steamUrl":        "",
                 "urlSlug":         game.UrlSlug,
             }
 
@@ -111,6 +114,15 @@ func CliHandlerFree() {
                     if len(mcSlug) > 0 {
                         modifiedEntry["metacriticUrl"] = "https://www.metacritic.com/game/" + mcSlug + "/"
                     }
+                }
+
+                steamRating, steamAppID, steamErr := GetSteamDBRating(game.GameTitle)
+                if steamErr != nil {
+                    fmt.Println("Could not get SteamDB rating for gameTitle=", game.GameTitle, steamErr)
+                } else if steamAppID > 0 {
+                    modifiedEntry["steamDBRating"] = steamRating
+                    modifiedEntry["steamDBUrl"] = fmt.Sprintf("https://steamdb.info/app/%d/", steamAppID)
+                    modifiedEntry["steamUrl"] = fmt.Sprintf("https://store.steampowered.com/app/%d/", steamAppID)
                 }
             }
 
@@ -146,6 +158,21 @@ func CliHandlerFree() {
                     }
                     fmt.Println("MetacriticScore: ", mcScore)
                     fmt.Println("MetacriticUrl:  ", mcUrl)
+                }
+
+                steamRating, steamAppID, steamErr := GetSteamDBRating(game.GameTitle)
+                if steamErr != nil {
+                    fmt.Println("SteamDBRating: error:", steamErr)
+                } else {
+                    steamDBUrl := ""
+                    steamUrl := ""
+                    if steamAppID > 0 {
+                        steamDBUrl = fmt.Sprintf("https://steamdb.info/app/%d/", steamAppID)
+                        steamUrl = fmt.Sprintf("https://store.steampowered.com/app/%d/", steamAppID)
+                    }
+                    fmt.Println("SteamDBRating: ", steamRating)
+                    fmt.Println("SteamDBUrl:   ", steamDBUrl)
+                    fmt.Println("SteamUrl:     ", steamUrl)
                 }
                 fmt.Println("------------------------------------")
             }
