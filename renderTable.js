@@ -102,7 +102,22 @@ document.addEventListener("DOMContentLoaded", function () {
             data: "freeDate",
           },
           {
-            title: "Metascore",
+            title: "<img src='/EpicFreeGamesList/assets/steamdb.svg' alt='SteamDB' title='SteamDB Rating' style='width:14px;height:14px;vertical-align:middle;margin-right:4px;'>SteamDB",
+            data: "steamDBRating",
+            render: function (data, type, row) {
+              if (type === "display") {
+                if (!data) return "";
+                const label = data + "%";
+                if (row.steamDBUrl) {
+                  return `<a href="${row.steamDBUrl}" target="_blank">${label}</a>`;
+                }
+                return label;
+              }
+              return data || 0;
+            },
+          },
+          {
+            title: "<img src='/EpicFreeGamesList/assets/metacritic.ico' alt='Metacritic' title='Metascore' style='width:14px;height:14px;vertical-align:middle;margin-right:4px;'>Metascore",
             data: "metacriticScore",
             render: function (data, type, row) {
               if (type === "display") {
@@ -116,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function () {
             },
           },
           {
-            title: "Epic Rating",
+            title: "<img src='/EpicFreeGamesList/assets/epicgames.ico' alt='Epic Games' title='Epic Rating' style='width:14px;height:14px;vertical-align:middle;margin-right:4px;'>Epic Rating",
             data: "epicRating",
           },
         ],
