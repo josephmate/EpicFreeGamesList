@@ -12,6 +12,7 @@ func mainUsage(msg string) {
 		fmt.Println("  search: look for a game by string")
 		fmt.Println("  rate: find the rating of game given some identifier")
 	fmt.Println("  metacritic: find the Metacritic score of a game by title")
+	fmt.Println("  steamdb: find the SteamDB rating of a game by title")
 		fmt.Println("  fix_ratings: fix any broken ratings that can be fixed")
 		fmt.Println("  mobile_discover_page: print the games from the mobile page")
 
@@ -39,6 +40,8 @@ func main() {
 		CliHandlerRating()
 	} else if operation == "metacritic" {
 		CliHandlerMetacritic()
+	} else if operation == "steamdb" {
+		CliHandlerSteamDB()
 	} else if operation == "free" {
 		CliHandlerFree()
 	} else if operation == "free_mobile" {

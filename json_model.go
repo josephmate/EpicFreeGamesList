@@ -25,5 +25,8 @@ type GameEntryComplete struct {
 	Platform        string  `json:"platform,omitempty"`
 	ProductSlug     string  `json:"productSlug"`
 	SandboxId       string  `json:"sandboxId"`
+	SteamDBRating   float64 `json:"steamDBRating,omitempty"`
+	SteamDBUrl      string  `json:"steamDBUrl,omitempty"`
+	SteamUrl        string  `json:"steamUrl,omitempty"`
 	UrlSlug         string  `json:"urlSlug"`
 }

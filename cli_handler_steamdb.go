@@ -7,12 +7,12 @@ import (
 	"os"
 )
 
-func CliHandlerMetacritic() {
-	fs := flag.NewFlagSet("metacritic", flag.ExitOnError)
-	inputFile := fs.String("inputFile", "", "The input json file to add Metacritic scores to")
+func CliHandlerSteamDB() {
+	fs := flag.NewFlagSet("steamdb", flag.ExitOnError)
+	inputFile := fs.String("inputFile", "", "The input json file to add SteamDB ratings to")
 	outputFile := fs.String("outputFile", "", "The output json file. Required when --inputFile is provided")
-	gameTitle := fs.String("gameTitle", "", "The game title to search for on Metacritic")
-	keepZero := fs.Bool("keepZero", false, "When set, a fetched score of 0 (TBD) will overwrite the existing score instead of preserving it")
+	gameTitle := fs.String("gameTitle", "", "The game title to search for on Steam")
+	keepZero := fs.Bool("keepZero", false, "When set, a fetched rating of 0 will overwrite the existing rating instead of preserving it")
 	fs.Parse(os.Args[2:])
 
 	if len(*outputFile) == 0 && len(*inputFile) > 0 {
@@ -46,28 +46,32 @@ func CliHandlerMetacritic() {
 
 			if len(entry.GameTitle) == 0 {
 				fmt.Println("No gameTitle, preserving existing entry")
-				modifiedGameEntries = append(modifiedGameEntries, entryToMap(entry, entry.MetacriticScore, entry.MetacriticUrl))
+				modifiedGameEntries = append(modifiedGameEntries, entryToMapSteamDB(entry, entry.SteamDBRating, entry.SteamDBUrl, entry.SteamUrl))
 				continue
 			}
 
-			score, slug, err := GetMetacriticScore(entry.GameTitle)
+			rating, appID, err := GetSteamDBRating(entry.GameTitle)
 			if err != nil {
-				fmt.Println("Error getting Metacritic score, preserving existing entry:", err)
-				modifiedGameEntries = append(modifiedGameEntries, entryToMap(entry, entry.MetacriticScore, entry.MetacriticUrl))
+				fmt.Println("Error getting SteamDB rating, preserving existing entry:", err)
+				modifiedGameEntries = append(modifiedGameEntries, entryToMapSteamDB(entry, entry.SteamDBRating, entry.SteamDBUrl, entry.SteamUrl))
 				continue
 			}
 
-			// Preserve existing score/url if the fetched score is 0, unless --keepZero is set
-			metacriticUrl := ""
-			if len(slug) > 0 {
-				metacriticUrl = "https://www.metacritic.com/game/" + slug + "/"
-			}
-			if score == 0 && entry.MetacriticScore > 0 && !*keepZero {
-				score = entry.MetacriticScore
-				metacriticUrl = entry.MetacriticUrl
+			steamDBUrl := ""
+			steamUrl := ""
+			if appID > 0 {
+				steamDBUrl = fmt.Sprintf("https://steamdb.info/app/%d/", appID)
+				steamUrl = fmt.Sprintf("https://store.steampowered.com/app/%d/", appID)
 			}
 
-			modifiedGameEntries = append(modifiedGameEntries, entryToMap(entry, score, metacriticUrl))
+			// Preserve existing rating/urls if the fetched rating is 0, unless --keepZero is set.
+			if rating == 0 && entry.SteamDBRating > 0 && !*keepZero {
+				rating = entry.SteamDBRating
+				steamDBUrl = entry.SteamDBUrl
+				steamUrl = entry.SteamUrl
+			}
+
+			modifiedGameEntries = append(modifiedGameEntries, entryToMapSteamDB(entry, rating, steamDBUrl, steamUrl))
 		}
 
 		modifiedJSON, err := json.MarshalIndent(sortKeysInObjects(modifiedGameEntries), "", "  ")
@@ -85,16 +89,18 @@ func CliHandlerMetacritic() {
 		fmt.Println("Modified data saved to", *outputFile)
 
 	} else if len(*gameTitle) > 0 {
-		score, slug, err := GetMetacriticScore(*gameTitle)
+		rating, appID, err := GetSteamDBRating(*gameTitle)
 		if err != nil {
 			fmt.Println("Error:", err)
 			return
 		}
-		metacriticUrl := ""
-		if len(slug) > 0 {
-			metacriticUrl = "https://www.metacritic.com/game/" + slug + "/"
+		steamDBUrl := ""
+		steamUrl := ""
+		if appID > 0 {
+			steamDBUrl = fmt.Sprintf("https://steamdb.info/app/%d/", appID)
+			steamUrl = fmt.Sprintf("https://store.steampowered.com/app/%d/", appID)
 		}
-		fmt.Printf("title=%s score=%d url=%s\n", *gameTitle, score, metacriticUrl)
+		fmt.Printf("title=%s rating=%.2f steamDBUrl=%s steamUrl=%s\n", *gameTitle, rating, steamDBUrl, steamUrl)
 	} else {
 		fmt.Println("Need to provide both --inputFile, --outputFile or only --gameTitle")
 		fs.PrintDefaults()
@@ -102,7 +108,7 @@ func CliHandlerMetacritic() {
 	}
 }
 
-func entryToMap(entry GameEntryComplete, metacriticScore int, metacriticUrl string) map[string]interface{} {
+func entryToMapSteamDB(entry GameEntryComplete, steamDBRating float64, steamDBUrl string, steamUrl string) map[string]interface{} {
 	return map[string]interface{}{
 		"epicId":          entry.EpicId,
 		"epicRating":      entry.EpicRating,
@@ -110,14 +116,14 @@ func entryToMap(entry GameEntryComplete, metacriticScore int, metacriticUrl stri
 		"freeDate":        entry.FreeDate,
 		"gameTitle":       entry.GameTitle,
 		"mappingSlug":     entry.MappingSlug,
-		"metacriticScore": metacriticScore,
-		"metacriticUrl":   metacriticUrl,
+		"metacriticScore": entry.MetacriticScore,
+		"metacriticUrl":   entry.MetacriticUrl,
 		"platform":        entry.Platform,
 		"productSlug":     entry.ProductSlug,
 		"sandboxId":       entry.SandboxId,
-		"steamDBRating":   entry.SteamDBRating,
-		"steamDBUrl":      entry.SteamDBUrl,
-		"steamUrl":        entry.SteamUrl,
+		"steamDBRating":   steamDBRating,
+		"steamDBUrl":      steamDBUrl,
+		"steamUrl":        steamUrl,
 		"urlSlug":         entry.UrlSlug,
 	}
 }
