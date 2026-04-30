@@ -13700,5 +13700,39 @@
     "steamDBUrl": "https://steamdb.info/app/503560/",
     "steamUrl": "https://store.steampowered.com/app/503560/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "0623017cf9f341efbe07557f46beb4e8",
+    "epicRating": 3.64,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+    "freeDate": "2026-04-30",
+    "gameTitle": "Firestone Online Idle RPG",
+    "mappingSlug": "firestone-online-idle-rpg-bfd04b",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "bda8d2133655435982b9118972792328",
+    "steamDBRating": 59.94,
+    "steamDBUrl": "https://steamdb.info/app/3063880/",
+    "steamUrl": "https://store.steampowered.com/app/3063880/",
+    "urlSlug": "1185abfe7c554a1e8c528aba37bf3d0f"
+  },
+  {
+    "epicId": "102da1ac6e864d7f84889f2c0a107ee2",
+    "epicRating": 4.6,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
+    "freeDate": "2026-04-30",
+    "gameTitle": "Oddsparks: An Automation Adventure",
+    "mappingSlug": "oddsparks-58440c",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "77c83b36cd1047f7aceeef2e5f84ab85",
+    "steamDBRating": 80.37,
+    "steamDBUrl": "https://steamdb.info/app/1817800/",
+    "steamUrl": "https://store.steampowered.com/app/1817800/",
+    "urlSlug": "e16c97c0da0b4e5aa507e930befb1a25"
   }
 ]
