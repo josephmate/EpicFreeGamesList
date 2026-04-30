@@ -68,7 +68,6 @@ go run . metacritic --gameTitle "Celeste"
 ## Ratings: SteamDB
 
 ```
-
 go run . steamdb --inputFile ./epic_free_games.json --outputFile out.json > ratings.log 2>&1
 go run . steamdb --gameTitle "Celeste"
 ```
