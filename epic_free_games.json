@@ -13768,5 +13768,39 @@
     "steamDBUrl": "https://steamdb.info/app/985890/",
     "steamUrl": "https://store.steampowered.com/app/985890/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "4fb95c3f11754061b2b1a94e60d848bd",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7",
+    "freeDate": "2026-05-07",
+    "gameTitle": "Arranger: A Role-Puzzling Adventure",
+    "mappingSlug": "arranger-a-rolepuzzling-adventure-dbfde7",
+    "metacriticScore": 81,
+    "metacriticUrl": "https://www.metacritic.com/game/arranger-a-role-puzzling-adventure/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "2df8b055a5674c8e9211fc51f8efd210",
+    "steamDBRating": 85.38,
+    "steamDBUrl": "https://steamdb.info/app/2596420/",
+    "steamUrl": "https://store.steampowered.com/app/2596420/",
+    "urlSlug": "8883fa6958a24a00b6f33166e4552833"
+  },
+  {
+    "epicId": "40980262fdb24c149094f3febfe84cb6",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7",
+    "freeDate": "2026-05-07",
+    "gameTitle": "Trash Goblin",
+    "mappingSlug": "trash-goblin-cd5fd7",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "f14e8d865ad04b93a5df850ce7a59fe2",
+    "steamDBRating": 84.95,
+    "steamDBUrl": "https://steamdb.info/app/2407830/",
+    "steamUrl": "https://store.steampowered.com/app/2407830/",
+    "urlSlug": "7ea9b97f6a8b4c5d8047733207c5c65c"
   }
 ]
