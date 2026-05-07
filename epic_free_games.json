@@ -13802,5 +13802,39 @@
     "steamDBUrl": "https://steamdb.info/app/2407830/",
     "steamUrl": "https://store.steampowered.com/app/2407830/",
     "urlSlug": "7ea9b97f6a8b4c5d8047733207c5c65c"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/teacup-android-b71c0e",
+    "freeDate": "2026-05-07",
+    "gameTitle": "Teacup",
+    "mappingSlug": "teacup-android-b71c0e",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 90.46,
+    "steamDBUrl": "https://steamdb.info/app/1444300/",
+    "steamUrl": "https://store.steampowered.com/app/1444300/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/teacup-ios-b9ca8c",
+    "freeDate": "2026-05-07",
+    "gameTitle": "Teacup",
+    "mappingSlug": "teacup-ios-b9ca8c",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 90.46,
+    "steamDBUrl": "https://steamdb.info/app/1444300/",
+    "steamUrl": "https://store.steampowered.com/app/1444300/",
+    "urlSlug": ""
   }
 ]
