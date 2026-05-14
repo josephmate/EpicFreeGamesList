@@ -13836,5 +13836,39 @@
     "steamDBUrl": "https://steamdb.info/app/1444300/",
     "steamUrl": "https://store.steampowered.com/app/1444300/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "73a4416d5cdb42f682d504fdf48e987b",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-telltale-batman",
+    "freeDate": "2026-05-14",
+    "gameTitle": "The Telltale Batman Shadows Edition",
+    "mappingSlug": "",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "the-telltale-batman",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "megasale-mysterygame-2026-02"
+  },
+  {
+    "epicId": "190cb955f17f48dcb8576aa8288c887f",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sunderfolk-standard-edition-83c05e",
+    "freeDate": "2026-05-14",
+    "gameTitle": "Sunderfolk - Standard Edition",
+    "mappingSlug": "",
+    "metacriticScore": 79,
+    "metacriticUrl": "https://www.metacritic.com/game/sunderfolk/",
+    "platform": "pc",
+    "productSlug": "sunderfolk-standard-edition-83c05e",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "megasale-mysterygame-2026"
   }
 ]
