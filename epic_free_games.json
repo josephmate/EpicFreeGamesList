@@ -13870,5 +13870,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "megasale-mysterygame-2026"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-android-caa29b",
+    "freeDate": "2026-05-14",
+    "gameTitle": "Arranger: A Role-Puzzling Adventure",
+    "mappingSlug": "arranger-a-rolepuzzling-adventure-android-caa29b",
+    "metacriticScore": 81,
+    "metacriticUrl": "https://www.metacritic.com/game/arranger-a-role-puzzling-adventure/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 85.38,
+    "steamDBUrl": "https://steamdb.info/app/2596420/",
+    "steamUrl": "https://store.steampowered.com/app/2596420/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-ios-ceccbd",
+    "freeDate": "2026-05-14",
+    "gameTitle": "Arranger: A Role-Puzzling Adventure",
+    "mappingSlug": "arranger-a-rolepuzzling-adventure-ios-ceccbd",
+    "metacriticScore": 81,
+    "metacriticUrl": "https://www.metacritic.com/game/arranger-a-role-puzzling-adventure/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 85.38,
+    "steamDBUrl": "https://steamdb.info/app/2596420/",
+    "steamUrl": "https://store.steampowered.com/app/2596420/",
+    "urlSlug": ""
   }
 ]
