@@ -13938,5 +13938,39 @@
     "steamDBUrl": "https://steamdb.info/app/2478970/",
     "steamUrl": "https://store.steampowered.com/app/2478970/",
     "urlSlug": "megasale-mysterygame-2026-week21-game1"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-3-android-c7433e",
+    "freeDate": "2026-05-21",
+    "gameTitle": "Monument Valley 3",
+    "mappingSlug": "monument-valley-3-android-c7433e",
+    "metacriticScore": 74,
+    "metacriticUrl": "https://www.metacritic.com/game/monument-valley-3/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 88.59,
+    "steamDBUrl": "https://steamdb.info/app/3132930/",
+    "steamUrl": "https://store.steampowered.com/app/3132930/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/monument-valley-3-ios-e569e7",
+    "freeDate": "2026-05-21",
+    "gameTitle": "Monument Valley 3",
+    "mappingSlug": "monument-valley-3-ios-e569e7",
+    "metacriticScore": 74,
+    "metacriticUrl": "https://www.metacritic.com/game/monument-valley-3/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 88.59,
+    "steamDBUrl": "https://steamdb.info/app/3132930/",
+    "steamUrl": "https://store.steampowered.com/app/3132930/",
+    "urlSlug": ""
   }
 ]
