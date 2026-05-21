@@ -13904,5 +13904,39 @@
     "steamDBUrl": "https://steamdb.info/app/2596420/",
     "steamUrl": "https://store.steampowered.com/app/2596420/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "cd37ebd7ce804df9b51b84578e631b8a",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/down-in-bermuda",
+    "freeDate": "2026-05-21",
+    "gameTitle": "Down in Bermuda",
+    "mappingSlug": "",
+    "metacriticScore": 68,
+    "metacriticUrl": "https://www.metacritic.com/game/down-in-bermuda/",
+    "platform": "pc",
+    "productSlug": "down-in-bermuda",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "steamDBRating": 85.09,
+    "steamDBUrl": "https://steamdb.info/app/1107300/",
+    "steamUrl": "https://store.steampowered.com/app/1107300/",
+    "urlSlug": "megasale-mysterygame-2026-week21-game2"
+  },
+  {
+    "epicId": "9e2567e57e61458686d53f5aeaf1e2e0",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/tomb-raider-iiii-remastered-538640",
+    "freeDate": "2026-05-21",
+    "gameTitle": "Tomb Raider I-III Remastered Starring Lara Croft",
+    "mappingSlug": "",
+    "metacriticScore": 75,
+    "metacriticUrl": "https://www.metacritic.com/game/tomb-raider-i-iii-remastered-starring-lara-croft/",
+    "platform": "pc",
+    "productSlug": "tomb-raider-iiii-remastered-538640",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "steamDBRating": 82.11,
+    "steamDBUrl": "https://steamdb.info/app/2478970/",
+    "steamUrl": "https://store.steampowered.com/app/2478970/",
+    "urlSlug": "megasale-mysterygame-2026-week21-game1"
   }
 ]
