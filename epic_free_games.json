@@ -13972,5 +13972,39 @@
     "steamDBUrl": "https://steamdb.info/app/3132930/",
     "steamUrl": "https://store.steampowered.com/app/3132930/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "9621cc6e5d32437ca3dd998de177f6da",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/lonestar-83f143",
+    "freeDate": "2026-05-28",
+    "gameTitle": "LONESTAR",
+    "mappingSlug": "",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "lonestar-83f143",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "steamDBRating": 87.15,
+    "steamDBUrl": "https://steamdb.info/app/2056210/",
+    "steamUrl": "https://store.steampowered.com/app/2056210/",
+    "urlSlug": "megasale-mysterygame-2026-week22-game1"
+  },
+  {
+    "epicId": "7fc5abc8f11c471e837ddd00ce963350",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/calico",
+    "freeDate": "2026-05-28",
+    "gameTitle": "Calico",
+    "mappingSlug": "",
+    "metacriticScore": 57,
+    "metacriticUrl": "https://www.metacritic.com/game/calico/",
+    "platform": "pc",
+    "productSlug": "calico",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "steamDBRating": 83.8,
+    "steamDBUrl": "https://steamdb.info/app/1112890/",
+    "steamUrl": "https://store.steampowered.com/app/1112890/",
+    "urlSlug": "megasale-mysterygame-2026-week22-game2"
   }
 ]
