@@ -14006,5 +14006,39 @@
     "steamDBUrl": "https://steamdb.info/app/1112890/",
     "steamUrl": "https://store.steampowered.com/app/1112890/",
     "urlSlug": "megasale-mysterygame-2026-week22-game2"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/northgard-android-193af0",
+    "freeDate": "2026-05-28",
+    "gameTitle": "Northgard",
+    "mappingSlug": "northgard-android-193af0",
+    "metacriticScore": 81,
+    "metacriticUrl": "https://www.metacritic.com/game/northgard/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "https://steamdb.info/app/4487060/",
+    "steamUrl": "https://store.steampowered.com/app/4487060/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/northgard-ios-1bcff2",
+    "freeDate": "2026-05-28",
+    "gameTitle": "Northgard",
+    "mappingSlug": "northgard-ios-1bcff2",
+    "metacriticScore": 81,
+    "metacriticUrl": "https://www.metacritic.com/game/northgard/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "https://steamdb.info/app/4487060/",
+    "steamUrl": "https://store.steampowered.com/app/4487060/",
+    "urlSlug": ""
   }
 ]
