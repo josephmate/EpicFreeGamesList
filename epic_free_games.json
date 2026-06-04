@@ -14040,5 +14040,39 @@
     "steamDBUrl": "https://steamdb.info/app/4487060/",
     "steamUrl": "https://store.steampowered.com/app/4487060/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "a6a2d59fa54946dbbf16f14730c2e5f0",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rogue-waters-9764d6",
+    "freeDate": "2026-06-04",
+    "gameTitle": "Rogue Waters",
+    "mappingSlug": "",
+    "metacriticScore": 83,
+    "metacriticUrl": "https://www.metacritic.com/game/rogue-waters/",
+    "platform": "pc",
+    "productSlug": "rogue-waters-9764d6",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "steamDBRating": 72.98,
+    "steamDBUrl": "https://steamdb.info/app/1691190/",
+    "steamUrl": "https://store.steampowered.com/app/1691190/",
+    "urlSlug": "megasale-mysterygame-2026-week23-game2"
+  },
+  {
+    "epicId": "62b6d302e2bd41039449b1f2f9608748",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/songs-of-conquest",
+    "freeDate": "2026-06-04",
+    "gameTitle": "Songs of Conquest",
+    "mappingSlug": "",
+    "metacriticScore": 78,
+    "metacriticUrl": "https://www.metacritic.com/game/songs-of-conquest/",
+    "platform": "pc",
+    "productSlug": "songs-of-conquest",
+    "sandboxId": "d5241c76f178492ea1540fce45616757",
+    "steamDBRating": 83.63,
+    "steamDBUrl": "https://steamdb.info/app/867210/",
+    "steamUrl": "https://store.steampowered.com/app/867210/",
+    "urlSlug": "megasale-mysterygame-2026-week23-game1"
   }
 ]
