@@ -14074,5 +14074,39 @@
     "steamDBUrl": "https://steamdb.info/app/867210/",
     "steamUrl": "https://store.steampowered.com/app/867210/",
     "urlSlug": "megasale-mysterygame-2026-week23-game1"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/wytchwood-android-cad0ea",
+    "freeDate": "2026-06-04",
+    "gameTitle": "Wytchwood",
+    "mappingSlug": "wytchwood-android-cad0ea",
+    "metacriticScore": 78,
+    "metacriticUrl": "https://www.metacritic.com/game/wytchwood/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 89.35,
+    "steamDBUrl": "https://steamdb.info/app/729000/",
+    "steamUrl": "https://store.steampowered.com/app/729000/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/wytchwood-ios-ccf5ed",
+    "freeDate": "2026-06-04",
+    "gameTitle": "Wytchwood",
+    "mappingSlug": "wytchwood-ios-ccf5ed",
+    "metacriticScore": 78,
+    "metacriticUrl": "https://www.metacritic.com/game/wytchwood/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 89.35,
+    "steamDBUrl": "https://steamdb.info/app/729000/",
+    "steamUrl": "https://store.steampowered.com/app/729000/",
+    "urlSlug": ""
   }
 ]
