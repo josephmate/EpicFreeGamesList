@@ -14142,5 +14142,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "b28e038bd68b4e80840e7fb8b747de54"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/guild-of-dungeoneering-ultimate-edition-android-842836",
+    "freeDate": "2026-06-11",
+    "gameTitle": "Guild of Dungeoneering Ultimate Edition",
+    "mappingSlug": "guild-of-dungeoneering-ultimate-edition-android-842836",
+    "metacriticScore": 76,
+    "metacriticUrl": "https://www.metacritic.com/game/pillars-of-eternity-ii-deadfire-ultimate-edition/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 74.39,
+    "steamDBUrl": "https://steamdb.info/app/317820/",
+    "steamUrl": "https://store.steampowered.com/app/317820/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/guild-of-dungeoneering-ultimate-edition-ios-8ce610",
+    "freeDate": "2026-06-11",
+    "gameTitle": "Guild of Dungeoneering Ultimate Edition",
+    "mappingSlug": "guild-of-dungeoneering-ultimate-edition-ios-8ce610",
+    "metacriticScore": 76,
+    "metacriticUrl": "https://www.metacritic.com/game/pillars-of-eternity-ii-deadfire-ultimate-edition/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 74.39,
+    "steamDBUrl": "https://steamdb.info/app/317820/",
+    "steamUrl": "https://store.steampowered.com/app/317820/",
+    "urlSlug": ""
   }
 ]
