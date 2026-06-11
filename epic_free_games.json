@@ -14108,5 +14108,39 @@
     "steamDBUrl": "https://steamdb.info/app/729000/",
     "steamUrl": "https://store.steampowered.com/app/729000/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "7f0ab2828f9743d0abc6612a11222fdf",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547",
+    "freeDate": "2026-06-11",
+    "gameTitle": "The Ouroboros King",
+    "mappingSlug": "the-ouroboros-king-e1d547",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "b002ccbe10f946f082a63bf85fa30558",
+    "steamDBRating": 76.38,
+    "steamDBUrl": "https://steamdb.info/app/2096510/",
+    "steamUrl": "https://store.steampowered.com/app/2096510/",
+    "urlSlug": "the-ouroboros-king"
+  },
+  {
+    "epicId": "eb6ae87e73d94d2c96bab3c4da4dd3de",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c",
+    "freeDate": "2026-06-11",
+    "gameTitle": "Warhammer 40K Speed Freeks",
+    "mappingSlug": "warhammer-40k-speed-freeks-12879c",
+    "metacriticScore": 66,
+    "metacriticUrl": "https://www.metacritic.com/game/warhammer-40000-speed-freeks/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "e64225d40c214f32a71ccf6a7a612d6b",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "b28e038bd68b4e80840e7fb8b747de54"
   }
 ]
