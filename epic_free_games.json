@@ -14210,5 +14210,39 @@
     "steamDBUrl": "https://steamdb.info/app/1456760/",
     "steamUrl": "https://store.steampowered.com/app/1456760/",
     "urlSlug": "4ee365fd76704f37ae3dc13676f1ac61"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/construction-simulator-3-android-761575",
+    "freeDate": "2026-06-18",
+    "gameTitle": "Construction Simulator 3",
+    "mappingSlug": "construction-simulator-3-android-761575",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 53.59,
+    "steamDBUrl": "https://steamdb.info/app/1370120/",
+    "steamUrl": "https://store.steampowered.com/app/1370120/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/construction-simulator-3-ios-79078c",
+    "freeDate": "2026-06-18",
+    "gameTitle": "Construction Simulator 3",
+    "mappingSlug": "construction-simulator-3-ios-79078c",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 53.59,
+    "steamDBUrl": "https://steamdb.info/app/1370120/",
+    "steamUrl": "https://store.steampowered.com/app/1370120/",
+    "urlSlug": ""
   }
 ]
