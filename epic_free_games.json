@@ -14176,5 +14176,39 @@
     "steamDBUrl": "https://steamdb.info/app/317820/",
     "steamUrl": "https://store.steampowered.com/app/317820/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "ea365d314ecf4224a5f58d2d7430e7aa",
+    "epicRating": 4.73,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/citizen-sleeper-944858",
+    "freeDate": "2026-06-18",
+    "gameTitle": "Citizen Sleeper",
+    "mappingSlug": "citizen-sleeper-944858",
+    "metacriticScore": 82,
+    "metacriticUrl": "https://www.metacritic.com/game/citizen-sleeper/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "e4ef0c8c500a41eaa57c53d32410595d",
+    "steamDBRating": 89.83,
+    "steamDBUrl": "https://steamdb.info/app/1578650/",
+    "steamUrl": "https://store.steampowered.com/app/1578650/",
+    "urlSlug": "da528841e0eb43d8b93fd243c6767b0c"
+  },
+  {
+    "epicId": "aee7ec395d054078a48d867849e2a550",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/robobeat-5f084b",
+    "freeDate": "2026-06-18",
+    "gameTitle": "ROBOBEAT",
+    "mappingSlug": "robobeat-5f084b",
+    "metacriticScore": 83,
+    "metacriticUrl": "https://www.metacritic.com/game/robobeat/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "9704b88f02244a60b9b0ab81e0e31389",
+    "steamDBRating": 89.85,
+    "steamDBUrl": "https://steamdb.info/app/1456760/",
+    "steamUrl": "https://store.steampowered.com/app/1456760/",
+    "urlSlug": "4ee365fd76704f37ae3dc13676f1ac61"
   }
 ]
