@@ -14244,5 +14244,39 @@
     "steamDBUrl": "https://steamdb.info/app/1370120/",
     "steamUrl": "https://store.steampowered.com/app/1370120/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "4ec50a302f1449b3bf706a199c333ab8",
+    "epicRating": 4.64,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition",
+    "freeDate": "2026-06-25",
+    "gameTitle": "RollerCoaster Tycoon 3 Complete Edition",
+    "mappingSlug": "rollercoaster-tycoon-3-complete-edition",
+    "metacriticScore": 72,
+    "metacriticUrl": "https://www.metacritic.com/game/rollercoaster-tycoon-3-complete-edition/",
+    "platform": "pc",
+    "productSlug": "rollercoaster-tycoon-3-complete-edition/home",
+    "sandboxId": "f01b3e0178d448f0b93911e292d8e614",
+    "steamDBRating": 83.99,
+    "steamDBUrl": "https://steamdb.info/app/1368820/",
+    "steamUrl": "https://store.steampowered.com/app/1368820/",
+    "urlSlug": "mainegeneralaudience"
+  },
+  {
+    "epicId": "bbccf66ad70e492d812e031e17f93b9d",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/voidwrought-ce8f4b",
+    "freeDate": "2026-06-25",
+    "gameTitle": "Voidwrought",
+    "mappingSlug": "voidwrought-ce8f4b",
+    "metacriticScore": 76,
+    "metacriticUrl": "https://www.metacritic.com/game/voidwrought/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "1c6e13038e00432ba0a3c11bb85d1d5f",
+    "steamDBRating": 73.88,
+    "steamDBUrl": "https://steamdb.info/app/2014550/",
+    "steamUrl": "https://store.steampowered.com/app/2014550/",
+    "urlSlug": "8d0e69e541454ac7818117af13960b30"
   }
 ]
