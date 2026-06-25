@@ -14278,5 +14278,39 @@
     "steamDBUrl": "https://steamdb.info/app/2014550/",
     "steamUrl": "https://store.steampowered.com/app/2014550/",
     "urlSlug": "8d0e69e541454ac7818117af13960b30"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/teenage-mutant-ninja-turtles-shredders-revenge-android-8937ca",
+    "freeDate": "2026-06-25",
+    "gameTitle": "Teenage Mutant Ninja Turtles - Shredder's Revenge",
+    "mappingSlug": "teenage-mutant-ninja-turtles-shredders-revenge-android-8937ca",
+    "metacriticScore": 85,
+    "metacriticUrl": "https://www.metacritic.com/game/teenage-mutant-ninja-turtles-shredders-revenge/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/teenage-mutant-ninja-turtles-shredders-revenge-ios-8c04a6",
+    "freeDate": "2026-06-25",
+    "gameTitle": "Teenage Mutant Ninja Turtles - Shredder's Revenge",
+    "mappingSlug": "teenage-mutant-ninja-turtles-shredders-revenge-ios-8c04a6",
+    "metacriticScore": 85,
+    "metacriticUrl": "https://www.metacritic.com/game/teenage-mutant-ninja-turtles-shredders-revenge/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
   }
 ]
