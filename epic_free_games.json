@@ -14346,5 +14346,39 @@
     "steamDBUrl": "https://steamdb.info/app/245390/",
     "steamUrl": "https://store.steampowered.com/app/245390/",
     "urlSlug": "0937dc8ff7874fb8897a678d8a27c9ac"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sophia-the-traveler-android-d6e23d",
+    "freeDate": "2026-07-02",
+    "gameTitle": "Sophia the Traveler",
+    "mappingSlug": "sophia-the-traveler-android-d6e23d",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 72.74,
+    "steamDBUrl": "https://steamdb.info/app/1602540/",
+    "steamUrl": "https://store.steampowered.com/app/1602540/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sophia-the-traveler-ios-9db302",
+    "freeDate": "2026-07-02",
+    "gameTitle": "Sophia the Traveler",
+    "mappingSlug": "sophia-the-traveler-ios-9db302",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 72.74,
+    "steamDBUrl": "https://steamdb.info/app/1602540/",
+    "steamUrl": "https://store.steampowered.com/app/1602540/",
+    "urlSlug": ""
   }
 ]
