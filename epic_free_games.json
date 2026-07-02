@@ -14312,5 +14312,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "9bf3d3188d1e498095bc23c0955538d9",
+    "epicRating": 4.81,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
+    "freeDate": "2026-07-02",
+    "gameTitle": "River City Girls 2",
+    "mappingSlug": "river-city-girls-2-77af3a",
+    "metacriticScore": 78,
+    "metacriticUrl": "https://www.metacritic.com/game/river-city-girls-2/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "973ce75835994a35ab386d56ed2dffa3",
+    "steamDBRating": 81.85,
+    "steamDBUrl": "https://steamdb.info/app/1920480/",
+    "steamUrl": "https://store.steampowered.com/app/1920480/",
+    "urlSlug": "f6229ed5b32d4e098b930103b6470b49"
+  },
+  {
+    "epicId": "4ef54d5829b04656902dfa1f29b3b732",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2",
+    "freeDate": "2026-07-02",
+    "gameTitle": "I Have No Mouth, and I Must Scream",
+    "mappingSlug": "i-have-no-mouth-and-i-must-scream-95c5c2",
+    "metacriticScore": 73,
+    "metacriticUrl": "https://www.metacritic.com/game/i-have-no-mouth-and-i-must-scream/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "2e13c6ccfb3147ec8c67985160c48296",
+    "steamDBRating": 85.68,
+    "steamDBUrl": "https://steamdb.info/app/245390/",
+    "steamUrl": "https://store.steampowered.com/app/245390/",
+    "urlSlug": "0937dc8ff7874fb8897a678d8a27c9ac"
   }
 ]
