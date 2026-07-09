@@ -14380,5 +14380,39 @@
     "steamDBUrl": "https://steamdb.info/app/1602540/",
     "steamUrl": "https://store.steampowered.com/app/1602540/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "e5da2c017d4d4afab9f4c56525b66100",
+    "epicRating": 4.76,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
+    "freeDate": "2026-07-09",
+    "gameTitle": "Nova Lands",
+    "mappingSlug": "nova-lands-4d1788",
+    "metacriticScore": 79,
+    "metacriticUrl": "https://www.metacritic.com/game/nova-lands/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "740ba4a6fbed4062a9c43d52c5996b0b",
+    "steamDBRating": 85.85,
+    "steamDBUrl": "https://steamdb.info/app/1501610/",
+    "steamUrl": "https://store.steampowered.com/app/1501610/",
+    "urlSlug": "acb83bd813054e599598de9e76f6d95d"
+  },
+  {
+    "epicId": "f247e0af293645bda266fa9957d82d62",
+    "epicRating": 4.07,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
+    "freeDate": "2026-07-09",
+    "gameTitle": "Tattoo Tycoon",
+    "mappingSlug": "tattoo-tycoon-b4352c",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "b0a2eaef9e8e4fca9d8f9d4aa26fed4d",
+    "steamDBRating": 61.86,
+    "steamDBUrl": "https://steamdb.info/app/2375260/",
+    "steamUrl": "https://store.steampowered.com/app/2375260/",
+    "urlSlug": "tattoo-tycoon"
   }
 ]
