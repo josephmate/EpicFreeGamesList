@@ -14414,5 +14414,39 @@
     "steamDBUrl": "https://steamdb.info/app/2375260/",
     "steamUrl": "https://store.steampowered.com/app/2375260/",
     "urlSlug": "tattoo-tycoon"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/princess-farmer-android-09215e",
+    "freeDate": "2026-07-09",
+    "gameTitle": "Princess Farmer",
+    "mappingSlug": "princess-farmer-android-09215e",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 86.6,
+    "steamDBUrl": "https://steamdb.info/app/1320490/",
+    "steamUrl": "https://store.steampowered.com/app/1320490/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/princess-farmer-ios-0b70cd",
+    "freeDate": "2026-07-09",
+    "gameTitle": "Princess Farmer",
+    "mappingSlug": "princess-farmer-ios-0b70cd",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 86.6,
+    "steamDBUrl": "https://steamdb.info/app/1320490/",
+    "steamUrl": "https://store.steampowered.com/app/1320490/",
+    "urlSlug": ""
   }
 ]
