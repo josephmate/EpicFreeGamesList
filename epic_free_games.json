@@ -14448,5 +14448,39 @@
     "steamDBUrl": "https://steamdb.info/app/1320490/",
     "steamUrl": "https://store.steampowered.com/app/1320490/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "c27f2bb0dd9b4c4ca4973e653ab8a5be",
+    "epicRating": 4.41,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/luto-0a4ab3",
+    "freeDate": "2026-07-16",
+    "gameTitle": "Luto",
+    "mappingSlug": "luto-0a4ab3",
+    "metacriticScore": 79,
+    "metacriticUrl": "https://www.metacritic.com/game/luto/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "9f3ffc77b7264d63859bfd9bc935c9f8",
+    "steamDBRating": 81.04,
+    "steamDBUrl": "https://steamdb.info/app/1729740/",
+    "steamUrl": "https://store.steampowered.com/app/1729740/",
+    "urlSlug": "67459b70a96e40ca96d5676d8a4fd8c5"
+  },
+  {
+    "epicId": "371545146a944478ad5a87f9b581ac29",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
+    "freeDate": "2026-07-16",
+    "gameTitle": "Echo Generation: Midnight Edition",
+    "mappingSlug": "echo-generation-midnight-edition-069026",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "2c198b4055e64df698944727dbb561ea",
+    "steamDBRating": 83.88,
+    "steamDBUrl": "https://steamdb.info/app/1072300/",
+    "steamUrl": "https://store.steampowered.com/app/1072300/",
+    "urlSlug": "cbf3f5857ec241bab03dbb7eb03efad8"
   }
 ]
