@@ -14482,5 +14482,39 @@
     "steamDBUrl": "https://steamdb.info/app/1072300/",
     "steamUrl": "https://store.steampowered.com/app/1072300/",
     "urlSlug": "cbf3f5857ec241bab03dbb7eb03efad8"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-ouroboros-king-android-1740da",
+    "freeDate": "2026-07-16",
+    "gameTitle": "The Ouroboros King",
+    "mappingSlug": "the-ouroboros-king-android-1740da",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 76.12,
+    "steamDBUrl": "https://steamdb.info/app/2096510/",
+    "steamUrl": "https://store.steampowered.com/app/2096510/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/the-ouroboros-king-ios-75e88e",
+    "freeDate": "2026-07-16",
+    "gameTitle": "The Ouroboros King",
+    "mappingSlug": "the-ouroboros-king-ios-75e88e",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 76.12,
+    "steamDBUrl": "https://steamdb.info/app/2096510/",
+    "steamUrl": "https://store.steampowered.com/app/2096510/",
+    "urlSlug": ""
   }
 ]
