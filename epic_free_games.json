@@ -14533,5 +14533,39 @@
     "steamDBUrl": "https://steamdb.info/app/1170080/",
     "steamUrl": "https://store.steampowered.com/app/1170080/",
     "urlSlug": "a6dcabac79154e218bd3c7d4a8cad8a7"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/foretales-android-7c6e1c",
+    "freeDate": "2026-07-23",
+    "gameTitle": "Foretales",
+    "mappingSlug": "foretales-android-7c6e1c",
+    "metacriticScore": 74,
+    "metacriticUrl": "https://www.metacritic.com/game/foretales/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 80.79,
+    "steamDBUrl": "https://steamdb.info/app/1170080/",
+    "steamUrl": "https://store.steampowered.com/app/1170080/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/foretales-ios-7f68e5",
+    "freeDate": "2026-07-23",
+    "gameTitle": "Foretales",
+    "mappingSlug": "foretales-ios-7f68e5",
+    "metacriticScore": 74,
+    "metacriticUrl": "https://www.metacritic.com/game/foretales/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 80.79,
+    "steamDBUrl": "https://steamdb.info/app/1170080/",
+    "steamUrl": "https://store.steampowered.com/app/1170080/",
+    "urlSlug": ""
   }
 ]
