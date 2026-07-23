@@ -14516,5 +14516,22 @@
     "steamDBUrl": "https://steamdb.info/app/2096510/",
     "steamUrl": "https://store.steampowered.com/app/2096510/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "223c59e227e74e079a1bbe5a234b896f",
+    "epicRating": 4.64,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
+    "freeDate": "2026-07-23",
+    "gameTitle": "Foretales",
+    "mappingSlug": "foretales-d6c5bd",
+    "metacriticScore": 74,
+    "metacriticUrl": "https://www.metacritic.com/game/foretales/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "c5730ad3d7004a65a472a7699b88008a",
+    "steamDBRating": 80.79,
+    "steamDBUrl": "https://steamdb.info/app/1170080/",
+    "steamUrl": "https://store.steampowered.com/app/1170080/",
+    "urlSlug": "a6dcabac79154e218bd3c7d4a8cad8a7"
   }
 ]
