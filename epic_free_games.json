@@ -14567,5 +14567,39 @@
     "steamDBUrl": "https://steamdb.info/app/1170080/",
     "steamUrl": "https://store.steampowered.com/app/1170080/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "fb86769d4908427986ca9f7d94b581c2",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/otxo-396b8b",
+    "freeDate": "2026-07-30",
+    "gameTitle": "OTXO",
+    "mappingSlug": "otxo-396b8b",
+    "metacriticScore": 81,
+    "metacriticUrl": "https://www.metacritic.com/game/otxo/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "dfe95c9009f548b0b167b3d65cc91979",
+    "steamDBRating": 89.42,
+    "steamDBUrl": "https://steamdb.info/app/1608640/",
+    "steamUrl": "https://store.steampowered.com/app/1608640/",
+    "urlSlug": "63e3482da69d4332bd73ce23706e78eb"
+  },
+  {
+    "epicId": "c71375f1ac9444fcae1ca584a53ba6f0",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sol-cesto-e9b803",
+    "freeDate": "2026-07-30",
+    "gameTitle": "Sol Cesto",
+    "mappingSlug": "sol-cesto-e9b803",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "ce5d3cf74f36450cb7136952dc5b520f",
+    "steamDBRating": 87.95,
+    "steamDBUrl": "https://steamdb.info/app/2738490/",
+    "steamUrl": "https://store.steampowered.com/app/2738490/",
+    "urlSlug": "sol-cesto"
   }
 ]
