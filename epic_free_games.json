@@ -14601,5 +14601,39 @@
     "steamDBUrl": "https://steamdb.info/app/2738490/",
     "steamUrl": "https://store.steampowered.com/app/2738490/",
     "urlSlug": "sol-cesto"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mutazione-android-bdb9c1",
+    "freeDate": "2026-07-30",
+    "gameTitle": "Mutazione",
+    "mappingSlug": "mutazione-android-bdb9c1",
+    "metacriticScore": 76,
+    "metacriticUrl": "https://www.metacritic.com/game/mutazione/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 89.66,
+    "steamDBUrl": "https://steamdb.info/app/1080750/",
+    "steamUrl": "https://store.steampowered.com/app/1080750/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mutazione-ios-c09172",
+    "freeDate": "2026-07-30",
+    "gameTitle": "Mutazione",
+    "mappingSlug": "mutazione-ios-c09172",
+    "metacriticScore": 76,
+    "metacriticUrl": "https://www.metacritic.com/game/mutazione/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 89.66,
+    "steamDBUrl": "https://steamdb.info/app/1080750/",
+    "steamUrl": "https://store.steampowered.com/app/1080750/",
+    "urlSlug": ""
   }
 ]
