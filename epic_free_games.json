@@ -14669,5 +14669,39 @@
     "steamDBUrl": "https://steamdb.info/app/865360/",
     "steamUrl": "https://store.steampowered.com/app/865360/",
     "urlSlug": "a4bed38482a44c3d89029b0dbba42087"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/a-guidebook-of-babel-android-381952",
+    "freeDate": "2026-08-07",
+    "gameTitle": "A Guidebook Of Babel",
+    "mappingSlug": "a-guidebook-of-babel-android-381952",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 86.29,
+    "steamDBUrl": "https://steamdb.info/app/1467920/",
+    "steamUrl": "https://store.steampowered.com/app/1467920/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/a-guidebook-of-babel-ios-31c4fd",
+    "freeDate": "2026-08-07",
+    "gameTitle": "A Guidebook Of Babel",
+    "mappingSlug": "a-guidebook-of-babel-ios-31c4fd",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 86.29,
+    "steamDBUrl": "https://steamdb.info/app/1467920/",
+    "steamUrl": "https://store.steampowered.com/app/1467920/",
+    "urlSlug": ""
   }
 ]
