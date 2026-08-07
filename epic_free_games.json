@@ -14635,5 +14635,39 @@
     "steamDBUrl": "https://steamdb.info/app/1080750/",
     "steamUrl": "https://store.steampowered.com/app/1080750/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "871cc4ff18444059890a4d28653a62d5",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/beacon-pines-629fc3",
+    "freeDate": "2026-08-06",
+    "gameTitle": "Beacon Pines",
+    "mappingSlug": "beacon-pines-629fc3",
+    "metacriticScore": 84,
+    "metacriticUrl": "https://www.metacritic.com/game/beacon-pines/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "1c83ea77e736438f9852b31aeb4f7a20",
+    "steamDBRating": 93.84,
+    "steamDBUrl": "https://steamdb.info/app/1269640/",
+    "steamUrl": "https://store.steampowered.com/app/1269640/",
+    "urlSlug": "9e9a438c651a49799c3ddd94a0c3f4c0"
+  },
+  {
+    "epicId": "231e8f6d250a453f9c44c0adf3a34656",
+    "epicRating": 4.04,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66",
+    "freeDate": "2026-08-06",
+    "gameTitle": "We Were Here Together",
+    "mappingSlug": "we-were-here-together-6a6d66",
+    "metacriticScore": 77,
+    "metacriticUrl": "https://www.metacritic.com/game/we-were-here-together/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "c5f6069e7dd644dab009294f0fddc7a7",
+    "steamDBRating": 80.22,
+    "steamDBUrl": "https://steamdb.info/app/865360/",
+    "steamUrl": "https://store.steampowered.com/app/865360/",
+    "urlSlug": "a4bed38482a44c3d89029b0dbba42087"
   }
 ]
