@@ -14703,5 +14703,22 @@
     "steamDBUrl": "https://steamdb.info/app/1467920/",
     "steamUrl": "https://store.steampowered.com/app/1467920/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "0e44600a079e419abbb291ccf5af9ee7",
+    "epicRating": 4.45,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58",
+    "freeDate": "2026-08-13",
+    "gameTitle": "Caravan SandWitch",
+    "mappingSlug": "caravan-sandwitch-05ff58",
+    "metacriticScore": 73,
+    "metacriticUrl": "https://www.metacritic.com/game/caravan-sandwitch/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "45b137b2ecd14e01a54b52e575f1632d",
+    "steamDBRating": 83.12,
+    "steamDBUrl": "https://steamdb.info/app/1582650/",
+    "steamUrl": "https://store.steampowered.com/app/1582650/",
+    "urlSlug": "70e9a8a90305449a88a38b708399e605"
   }
 ]
