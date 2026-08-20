@@ -14822,5 +14822,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "epic-mage-bundle"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/caravan-sandwitch-android-594db5",
+    "freeDate": "2026-08-20",
+    "gameTitle": "Caravan SandWitch",
+    "mappingSlug": "caravan-sandwitch-android-594db5",
+    "metacriticScore": 73,
+    "metacriticUrl": "https://www.metacritic.com/game/caravan-sandwitch/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 83.01,
+    "steamDBUrl": "https://steamdb.info/app/1582650/",
+    "steamUrl": "https://store.steampowered.com/app/1582650/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/caravan-sandwitch-ios-5c5529",
+    "freeDate": "2026-08-20",
+    "gameTitle": "Caravan SandWitch",
+    "mappingSlug": "caravan-sandwitch-ios-5c5529",
+    "metacriticScore": 73,
+    "metacriticUrl": "https://www.metacritic.com/game/caravan-sandwitch/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 83.01,
+    "steamDBUrl": "https://steamdb.info/app/1582650/",
+    "steamUrl": "https://store.steampowered.com/app/1582650/",
+    "urlSlug": ""
   }
 ]
