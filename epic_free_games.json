@@ -14788,5 +14788,39 @@
     "steamDBUrl": "https://steamdb.info/app/2825530/",
     "steamUrl": "https://store.steampowered.com/app/2825530/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "b467b7d3570e44c0b84e59475f4a5636",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/cardpocalypse",
+    "freeDate": "2026-08-20",
+    "gameTitle": "Cardpocalypse Standard Edition",
+    "mappingSlug": "cardpocalypse",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "cardpocalypse/home",
+    "sandboxId": "2bfd5ca43ef443739ada168e017e1b78",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "cardpocalypsegeneralaudience"
+  },
+  {
+    "epicId": "a802acab90af4a07952a07a9fa677f2f",
+    "epicRating": 4.34,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/albion-online-7eb24d",
+    "freeDate": "2026-08-20",
+    "gameTitle": "Epic Mage Bundle",
+    "mappingSlug": "albion-online-7eb24d",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "72520902fc594621b6daa5a6217b4ee7",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "epic-mage-bundle"
   }
 ]
