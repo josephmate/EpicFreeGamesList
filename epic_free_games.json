@@ -14856,5 +14856,39 @@
     "steamDBUrl": "https://steamdb.info/app/1582650/",
     "steamUrl": "https://store.steampowered.com/app/1582650/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "8401414902e84f2cb9afa9142f051d32",
+    "epicRating": 4.43,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/breathedge",
+    "freeDate": "2026-08-27",
+    "gameTitle": "Breathedge",
+    "mappingSlug": "breathedge",
+    "metacriticScore": 71,
+    "metacriticUrl": "https://www.metacritic.com/game/breathedge/",
+    "platform": "pc",
+    "productSlug": "breathedge",
+    "sandboxId": "08ae29e4f70a4b62aa055e383381aa82",
+    "steamDBRating": 79.62,
+    "steamDBUrl": "https://steamdb.info/app/738520/",
+    "steamUrl": "https://store.steampowered.com/app/738520/",
+    "urlSlug": "osmiumgeneralaudience"
+  },
+  {
+    "epicId": "8f1fcf01e32e4fd4b2ae0a9737992760",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
+    "freeDate": "2026-08-27",
+    "gameTitle": "Rival Stars Horse Racing : Desktop Edition",
+    "mappingSlug": "rival-stars-horse-racing-dd09de",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "f570d80aa4fe463ca53c4410d1c75e1e",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "c27af3c6ec3a47afb720e580138de63e"
   }
 ]
