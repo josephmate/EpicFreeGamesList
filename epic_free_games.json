@@ -14890,5 +14890,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "c27af3c6ec3a47afb720e580138de63e"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/down-in-bermuda-android-91daeb",
+    "freeDate": "2026-08-28",
+    "gameTitle": "Down in Bermuda",
+    "mappingSlug": "down-in-bermuda-android-91daeb",
+    "metacriticScore": 68,
+    "metacriticUrl": "https://www.metacritic.com/game/down-in-bermuda/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 85.06,
+    "steamDBUrl": "https://steamdb.info/app/1107300/",
+    "steamUrl": "https://store.steampowered.com/app/1107300/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/down-in-bermuda-ios-f0d77a",
+    "freeDate": "2026-08-28",
+    "gameTitle": "Down in Bermuda",
+    "mappingSlug": "down-in-bermuda-ios-f0d77a",
+    "metacriticScore": 68,
+    "metacriticUrl": "https://www.metacritic.com/game/down-in-bermuda/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 85.06,
+    "steamDBUrl": "https://steamdb.info/app/1107300/",
+    "steamUrl": "https://store.steampowered.com/app/1107300/",
+    "urlSlug": ""
   }
 ]
