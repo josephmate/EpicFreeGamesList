@@ -14941,5 +14941,39 @@
     "steamDBUrl": "https://steamdb.info/app/564940/",
     "steamUrl": "https://store.steampowered.com/app/564940/",
     "urlSlug": "68a0e4e0a68d42ffba405593a89c55ba"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/evans-remains-android-ddf101",
+    "freeDate": "2026-09-03",
+    "gameTitle": "Evan's Remains",
+    "mappingSlug": "evans-remains-android-ddf101",
+    "metacriticScore": 75,
+    "metacriticUrl": "https://www.metacritic.com/game/evans-remains/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 83.85,
+    "steamDBUrl": "https://steamdb.info/app/1110050/",
+    "steamUrl": "https://store.steampowered.com/app/1110050/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/evans-remains-ios-e00ae0",
+    "freeDate": "2026-09-03",
+    "gameTitle": "Evan's Remains",
+    "mappingSlug": "evans-remains-ios-e00ae0",
+    "metacriticScore": 75,
+    "metacriticUrl": "https://www.metacritic.com/game/evans-remains/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 83.85,
+    "steamDBUrl": "https://steamdb.info/app/1110050/",
+    "steamUrl": "https://store.steampowered.com/app/1110050/",
+    "urlSlug": ""
   }
 ]
