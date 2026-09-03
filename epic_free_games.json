@@ -14924,5 +14924,22 @@
     "steamDBUrl": "https://steamdb.info/app/1107300/",
     "steamUrl": "https://store.steampowered.com/app/1107300/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "b8cc76ce7d6645f0a282b843a072cc78",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/alone-with-you-028a15",
+    "freeDate": "2026-09-03",
+    "gameTitle": "Alone With You",
+    "mappingSlug": "alone-with-you-028a15",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "cb87ac984c3c4c19b0a4e3e89048f187",
+    "steamDBRating": 72.63,
+    "steamDBUrl": "https://steamdb.info/app/564940/",
+    "steamUrl": "https://store.steampowered.com/app/564940/",
+    "urlSlug": "68a0e4e0a68d42ffba405593a89c55ba"
   }
 ]
