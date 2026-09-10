@@ -14975,5 +14975,39 @@
     "steamDBUrl": "https://steamdb.info/app/1110050/",
     "steamUrl": "https://store.steampowered.com/app/1110050/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "c76046dddcdb43619c33ce0395941033",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
+    "freeDate": "2026-09-10",
+    "gameTitle": "Luftrausers",
+    "mappingSlug": "luftrausers-51e5e9",
+    "metacriticScore": 80,
+    "metacriticUrl": "https://www.metacritic.com/game/luftrausers/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "639daf403b554ee9b02eee5eedafc302",
+    "steamDBRating": 87.36,
+    "steamDBUrl": "https://steamdb.info/app/233150/",
+    "steamUrl": "https://store.steampowered.com/app/233150/",
+    "urlSlug": "luftrausers"
+  },
+  {
+    "epicId": "e9bb092228f544c582e2c9395fae96f3",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/astral-ascent-b33bc2",
+    "freeDate": "2026-09-10",
+    "gameTitle": "Astral Ascent",
+    "mappingSlug": "astral-ascent-b33bc2",
+    "metacriticScore": 86,
+    "metacriticUrl": "https://www.metacritic.com/game/astral-ascent/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "0cb5817d554740e8bedf9ceea32522bd",
+    "steamDBRating": 91.7,
+    "steamDBUrl": "https://steamdb.info/app/1280930/",
+    "steamUrl": "https://store.steampowered.com/app/1280930/",
+    "urlSlug": "d72ccf025e574bb4a725e3079ea34081"
   }
 ]
