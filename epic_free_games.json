@@ -15009,5 +15009,39 @@
     "steamDBUrl": "https://steamdb.info/app/1280930/",
     "steamUrl": "https://store.steampowered.com/app/1280930/",
     "urlSlug": "d72ccf025e574bb4a725e3079ea34081"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/alone-with-you-android-52b29b",
+    "freeDate": "2026-09-10",
+    "gameTitle": "Alone With You",
+    "mappingSlug": "alone-with-you-android-52b29b",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 72.79,
+    "steamDBUrl": "https://steamdb.info/app/564940/",
+    "steamUrl": "https://store.steampowered.com/app/564940/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/alone-with-you-ios-a1f287",
+    "freeDate": "2026-09-10",
+    "gameTitle": "Alone With You",
+    "mappingSlug": "alone-with-you-ios-a1f287",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 72.79,
+    "steamDBUrl": "https://steamdb.info/app/564940/",
+    "steamUrl": "https://store.steampowered.com/app/564940/",
+    "urlSlug": ""
   }
 ]
