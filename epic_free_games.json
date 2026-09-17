@@ -15043,5 +15043,39 @@
     "steamDBUrl": "https://steamdb.info/app/564940/",
     "steamUrl": "https://store.steampowered.com/app/564940/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "8a20c6c8d5b5417e800c687e9d72013e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mindcop-78e6c1",
+    "freeDate": "2026-09-17",
+    "gameTitle": "Mindcop",
+    "mappingSlug": "mindcop-78e6c1",
+    "metacriticScore": 87,
+    "metacriticUrl": "https://www.metacritic.com/game/mindcop/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "f20a4eda0f2d486ea73cab8af1224e31",
+    "steamDBRating": 86.92,
+    "steamDBUrl": "https://steamdb.info/app/1517180/",
+    "steamUrl": "https://store.steampowered.com/app/1517180/",
+    "urlSlug": "1513de80f23f42e584540be749826057"
+  },
+  {
+    "epicId": "b9ff3f98367a45cdac289dff6683a2bc",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/shogun-showdown-61832d",
+    "freeDate": "2026-09-17",
+    "gameTitle": "Shogun Showdown",
+    "mappingSlug": "shogun-showdown-61832d",
+    "metacriticScore": 88,
+    "metacriticUrl": "https://www.metacritic.com/game/shogun-showdown/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "59ff4d481277487d8c073166ba7612d3",
+    "steamDBRating": 92.05,
+    "steamDBUrl": "https://steamdb.info/app/2084000/",
+    "steamUrl": "https://store.steampowered.com/app/2084000/",
+    "urlSlug": "shogun-showdown"
   }
 ]
