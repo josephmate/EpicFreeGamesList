@@ -15077,5 +15077,39 @@
     "steamDBUrl": "https://steamdb.info/app/2084000/",
     "steamUrl": "https://store.steampowered.com/app/2084000/",
     "urlSlug": "shogun-showdown"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mindcop-android-0f4bac",
+    "freeDate": "2026-09-17",
+    "gameTitle": "Mindcop",
+    "mappingSlug": "mindcop-android-0f4bac",
+    "metacriticScore": 87,
+    "metacriticUrl": "https://www.metacritic.com/game/mindcop/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 86.92,
+    "steamDBUrl": "https://steamdb.info/app/1517180/",
+    "steamUrl": "https://store.steampowered.com/app/1517180/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mindcop-ios-11d53d",
+    "freeDate": "2026-09-17",
+    "gameTitle": "Mindcop",
+    "mappingSlug": "mindcop-ios-11d53d",
+    "metacriticScore": 87,
+    "metacriticUrl": "https://www.metacritic.com/game/mindcop/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 86.92,
+    "steamDBUrl": "https://steamdb.info/app/1517180/",
+    "steamUrl": "https://store.steampowered.com/app/1517180/",
+    "urlSlug": ""
   }
 ]
