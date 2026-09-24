@@ -15111,5 +15111,39 @@
     "steamDBUrl": "https://steamdb.info/app/1517180/",
     "steamUrl": "https://store.steampowered.com/app/1517180/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "7c14bf0cffdd43be968fdcf28e5af653",
+    "epicRating": 4.66,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
+    "freeDate": "2026-09-24",
+    "gameTitle": "Astrea Six Sided Oracles",
+    "mappingSlug": "astrea-six-sided-oracles-33c949",
+    "metacriticScore": 85,
+    "metacriticUrl": "https://www.metacritic.com/game/astrea-six-sided-oracles/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "a940fa38f001486a9884640924119576",
+    "steamDBRating": 88.28,
+    "steamDBUrl": "https://steamdb.info/app/1755830/",
+    "steamUrl": "https://store.steampowered.com/app/1755830/",
+    "urlSlug": "915d7181013c40d980e1924513c7b8ec"
+  },
+  {
+    "epicId": "6d99eae44d724baf84d6261a7a0f05d2",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mechabellum-88a843",
+    "freeDate": "2026-09-24",
+    "gameTitle": "Mechabellum",
+    "mappingSlug": "mechabellum-88a843",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "36074aa6badf45698cced1a44e837fa2",
+    "steamDBRating": 81.98,
+    "steamDBUrl": "https://steamdb.info/app/669330/",
+    "steamUrl": "https://store.steampowered.com/app/669330/",
+    "urlSlug": "6a87570c28144b9cb50eb0ba46a7e19e"
   }
 ]
