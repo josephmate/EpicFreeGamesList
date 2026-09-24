@@ -15145,5 +15145,39 @@
     "steamDBUrl": "https://steamdb.info/app/669330/",
     "steamUrl": "https://store.steampowered.com/app/669330/",
     "urlSlug": "6a87570c28144b9cb50eb0ba46a7e19e"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/cardpocalypse-android-3f99a7",
+    "freeDate": "2026-09-24",
+    "gameTitle": "Cardpocalypse",
+    "mappingSlug": "cardpocalypse-android-3f99a7",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 79.51,
+    "steamDBUrl": "https://steamdb.info/app/904400/",
+    "steamUrl": "https://store.steampowered.com/app/904400/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/cardpocalypse-ios-46af9e",
+    "freeDate": "2026-09-24",
+    "gameTitle": "Cardpocalypse",
+    "mappingSlug": "cardpocalypse-ios-46af9e",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 79.51,
+    "steamDBUrl": "https://steamdb.info/app/904400/",
+    "steamUrl": "https://store.steampowered.com/app/904400/",
+    "urlSlug": ""
   }
 ]
