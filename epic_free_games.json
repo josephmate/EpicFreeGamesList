@@ -15179,5 +15179,39 @@
     "steamDBUrl": "https://steamdb.info/app/904400/",
     "steamUrl": "https://store.steampowered.com/app/904400/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "7ae00c3e89174012b175cc73b4737723",
+    "epicRating": 4.8,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9",
+    "freeDate": "2026-10-01",
+    "gameTitle": "System Shock 2: 25th Anniversary Remaster",
+    "mappingSlug": "system-shock-2-25th-anniversary-remaster-cb94d9",
+    "metacriticScore": 84,
+    "metacriticUrl": "https://www.metacritic.com/game/system-shock-2-25th-anniversary-remaster/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "a90f2381d7aa48c09b4080515a9541cd",
+    "steamDBRating": 83.99,
+    "steamDBUrl": "https://steamdb.info/app/866570/",
+    "steamUrl": "https://store.steampowered.com/app/866570/",
+    "urlSlug": "system-shock-2-25th-anniversary-remaster"
+  },
+  {
+    "epicId": "af4c34934afe4db0870b8a1d82dceb94",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
+    "freeDate": "2026-10-01",
+    "gameTitle": "BURIED STARS",
+    "mappingSlug": "buried-stars-d7c88c",
+    "metacriticScore": 83,
+    "metacriticUrl": "https://www.metacritic.com/game/buried-stars/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "9bd512d68e3143909842932ac45a4182",
+    "steamDBRating": 80.3,
+    "steamDBUrl": "https://steamdb.info/app/1025960/",
+    "steamUrl": "https://store.steampowered.com/app/1025960/",
+    "urlSlug": "buried-stars"
   }
 ]
