@@ -15213,5 +15213,39 @@
     "steamDBUrl": "https://steamdb.info/app/1025960/",
     "steamUrl": "https://store.steampowered.com/app/1025960/",
     "urlSlug": "buried-stars"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bridge-constructor-studio-android-c42687",
+    "freeDate": "2026-10-01",
+    "gameTitle": "Bridge Constructor Studio",
+    "mappingSlug": "bridge-constructor-studio-android-c42687",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 77.34,
+    "steamDBUrl": "https://steamdb.info/app/3473610/",
+    "steamUrl": "https://store.steampowered.com/app/3473610/",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bridge-constructor-studio-ios-c76845",
+    "freeDate": "2026-10-01",
+    "gameTitle": "Bridge Constructor Studio",
+    "mappingSlug": "bridge-constructor-studio-ios-c76845",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 77.34,
+    "steamDBUrl": "https://steamdb.info/app/3473610/",
+    "steamUrl": "https://store.steampowered.com/app/3473610/",
+    "urlSlug": ""
   }
 ]
