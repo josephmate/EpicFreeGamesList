@@ -15247,5 +15247,39 @@
     "steamDBUrl": "https://steamdb.info/app/3473610/",
     "steamUrl": "https://store.steampowered.com/app/3473610/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "cb733f3432db46bca94965b422c33ede",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/out-of-sight-b96ca8",
+    "freeDate": "2026-10-08",
+    "gameTitle": "Out of Sight",
+    "mappingSlug": "out-of-sight-b96ca8",
+    "metacriticScore": 80,
+    "metacriticUrl": "https://www.metacritic.com/game/out-of-sight/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "436099305a2249a8bbe4d9113fc41d53",
+    "steamDBRating": 89.26,
+    "steamDBUrl": "https://steamdb.info/app/2526310/",
+    "steamUrl": "https://store.steampowered.com/app/2526310/",
+    "urlSlug": "f350878fcb5242d6851cfe2fa1316e76"
+  },
+  {
+    "epicId": "af6b823b8698465f9aedc3bddf2e8686",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
+    "freeDate": "2026-10-08",
+    "gameTitle": "TerraScape",
+    "mappingSlug": "terrascape-2b12b1",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "bfb80547289b477193ce3b14d83cd292",
+    "steamDBRating": 84.85,
+    "steamDBUrl": "https://steamdb.info/app/2290000/",
+    "steamUrl": "https://store.steampowered.com/app/2290000/",
+    "urlSlug": "f229ed53ddba40788e0ab62978e9eaf9"
   }
 ]
