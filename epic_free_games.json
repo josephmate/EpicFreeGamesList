@@ -15349,5 +15349,39 @@
     "steamDBUrl": "https://steamdb.info/app/801480/",
     "steamUrl": "https://store.steampowered.com/app/801480/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "6a846880836044a2adad614ac771f487",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bad-cheese-4256d9",
+    "freeDate": "2026-10-15",
+    "gameTitle": "Bad Cheese",
+    "mappingSlug": "bad-cheese-4256d9",
+    "metacriticScore": 63,
+    "metacriticUrl": "https://www.metacritic.com/game/bad-cheese/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "a0c80bf673a548bc97b4bb25abfaf2b4",
+    "steamDBRating": 67.86,
+    "steamDBUrl": "https://steamdb.info/app/3094480/",
+    "steamUrl": "https://store.steampowered.com/app/3094480/",
+    "urlSlug": "ae5d8fc5541f42eea105f64121dba382"
+  },
+  {
+    "epicId": "db1202a30c5541dd99cdf54c918a9348",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f",
+    "freeDate": "2026-10-15",
+    "gameTitle": "Agent A: A puzzle in disguise",
+    "mappingSlug": "agent-a-a-puzzle-in-disguise-42fe5f",
+    "metacriticScore": 79,
+    "metacriticUrl": "https://www.metacritic.com/game/agent-a-a-puzzle-in-disguise/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "45f125178d8c4bc18e1827a307bcc5c0",
+    "steamDBRating": 92.03,
+    "steamDBUrl": "https://steamdb.info/app/801480/",
+    "steamUrl": "https://store.steampowered.com/app/801480/",
+    "urlSlug": "agent-a-a-puzzle-in-disguise"
   }
 ]
