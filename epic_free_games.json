@@ -15485,5 +15485,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "ff70f2b02fd842f8961f7729af25cda9"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/home-android-9ba07f",
+    "freeDate": "2026-10-22",
+    "gameTitle": "Home - A Unique Horror Adventure",
+    "mappingSlug": "home-android-9ba07f",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/home-ios-69cfcf",
+    "freeDate": "2026-10-22",
+    "gameTitle": "Home - A Unique Horror Adventure",
+    "mappingSlug": "home-ios-69cfcf",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
   }
 ]
