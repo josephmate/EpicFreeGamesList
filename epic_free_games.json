@@ -15451,5 +15451,39 @@
     "steamDBUrl": "https://steamdb.info/app/801480/",
     "steamUrl": "https://store.steampowered.com/app/801480/",
     "urlSlug": ""
+  },
+  {
+    "epicId": "6aab3ddef4f84fbc9dd81c60f9d8549c",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sker-ritual-aac702",
+    "freeDate": "2026-10-22",
+    "gameTitle": "Sker Ritual",
+    "mappingSlug": "sker-ritual-aac702",
+    "metacriticScore": 55,
+    "metacriticUrl": "https://www.metacritic.com/game/sker-ritual/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "156c17659ff0468bb533eba104a1f19f",
+    "steamDBRating": 79.08,
+    "steamDBUrl": "https://steamdb.info/app/1492070/",
+    "steamUrl": "https://store.steampowered.com/app/1492070/",
+    "urlSlug": "8dbc8d70481d4c0b8412d3aec76a35a1"
+  },
+  {
+    "epicId": "06190191cede42afb633fe89ef08c27e",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/home-19212a",
+    "freeDate": "2026-10-22",
+    "gameTitle": "Home - A Unique Horror Adventure",
+    "mappingSlug": "home-19212a",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "c7e46cce751b40b6937e878abd0fc531",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "ff70f2b02fd842f8961f7729af25cda9"
   }
 ]
