@@ -15536,5 +15536,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "f2dae10b3c45425ba1e91b4604262283"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/galaxy-kart-android-135821",
+    "freeDate": "2026-10-29",
+    "gameTitle": "Galaxy Kart",
+    "mappingSlug": "galaxy-kart-android-135821",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/galaxy-kart-ios-0cfcc7",
+    "freeDate": "2026-10-29",
+    "gameTitle": "Galaxy Kart",
+    "mappingSlug": "galaxy-kart-ios-0cfcc7",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
   }
 ]
