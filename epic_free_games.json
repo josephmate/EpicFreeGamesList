@@ -15519,5 +15519,22 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "4e469c7d8bbf49bcabc2c07127d3d946",
+    "epicRating": 4.51,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
+    "freeDate": "2026-10-29",
+    "gameTitle": "Sorry We're Closed",
+    "mappingSlug": "sorry-were-closed-724c86",
+    "metacriticScore": 83,
+    "metacriticUrl": "https://www.metacritic.com/game/sorry-were-closed/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "489af623d8284d518502f8ee9d33b828",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "f2dae10b3c45425ba1e91b4604262283"
   }
 ]
