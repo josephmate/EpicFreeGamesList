@@ -15604,5 +15604,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "7ca01ab906ad4eff92d4ed1efa5fbfcb"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/chants-of-sennaar-android-681b80",
+    "freeDate": "2026-11-06",
+    "gameTitle": "Chants of Sennaar",
+    "mappingSlug": "chants-of-sennaar-android-681b80",
+    "metacriticScore": 86,
+    "metacriticUrl": "https://www.metacritic.com/game/chants-of-sennaar/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/chants-of-sennaar-ios-6bd071",
+    "freeDate": "2026-11-06",
+    "gameTitle": "Chants of Sennaar",
+    "mappingSlug": "chants-of-sennaar-ios-6bd071",
+    "metacriticScore": 86,
+    "metacriticUrl": "https://www.metacritic.com/game/chants-of-sennaar/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
   }
 ]
