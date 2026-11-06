@@ -15570,5 +15570,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "a9748abde1c94b66aae5250bb9fc5503",
+    "epicRating": 4.02,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
+    "freeDate": "2026-11-05",
+    "gameTitle": "Idle Champions of the Forgotten Realms",
+    "mappingSlug": "idle-champions-of-the-forgotten-realms",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "idle-champions-of-the-forgotten-realms",
+    "sandboxId": "7e508f543b05465abe3a935960eb70ac",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "banegeneralaudience"
+  },
+  {
+    "epicId": "3be0a0d8479946d78f60d90c9442a0b4",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/flotsam-266287",
+    "freeDate": "2026-11-05",
+    "gameTitle": "Flotsam",
+    "mappingSlug": "flotsam-266287",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "27e33143fc9e4de8bbf76782292933d4",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "7ca01ab906ad4eff92d4ed1efa5fbfcb"
   }
 ]
