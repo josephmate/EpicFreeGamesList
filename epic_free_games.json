@@ -15638,5 +15638,22 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "9975548b6d404a94b8a9bdb34cad49e9",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/knightica-3be45c",
+    "freeDate": "2026-11-12",
+    "gameTitle": "Knightica",
+    "mappingSlug": "knightica-3be45c",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "02d659f31e1c43a78c43fd9fd9edc089",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "72b46f5d95624fd5b7e7d81b7dcaead1"
   }
 ]
