@@ -15655,5 +15655,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "72b46f5d95624fd5b7e7d81b7dcaead1"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/knightica-android-ad8285",
+    "freeDate": "2026-11-13",
+    "gameTitle": "Knightica",
+    "mappingSlug": "knightica-android-ad8285",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/knightica-ios-b4550a",
+    "freeDate": "2026-11-13",
+    "gameTitle": "Knightica",
+    "mappingSlug": "knightica-ios-b4550a",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
   }
 ]
