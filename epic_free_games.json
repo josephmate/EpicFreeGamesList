@@ -15689,5 +15689,22 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "1f9a12b06b4f437790b6913ad136a08c",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08",
+    "freeDate": "2026-11-19",
+    "gameTitle": "Mark of the Deep",
+    "mappingSlug": "mark-of-the-deep-f7dc08",
+    "metacriticScore": 81,
+    "metacriticUrl": "https://www.metacritic.com/game/mark-of-the-deep/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "3d6441ab9d4246208bc97d7babf664b5",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "2fd257a6cd80405a833f9004ff07993a"
   }
 ]
