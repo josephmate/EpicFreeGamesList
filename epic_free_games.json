@@ -15706,5 +15706,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "2fd257a6cd80405a833f9004ff07993a"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/lonesome-village-android-15d165",
+    "freeDate": "2026-11-20",
+    "gameTitle": "Lonesome Village",
+    "mappingSlug": "lonesome-village-android-15d165",
+    "metacriticScore": 71,
+    "metacriticUrl": "https://www.metacritic.com/game/lonesome-village/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/lonesome-village-ios-2a807f",
+    "freeDate": "2026-11-20",
+    "gameTitle": "Lonesome Village",
+    "mappingSlug": "lonesome-village-ios-2a807f",
+    "metacriticScore": 71,
+    "metacriticUrl": "https://www.metacritic.com/game/lonesome-village/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
   }
 ]
