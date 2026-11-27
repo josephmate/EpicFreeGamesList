@@ -15740,5 +15740,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": ""
+  },
+  {
+    "epicId": "0623017cf9f341efbe07557f46beb4e8",
+    "epicRating": 3.63,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+    "freeDate": "2026-11-26",
+    "gameTitle": "Firestone – Idle Clicker Online RPG",
+    "mappingSlug": "firestone-online-idle-rpg-bfd04b",
+    "metacriticScore": 0,
+    "metacriticUrl": "",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "bda8d2133655435982b9118972792328",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "1185abfe7c554a1e8c528aba37bf3d0f"
+  },
+  {
+    "epicId": "f0a333114190492c84a9decd2bb43875",
+    "epicRating": 3.69,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362",
+    "freeDate": "2026-11-26",
+    "gameTitle": "Bread and Fred",
+    "mappingSlug": "bread-and-fred-1db362",
+    "metacriticScore": 63,
+    "metacriticUrl": "https://www.metacritic.com/game/bread-and-fred/",
+    "platform": "pc",
+    "productSlug": "",
+    "sandboxId": "7e95faaa77054b80828dd7d64bbeb4ff",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": "3435439bd89847608f5299fb297d1466"
   }
 ]
