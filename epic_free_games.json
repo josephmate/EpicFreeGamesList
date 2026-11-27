@@ -15774,5 +15774,39 @@
     "steamDBUrl": "",
     "steamUrl": "",
     "urlSlug": "3435439bd89847608f5299fb297d1466"
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/a-tiny-sticker-tale-android-7c58b7",
+    "freeDate": "2026-11-27",
+    "gameTitle": "A Tiny Sticker Tale",
+    "mappingSlug": "a-tiny-sticker-tale-android-7c58b7",
+    "metacriticScore": 78,
+    "metacriticUrl": "https://www.metacritic.com/game/a-tiny-sticker-tale/",
+    "platform": "android",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
+  },
+  {
+    "epicId": "",
+    "epicRating": 0,
+    "epicStoreLink": "https://store.epicgames.com/en-US/p/a-tiny-sticker-tale-ios-3aad92",
+    "freeDate": "2026-11-27",
+    "gameTitle": "A Tiny Sticker Tale",
+    "mappingSlug": "a-tiny-sticker-tale-ios-3aad92",
+    "metacriticScore": 78,
+    "metacriticUrl": "https://www.metacritic.com/game/a-tiny-sticker-tale/",
+    "platform": "ios",
+    "productSlug": "",
+    "sandboxId": "",
+    "steamDBRating": 0,
+    "steamDBUrl": "",
+    "steamUrl": "",
+    "urlSlug": ""
   }
 ]
